@@ -1,0 +1,19 @@
+{
+  "name": "dankoe-archive",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "dankoe.zhanglearning.com",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": "./site",
+    "binding": "ASSETS",
+    // 站内链接一律显式写 .html；默认的 auto-trailing-slash 会把 /v/x.html 307 到 /v/x，
+    // 白白多一跳还会和本地验收的 URL 不一致
+    "html_handling": "none"
+  }
+}

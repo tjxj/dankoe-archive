@@ -99,6 +99,23 @@ build 会做自检——所有本地 `src` / `href` 指向的文件必须真实�
 
 ---
 
+## 部署（Cloudflare）
+
+站点是纯静态产物，部署到 Cloudflare Workers 静态资产并绑了自定义域名：
+
+- 线上地址：**https://dankoe.zhanglearning.com/**（备用：https://dankoe-archive.venn5708.workers.dev）
+- 配置见 `wrangler.jsonc`：assets 目录 `site/`；`html_handling: "none"` 保证站内显式 `.html` 链接原样 200（默认的 auto-trailing-slash 会 307 掉一跳）
+- `worker.js` 只有一个职责：把根路径 `/` 送到 `index.html`（`html_handling: "none"` 下根路径不会自动映射）
+
+加完新视频、跑完 `run.py all` 之后重新部署：
+
+```bash
+python3 run.py build
+wrangler deploy          # 首次需 wrangler login（浏览器 OAuth）
+```
+
+GitHub 仓库：`tjxj/dankoe-archive`（私有；不含 `site/` 构建产物与 `data/cache/`，克隆后 `run.py build` 即可重建）。
+
 ## 目录结构
 
 ```
