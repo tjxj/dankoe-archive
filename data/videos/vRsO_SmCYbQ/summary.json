@@ -1,0 +1,502 @@
+{
+  "title_zh": "创造力枯竭的根源与七日恢复协议",
+  "one_liner": "创造力不是天赋，而是被思维窄化埋没的意识状态；通过减少刺激、拥抱无聊和设定项目，七天可恢复。",
+  "thesis": "创造力并非天赋，而是一种可训练的意识状态，其枯竭源于思维窄化。现代社会通过教育、工作制度和信息过载系统性地窄化思维，扼杀好奇心与创意。通过七日恢复协议（减少输入、消化信息、停止工作、无计划创作）和设定有意义项目，可以重新激活大脑的默认模式网络和网状激活系统，恢复创造力。",
+  "overview_cards": [
+    {
+      "title": "思维窄化三要素",
+      "body": "演讲者指出创造力被埋没是因为思维窄化，归因于三个要素：条件反射（外部反馈让我们失去新奇感）、社会系统（教育和工作制度固化路径）、信息过载（无节制摄入导致思维肥胖）。这三者共同导致思维狭窄，创造力枯竭。",
+      "accent": "ink"
+    },
+    {
+      "title": "创造力源于无聊",
+      "body": "真正的创造力瓶颈不是信息输入不足，而是过度刺激导致的假性无聊。主动制造无聊能激活大脑默认模式网络，提升多巴胺受体敏感度，让简单事物重新变得愉悦。无聊是通往新颖想法的大门，是进入创作心流的前奏。",
+      "accent": "blue"
+    },
+    {
+      "title": "七日恢复协议",
+      "body": "一个为期七天的创意恢复计划：前三天减少信息输入，限制工作，每日散步；后四天消化信息，慢读、静坐；第五六天停止工作，重燃生活兴趣；第七天进行无计划创作，并延迟分享。核心是通过行为改变解决精神过载。",
+      "accent": "green"
+    },
+    {
+      "title": "有意义项目驱动创意",
+      "body": "大脑的网状激活系统会根据目标筛选信息。要持续激发创造力，需要一个有意义的项目作为框架。好项目需满足三个条件：对你而言未解决、真正重要、可分享。这样的项目能重新编程思维，让潜意识成为创意的磁铁。",
+      "accent": "ochre"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "创意枯竭是认知层面的思维阻塞",
+      "body": "创意枯竭不同于情绪倦怠，是纯粹的认知障碍，表现为无法思考、无法产生想法。这种状态直接影响创作者的工作质量。恢复的关键在于认识到创造力是一种可训练的意识状态，而非固定天赋。通过改变思维习惯，可以解除阻塞。",
+      "why": "区分认知阻塞与情绪倦怠，是正确诊断问题的前提。",
+      "quote_en": "It's not like a normal burnout where you're just emotionally fried. It's just cognitive, like you can't think, you can't generate ideas.",
+      "quote_zh": "它不像普通的倦怠，你只是情绪耗尽。它纯粹是认知层面的，你无法思考，无法产生想法。",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "条件反射是好奇心的敌人",
+      "body": "长期接受的外部反馈（父母、老师、同伴）使我们形成条件反射，失去对世界的新奇感。孩子们用新鲜眼光看世界，而成人被训练成按既定模式反应。要恢复创造力，需觉察并打破这些条件反射，重新培养对日常事物的好奇与惊奇。",
+      "why": "条件反射是思维窄化的第一要素，打破它是恢复创造力的起点。",
+      "quote_en": "The first is just conditioning. Conditioning is the enemy of wonder, because when you think of creativity, you think of children, you think of your younger self because children see the world through such fresh eyes.",
+      "quote_zh": "第一个就是条件反射。条件反射是好奇心的敌人，因为当你想到创造力时，你会想到孩子，想到你年幼的自己，因为孩子们用如此新鲜的眼光看待世界。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "社会系统固化思维路径",
+      "body": "教育、工作制度和宗教规范共同将人引导至单一默认路径：上学、找高薪工作、遵循特定信仰。这种系统通过评分和惩罚机制，迫使个体行为符合标准，导致20岁时大多数人思维同质化，失去自主选择人生道路的能力，创造力被扼杀。",
+      "why": "揭示社会结构如何系统性地窄化思维，是理解创造力丧失的宏观原因。",
+      "quote_en": "You must go to school. You must do your best to get a high paying job. You must praise this God, and if you disobey, you're going to hell.",
+      "quote_zh": "你必须上学。你必须尽力找高薪工作。你必须赞美这个上帝，如果你不服从，你就会下地狱。",
+      "frame_id": "f03",
+      "confidence": "high"
+    },
+    {
+      "title": "信息过载如同饮食过量",
+      "body": "大脑处理信息的能力有限，无节制摄入信息（如大量播客、社交媒体）会导致信息过载，损害思维健康。应像节制饮食一样管理信息摄入，进行有目的的消费，筛选能激发新想法的内容，而非盲目追求数量。",
+      "why": "信息过载是数字时代创造力枯竭的直接原因，提供具体的信息节食方法。",
+      "quote_en": "You have a set amount of information that you can digest and metabolize and actually use, and that's the problem.",
+      "quote_zh": "你所能消化、代谢并真正使用的信息量是固定的，这就是问题所在。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "真正的无聊激活突破性洞察",
+      "body": "创造力问题通常是输出端卡顿，而非输入不足。主动制造真正的无聊（而非慢性过度刺激后的麻木），能激活大脑默认模式网络，促使突破性洞察出现。无聊还能上调多巴胺受体，恢复对简单事物的愉悦感，为创作心流铺路。",
+      "why": "颠覆“信息越多越有创意”的常见误解，指出无聊的积极价值。",
+      "quote_en": "Boredom is a gateway into novelty novel ideas, new things.",
+      "quote_zh": "无聊是通往新颖想法、新事物的大门。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "七日恢复协议：前三天减少输入",
+      "body": "前三天进行大脑间歇性禁食：严格限制每日工作至4小时或设置结束闹钟；切断无意识信息源（如通勤播客、睡前刷手机），替换为静坐；每日进行无耳机、无手机的散步，激活大脑默认模式网络。这些行为改变是解决精神过载的根本。",
+      "why": "提供具体可操作的第一步，直接解决信息过载问题。",
+      "quote_en": "We're not doing a seven day fast, but we're doing some kind of intermittent fasting, some kind of deprive.",
+      "quote_zh": "我们不做七天禁食，但要做某种间歇性禁食，某种剥夺。",
+      "frame_id": "f08",
+      "confidence": "high"
+    },
+    {
+      "title": "有意义项目驱动创意",
+      "body": "大脑的网状激活系统（RAS）会根据目标自动筛选信息。要持续激发创造力，需要一个有意义的项目作为框架。好项目必须满足三个条件：对你而言未解决、真正重要、可分享。这样的项目能重新编程思维，让潜意识成为创意的磁铁，使世界重新充满灵感素材。",
+      "why": "解释为何即使恢复平静，仍需项目来引导创造力，提供选择项目的标准。",
+      "quote_en": "This phenomenon is the single most important catalyst for creativity. It's the reticular activating system in our brains.",
+      "quote_zh": "这种现象是创造力最重要的催化剂。它是大脑中的网状激活系统。",
+      "frame_id": "f14",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:00",
+      "title": "创意枯竭的认知本质",
+      "body": "演讲者描述创意枯竭是纯粹的认知阻塞，无法思考，不同于情绪倦怠。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "02:30",
+      "title": "创造力是意识状态",
+      "body": "提出创造力是可训练的意识状态，每个人都有，但被思维窄化埋没。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "05:44",
+      "title": "社会系统固化思维",
+      "body": "教育、工作制度等社会系统将人引导至单一路径，扼杀创造力。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "08:00",
+      "title": "信息过载损害思维",
+      "body": "用饮食类比说明大脑信息消化能力有限，无节制摄入导致思维肥胖。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "11:29",
+      "title": "创造力是输出问题",
+      "body": "指出多数人创意瓶颈在于输出端卡顿，而非信息输入不足。",
+      "frame_id": "f06"
+    },
+    {
+      "time": "14:00",
+      "title": "无聊激活洞察",
+      "body": "区分真正的无聊与慢性过度刺激，说明无聊如何提升多巴胺敏感度。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "17:14",
+      "title": "七日协议：减少输入",
+      "body": "提出前三天限制工作、切断信息源、每日散步，进行大脑间歇性禁食。",
+      "frame_id": "f08"
+    },
+    {
+      "time": "20:00",
+      "title": "消化信息与深度思考",
+      "body": "后四天通过慢读、静坐和观察散步，让大脑消化已有信息。",
+      "frame_id": "f10"
+    },
+    {
+      "time": "22:59",
+      "title": "停止工作，重燃兴趣",
+      "body": "第五六天不工作，通过不记笔记、真诚对话和延长散步恢复感知。",
+      "frame_id": "f11"
+    },
+    {
+      "time": "26:00",
+      "title": "无计划创作",
+      "body": "第七天进行无规则创作，并延迟至少24小时分享，保护创作初心。",
+      "frame_id": "f13"
+    },
+    {
+      "time": "28:44",
+      "title": "网状激活系统",
+      "body": "介绍大脑RAS如何根据目标筛选信息，成为创造力的催化剂。",
+      "frame_id": "f14"
+    },
+    {
+      "time": "31:00",
+      "title": "好项目的三个条件",
+      "body": "提出有意义项目必须未解决、对你重要、可分享，才能驱动创意。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "思维窄化三要素",
+      "body": "创造力被埋没的三大根源：条件反射（外部反馈让我们失去新奇感）、社会系统（教育和工作固化路径）、信息过载（无节制摄入导致思维肥胖）。用于诊断创造力枯竭的原因，从这三方面入手改变。",
+      "accent": "ink"
+    },
+    {
+      "title": "七日创意恢复协议",
+      "body": "一个为期七天的行为改变计划：前三天减少输入（限制工作、切断信息源、散步），后四天消化信息（慢读、静坐），第五六天停止工作并重燃兴趣，第七天无计划创作并延迟分享。两端：精神过载 → 创造力恢复。",
+      "accent": "green"
+    },
+    {
+      "title": "有意义项目三条件",
+      "body": "选择创意项目的标准：未解决（对你是挑战）、重要（情感投入）、可分享（能落地）。满足这三点的项目能激活网状激活系统，让潜意识成为创意磁铁。用于筛选值得投入的创作方向。",
+      "accent": "ochre"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "It's not like a normal burnout where you're just emotionally fried. It's just cognitive, like you can't think, you can't generate ideas.",
+      "zh": "它不像普通的倦怠，你只是情绪耗尽。它纯粹是认知层面的，你无法思考，无法产生想法。",
+      "context": "演讲者描述自己经历创意枯竭时的真实感受，强调其认知本质。"
+    },
+    {
+      "en": "The first is just conditioning. Conditioning is the enemy of wonder, because when you think of creativity, you think of children, you think of your younger self because children see the world through such fresh eyes.",
+      "zh": "第一个就是条件反射。条件反射是好奇心的敌人，因为当你想到创造力时，你会想到孩子，想到你年幼的自己，因为孩子们用如此新鲜的眼光看待世界。",
+      "context": "在分析思维窄化的第一个要素时，指出条件反射如何扼杀好奇心。"
+    },
+    {
+      "en": "Boredom is a gateway into novelty novel ideas, new things.",
+      "zh": "无聊是通往新颖想法、新事物的大门。",
+      "context": "在阐述无聊的积极作用时，强调其是突破性洞察的入口。"
+    },
+    {
+      "en": "You have a set amount of information that you can digest and metabolize and actually use, and that's the problem.",
+      "zh": "你所能消化、代谢并真正使用的信息量是固定的，这就是问题所在。",
+      "context": "用新陈代谢类比大脑信息处理能力，说明信息过载的根源。"
+    }
+  ],
+  "actions": [
+    "每天限制工作时间至4小时，设置结束闹钟后彻底停止工作。",
+    "切断一个无意识信息源（如通勤播客或睡前刷手机），替换为静坐10分钟。",
+    "每天进行一次不带手机和耳机的散步，观察周围环境细节。",
+    "选择一本非功利书籍，每天慢读一章，读到有感触的句子立即停下来思考。",
+    "在第七天进行一次无计划创作（写作、绘画、录音等），创作后至少24小时再分享。",
+    "确定一个对你重要且未解决的项目，作为创意的聚焦框架。"
+  ],
+  "questions": [
+    {
+      "q": "你最近一次感到真正无聊是什么时候？当时你做了什么？",
+      "why": "因为无聊是创造力的入口，现代人很少体验真正的无聊。"
+    },
+    {
+      "q": "你每天摄入的信息中，有多少是经过筛选、能激发新想法的？",
+      "why": "信息过载是创造力枯竭的直接原因，需要审视信息消费习惯。"
+    },
+    {
+      "q": "你目前有什么未解决但对你真正重要的项目？",
+      "why": "有意义项目是持续创造力的驱动力，没有项目思维会停滞。"
+    },
+    {
+      "q": "你的日常工作中，有多少时间是在进行无目的的漫游思考？",
+      "why": "创造力需要非效率导向的空间，而现代工作制度压制了这种空间。"
+    }
+  ],
+  "caveats": [
+    "视频中在第三分段（约11:29处）有明显的产品广告口播，推广为期14天的写作挑战和AI提示服务，这部分内容与核心论点关联较弱，总结中已尽量剥离。",
+    "视频提出的七日恢复协议基于演讲者个人经验，未提供科学研究引用，其有效性因人而异。",
+    "部分观点（如“创造力是输出问题”）可能过于简化，实际创作中信息输入与输出是动态平衡。",
+    "分段转录可能有个别术语不准确，如“影子工作”（shadow work）等，但核心意思保留。"
+  ],
+  "topics": [
+    "创造力",
+    "思维窄化",
+    "信息过载",
+    "无聊",
+    "七日恢复法",
+    "有意义项目"
+  ],
+  "_meta": {
+    "video_id": "vRsO_SmCYbQ",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "创意枯竭的原因与恢复方法",
+      "segment_summary": "演讲者描述了自己经历的创意枯竭状态，指出其本质是认知层面的思维阻塞，而非情绪性倦怠。他提出创造力是一种可训练的意识状态，因思维被‘窄化’而被埋没，并引入‘思维窄化三要素’作为分析框架，首提‘条件反射’是阻碍创造力的根源。",
+      "key_points": [
+        {
+          "title": "创意枯竭是认知层面的思维阻塞",
+          "body": "演讲者指出，他经历的创意枯竭并非情绪性倦怠，而是纯粹的认知障碍，表现为无法思考、无法产生想法。这种状态会直接影响创作者的工作质量，因为创造力是其最核心的资产。他强调，这种状态与过去思维流畅、灵感不断的状态形成鲜明对比，且持续时间越长，心理负担越重。",
+          "quote_en": "It's not like a normal burnout where you're just emotionally fried. It's just cognitive, like you can't think, you can't generate ideas.",
+          "quote_zh": "它不像普通的倦怠，你只是情绪耗尽。它纯粹是认知层面的，你无法思考，无法产生想法。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "创造力是可训练的意识状态，非天赋",
+          "body": "演讲者认为创造力不是与生俱来的天赋，而是一种可以通过练习恢复的意识状态。他指出，每个人都有这种能力，但长期被生活中的习惯和思维模式所埋没。创造力的本质是开放、放松的状态，能发现事物之间的联系、模式和可能性，而非凭空创造。",
+          "quote_en": "At its core, creativity is just a natural way of being. It's a state of consciousness. It's a capacity that everyone has.",
+          "quote_zh": "从根本上说，创造力只是一种自然的存在方式。它是一种意识状态。每个人都有这种能力。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "思维窄化是埋没创造力的根源",
+          "body": "演讲者提出，创造力被埋没是因为思维被‘窄化’，即思维变得狭窄、受限。他将这种窄化归因于三个因素，第一个是‘条件反射’（conditioning），即长期接受的外部反馈（如父母、老师、同伴）使我们失去了对世界的新奇感，从而阻碍了创造力的发挥。",
+          "quote_en": "The first is just conditioning. Conditioning is the enemy of wonder, because when you think of creativity, you think of children, you think of your younger self because children see the world through such fresh eyes.",
+          "quote_zh": "第一个就是条件反射。条件反射是好奇心的敌人，因为当你想到创造力时，你会想到孩子，想到你年幼的自己，因为孩子们用如此新鲜的眼光看待世界。",
+          "frame_id": "f02",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.0,
+        344.8
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "社会系统如何扼杀创造力",
+      "segment_summary": "演讲者指出，现代社会通过教育、工作制度和信息过载三重机制，将人固化在单一发展路径上，导致创造力丧失。他提出，创造力需要松散的信念、非效率导向的思考和有节制的信息摄入，而非一味追求生产力和信息量。",
+      "key_points": [
+        {
+          "title": "教育与社会系统固化思维路径",
+          "body": "演讲者认为，从学校教育到社会规范，整个系统设计的目的是将人引导至同一条默认路径：上学、找高薪工作、遵循特定信仰。这种系统通过评分和惩罚机制，迫使个体行为符合社会标准，最终导致20岁时大多数人思维、信念和行为高度同质化，失去自主选择人生道路的能力。",
+          "quote_en": "You must go to school. You must do your best to get a high paying job. You must praise this God, and if you disobey, you're going to hell.",
+          "quote_zh": "你必须上学。你必须尽力找高薪工作。你必须赞美这个上帝，如果你不服从，你就会下地狱。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "9到5工作制强化生产力至上，扼杀创造力",
+          "body": "演讲者指出，工业革命后兴起的9到5工作制将生产力奉为最高价值，使人成为只懂执行单一任务的专家，而非能创造整体方案的创业者。这种持续的‘落后感’和无形的截止日期，导致人们长期处于压力和思维狭窄状态，而创造力恰恰需要无用的漫游和无聊中的空间来孕育，这与效率至上的文化背道而驰。",
+          "quote_en": "The trap that I fall into and you probably fall into and everyone falls into, is that they just feel like they're falling behind.",
+          "quote_zh": "我陷入的陷阱，你可能也陷入，所有人都陷入的陷阱，就是他们只是觉得落后了。",
+          "frame_id": "f04",
+          "confidence": "high"
+        },
+        {
+          "title": "信息过载如同饮食过量，需有节制处理",
+          "body": "演讲者用新陈代谢类比大脑处理信息的能力，指出人脑有固定的消化和利用信息的上限。如果像社交媒体上的人一样无节制地摄入信息（如每周十期播客），就会‘信息过量’，导致无效积累。他主张信息摄入应是经过筛选、用于激发新想法的‘有目的的消费’，而非盲目追求数量，否则会像暴饮暴食一样损害思维健康。",
+          "quote_en": "You have a set amount of information that you can digest and metabolize and actually use, and that's the problem.",
+          "quote_zh": "你所能消化、代谢并真正使用的信息量是固定的，这就是问题所在。",
+          "frame_id": "f05",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        344.8,
+        689.7
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "创造力源于无聊而非信息输入",
+      "segment_summary": "本段指出创造力问题通常不是信息输入不足，而是过度刺激导致的假性无聊。真正的无聊能激活新想法、提升多巴胺受体敏感度，并创造清晰感，从而进入创作流状态。作者还介绍了一个为期14天的写作挑战，用AI提示帮助用户梳理思路、产出内容。",
+      "key_points": [
+        {
+          "title": "创造力是输出问题而非输入问题",
+          "body": "作者反对‘必须大量摄入信息才能有创意’的常见思维。他认为多数人冰箱里堆满垃圾食品（比喻低质信息），但真正的问题在于缺乏处理信息的能力。真正的创意瓶颈是输出端的卡顿，而非输入端的匮乏。他用‘你只能用冰箱里的东西做饭’的比喻说明，问题不在于食材少，而在于冰箱里全是垃圾。",
+          "quote_en": "Creativity is rarely an input problem.",
+          "quote_zh": "创造力很少是输入问题。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "真正的无聊激活突破性洞察",
+          "body": "作者区分了‘慢性过度刺激’和‘真正的无聊’。前者是精神耗尽后的麻木，后者是主动暂停后的心理状态。真正的无聊能激活新颖想法，促使大脑进行‘影子工作’（shadow work），即面对被压抑的自我。当理性思维停止强行解决问题时，突破性洞察就会出现。这种状态是进入创作‘心流’的前奏。",
+          "quote_en": "Boredom is a gateway into novelty novel ideas, new things.",
+          "quote_zh": "无聊是通往新颖想法、新事物的大门。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "无聊提升多巴胺敏感度，恢复感官体验",
+          "body": "当大脑长期被高强度刺激时，会进入‘享乐适应’（hedonic adaptation），导致多巴胺受体下调，需要更强刺激才能获得快感。通过主动制造无聊（剥夺刺激），会发生‘享乐逆转’，多巴胺受体重新上调。结果是简单事物重新变得愉悦，如能品尝食物的细微风味、欣赏天空细节，生活重新变得‘有电’。",
+          "quote_en": "The brain up regulates dopamine receptors when it's deprived.",
+          "quote_zh": "当大脑被剥夺时，会上调多巴胺受体。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "写作挑战帮助建立创作系统",
+          "body": "作者推出一个为期14天的‘构建两小时内容系统’挑战，每天提供一个AI提示。这些提示不直接生成内容，而是用于精炼思维、压力测试想法、学习结构化表达，帮助用户明确创作方向。最终目标是产出品牌定位、系列社交内容、以及长文初稿或成品，尤其强调长文写作在当前时代的价值。",
+          "quote_en": "You get 14 AI prompts, so one every day. And these aren't I prompts that write posts for you or write newsletters for you.",
+          "quote_zh": "你将获得14个AI提示，每天一个。这些提示不是为你写帖子或写通讯的。",
+          "frame_id": "f06",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        689.7,
+        1034.5
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "七日减压创意恢复法",
+      "segment_summary": "提出为期七天的创意恢复协议，通过减少信息输入、限制工作时间、每日散步和深度阅读来激活大脑默认模式网络。强调行为改变是解决精神过载的关键，前三天重点减少输入，后四天消化信息，通过慢读和静坐促进深层思考。",
+      "key_points": [
+        {
+          "title": "前三天减少信息输入",
+          "body": "主张在第一天和第二天减少信息输入，相当于对大脑进行间歇性禁食。具体措施包括：严格限制每日工作时间至四小时或设置结束闹钟后彻底停止工作；切断最主要的无意识信息来源，如通勤播客、睡前刷手机或晨间新闻，替换为静坐；每日进行无耳机、无手机的散步，以激活大脑默认模式网络，该网络负责随机洞察和自我反思，但无法在信息消费时激活。",
+          "quote_en": "We're not doing a seven day fast, but we're doing some kind of intermittent fasting, some kind of deprive.",
+          "quote_zh": "我们不做七天禁食，但要做某种间歇性禁食，某种剥夺。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "后四天消化信息与深度思考",
+          "body": "在第三天和第四天，重点转向消化已有信息。通过每日慢读一本书的一章，不追求完成，而是当某句话引发思考时立即停顿，深入思考其触动点。同时，每日静坐十分钟，不使用冥想App或引导呼吸，任由思绪自由流动，让大脑消化信息。散步时尝试真正观察周围环境，如人行道细节、树的结构或天空，以释放潜意识对背景任务的处理能力。",
+          "quote_en": "You're just trying to simply notice when a sentence makes you stop and think you're not reading past it.",
+          "quote_zh": "你只是想简单地注意到，当一句话让你停下来思考时，你没有继续读下去。",
+          "frame_id": "f10",
+          "confidence": "high"
+        },
+        {
+          "title": "行为改变是根本解决方案",
+          "body": "强调真正的改变源于行为改变，而非认知理解。指出人们常因未察觉自身问题而无法行动，视频的作用是提供意识之光。提出为期一周的承诺挑战，即使内容看似简单，也必须执行，因为不执行是缺乏创造力的原因之一。通过系统性行为调整，如限制工作、减少输入、散步和静坐，来缓解精神过载，从而恢复创造力。",
+          "quote_en": "The only way to solve a problem for good is to change your own behavior.",
+          "quote_zh": "解决一个问题的唯一永久方式是改变你自己的行为。",
+          "frame_id": "f09",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1034.5,
+        1379.4
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "第七天创作前的准备与方法",
+      "segment_summary": "本段提出为期七天的创意恢复协议，强调第五六天需停止工作、重燃对生活的兴趣，并在第七天进行无计划创作。主张通过不记笔记、深度对话和延长散步来恢复思维敏锐度，最终在无评判状态下创作，再延迟分享以保护创作初心。",
+      "key_points": [
+        {
+          "title": "第五六天：停止工作，重燃对生活的兴趣",
+          "body": "演讲者主张在第五六天不工作，目的是重新对生活产生兴趣。他指出，人们常因思维被琐事占据而觉得无趣，但若允许自己对日常事物（如相机）产生浪漫化想象，就能激发创造性思维。通过观察和思考技术背后的原理，可以自然产生新想法，从而打破思维僵局。",
+          "quote_en": "The goal or the intention is to just become interested in life again",
+          "quote_zh": "目标或意图就是重新对生活产生兴趣",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "第七天创作：无计划创作与延迟分享",
+          "body": "第七天的核心是无计划创作，如写作、绘画、录音或无食谱烹饪，唯一规则是不设限制。创作后需延迟至少24小时再分享，以避免外界评价影响创作初衷。这种分离生成性思维与评判性思维的做法，能让人从丰盈状态而非枯竭状态中产出内容。",
+          "quote_en": "make something with no plan. Write, draw, record a 20 minute voice note, or cook without a recipe. The only rule is no rules",
+          "quote_zh": "做点没有计划的事。写作、绘画、录20分钟语音备忘录，或无食谱烹饪。唯一的规则就是没有规则",
+          "frame_id": "f13",
+          "confidence": "high"
+        },
+        {
+          "title": "恢复期的三个具体行动",
+          "body": "在第五六天，演讲者提出三个具体行动：一是信任大脑，不记笔记，让重要想法自然浮现；二是进行一次真诚对话，避免功利性交流，专注倾听他人；三是延长散步，让身体和思维自然放松。这些行动旨在清除思维迷雾，让感知力恢复敏锐，为第七天的创作铺路。",
+          "quote_en": "three things for these days five and six. First, trust that ideas will come back. Second, have one real conversation. Third, extend the walk",
+          "quote_zh": "第五六天有三件事。第一，相信想法会回来。第二，进行一次真诚对话。第三，延长散步",
+          "frame_id": "f12",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1379.4,
+        1724.2
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "创意需有意义项目驱动",
+      "segment_summary": "本段提出，创造力依赖于大脑的网状激活系统（RAS），它会根据个人目标筛选信息。要激发创造力，必须有一个有意义的项目作为‘框架’，并满足三个条件：未解决、对你重要、可分享。否则思维如无舵之舟，无法产生真正创意。",
+      "key_points": [
+        {
+          "title": "网状激活系统筛选信息",
+          "body": "大脑中的网状激活系统（RAS）像一个目标导向的雷达，会自动过滤并放大与你当前重要目标相关的信息。例如，当你开始关注某类事物（如新单词、特定车型或创业），你会突然在各处频繁‘发现’它们，这是因为RAS在无意识中优先处理这些信息。这种机制是激发创造力的核心催化剂，它使你对世界产生新的感知，从而为创意提供素材。",
+          "quote_en": "This phenomenon is the single most important catalyst for creativity. It's the reticular activating system in our brains.",
+          "quote_zh": "这种现象是创造力最重要的催化剂。它是大脑中的网状激活系统。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "有意义项目是创意框架",
+          "body": "一个有意义的项目（如解决一个问题、创建一个产品或写一篇文章）能重新编程你的思维，使其聚焦于创造。没有这样的项目，你的思维就像无舵之舟，即使内心平静，也会停滞不前。项目作为‘框架’，决定了你关注什么、从何处获取灵感，从而激活潜意识中与之相关的创意资源。",
+          "quote_en": "You need a meaningful project to work on. You need a problem to solve. You need a business to build.",
+          "quote_zh": "你需要一个有意义的项目去完成。你需要一个要解决的问题。你需要一个要建立的事业。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "好项目需满足三个条件",
+          "body": "一个值得创造的项目必须满足三个条件：第一，它必须是对你而言尚未解决的挑战，这样你的潜意识才能成为相关想法的磁铁；第二，它必须对你真正重要，因为情感投入驱动模式识别能力，无关紧要的项目无法激活同样的雷达；第三，它必须可分享，即能以某种现实形式（文字、设计、对话等）呈现，从而将抽象想法落地并测试其价值。",
+          "quote_en": "It has to be something unsolved for you... It has to matter to you... It has to be shareable.",
+          "quote_zh": "它必须是你尚未解决的事情……它必须对你重要……它必须可以分享。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1724.2,
+        2069.0
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

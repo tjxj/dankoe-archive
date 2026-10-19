@@ -1,0 +1,490 @@
+{
+  "title_zh": "未来十年，整合多重兴趣成为数字文艺复兴人",
+  "one_liner": "AI时代应整合身心精神与职业，平衡模拟与数字生活，利用AI打造一人企业。",
+  "thesis": "现代工作模式是工业化产物，限制人的全面发展；AI时代将分化出拒绝者、全盘接受者和多维发展者。只有多维发展的“数字文艺复兴人”能通过平衡创造力与生产力，利用AI处理已知信息，专注探索未知，建立一人企业。这需要掌握人性心理、独特兴趣，并通过自主学习和迭代实践实现个人价值。",
+  "overview_cards": [
+    {
+      "title": "未来三类人：你属于哪一类？",
+      "body": "演讲者将未来人群分为三类：拒绝AI的“纯种人”，他们回避技术却常自欺；全盘接受AI的“自动化人”，外包决策导致大脑退化；以及多维发展的“数字文艺复兴人”，他们整合心智、身体、精神与职业，像游戏技能树一样平衡发展，避免单一维度过度强化带来的瓶颈。",
+      "accent": "red"
+    },
+    {
+      "title": "达尔文日程：高效创造者的秘密",
+      "body": "达尔文每天仅投入约三小时专注创作，分为两个时段，中间穿插家庭时间与阅读，下午散步反思。这种高强度专注与深度休息交替的模式，让他完成了19本书。演讲者认为，顶级创造者都遵循类似节奏，现代人应效仿这种工作与休息的平衡，而非长时间低效忙碌。",
+      "accent": "blue"
+    },
+    {
+      "title": "三层能力模型：技术贬值，人性为王",
+      "body": "成功需掌握三层能力：底层是理解人性与心理机制（如营销、销售），这是价值基础；中层是个人独特兴趣领域（如哲学、健身），组合产生独特性；顶层是技术技能（如编程、设计），但AI已使其贬值。未来应聚焦前两层，将技术交给AI，自己专注判断与创造。",
+      "accent": "green"
+    },
+    {
+      "title": "一人企业：利用AI构建个人事业",
+      "body": "未来成功者将建立“一人企业”，即个人结合AI代理，独立完成从创作到传播的全流程。互联网作为无许可杠杆，让普通人无需审批即可建立受众和销售产品。关键在于选择位于兴趣、能力与付费交集的技艺，并利用AI工具迭代构建产品，而非仅生成内容。",
+      "accent": "ink"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "未来三类人：纯种人、自动化人与数字文艺复兴人",
+      "body": "演讲者将未来人群分为三类：拒绝AI的“纯种人”回避技术但常自欺；全盘接受AI的“自动化人”外包决策导致大脑受损；以及多维发展的“数字文艺复兴人”。他主张成为第三类人，像游戏技能树一样平衡发展心智、身体、精神与职业，避免单一维度过度强化。这种多维整合能应对AI时代的不确定性。",
+      "why": "提供了清晰的未来人群分类，帮助定位自己的发展方向。",
+      "quote_en": "I want you to think of this like a skill tree in a video game. So when you play a video game, you have these abilities, and when you gain experience, you get points that you can put into each ability.",
+      "quote_zh": "我希望你把它想象成游戏里的技能树。当你玩游戏时，你有这些能力，当你获得经验，你会得到可以投入每个能力的点数。",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "现代工作模式的工业化根源与局限",
+      "body": "现代“工作”概念仅约250年历史，是工业革命的产物。它将人训练为执行单一重复任务的“奴隶”，教育沦为技能培训，削弱了独立思考和创业能力。历史上工匠、农民等是能独立运营系统的“自由人”。演讲者主张回归文艺复兴式多能人才模式，摆脱单一职业路径，利用AI管理操作流程，自己专注创造与判断。",
+      "why": "理解工作模式的历史局限性，有助于重新设计职业生涯。",
+      "quote_en": "The modern version of a job, what we call a job today, is only about 250 years old.",
+      "quote_zh": "现代意义上的工作，也就是我们今天所说的工作，大约只有250年的历史。",
+      "frame_id": "f03",
+      "confidence": "high"
+    },
+    {
+      "title": "AI擅长已知，人类专注未知",
+      "body": "AI擅长处理已知信息，但无法创造来自经验和探索未知的新颖信息。因此，人类应承担创造未知的工作，利用AI管理已知部分。最有价值的人将平衡两种极端：一边是无屏幕的模拟生活（读书、思考）以获得新想法；另一边是利用AI的高效生产力（构建、执行）。这种平衡带来完整的意识体验和意义感。",
+      "why": "明确了人类与AI的分工，指出了个人价值所在。",
+      "quote_en": "AI is good at known information, not unknown or novel information that comes from experience and diving into the unknown.",
+      "quote_zh": "AI擅长处理已知信息，而不是来自经验、深入未知领域所获得的未知或新颖信息。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "达尔文的高效创作节奏：每天3小时深度工作",
+      "body": "达尔文每天仅投入约三小时专注创作，分两个时段，中间穿插家庭时间与阅读，下午散步反思。这种高强度专注与深度休息交替的模式，使他完成19本书。演讲者认为这是顶级创造者的共性，现代人应效仿，而非长时间低效忙碌。关键在于安排无干扰的深度工作时段，并保证充分休息和反思。",
+      "why": "提供了具体的工作节奏模板，可立即应用提高产出。",
+      "quote_en": "Darwin worked roughly three hours of focus creative work per day across two sessions, and he has contributed vastly to humanity and wrote 19 books.",
+      "quote_zh": "达尔文每天大约投入三小时的专注创造性工作，分为两个时段，他为人类做出了巨大贡献，写了19本书。",
+      "frame_id": "f06",
+      "confidence": "high"
+    },
+    {
+      "title": "选择核心技艺的三重标准",
+      "body": "个人必须选择一个核心技艺，位于三个交集：你真正关心的领域、你具备独特能力的领域、以及他人愿意为此付费的领域。只有满足这三重条件，才能建立不可替代的技能组合。演讲者强调，将兴趣与人性心理机制结合，再叠加技术工具，能形成独特竞争力，例如“健壮的哲学家”比空谈哲学家更有价值。",
+      "why": "提供了选择职业方向的实用框架，避免盲目跟风。",
+      "quote_en": "Your craft lives at the intersection of what you care about, what you can uniquely do, and what others are willing to pay you for.",
+      "quote_zh": "你的技艺存在于你关心的、你能独特做到的、以及他人愿意为你付费的三者交集处。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "三层能力模型：人性、兴趣、技术",
+      "body": "成功需掌握三层能力：底层是人性与心理机制（如营销、销售、写作），这是价值基础，因为人们感知的价值主观且变化；中层是个人独特兴趣领域（如哲学、健身），组合产生独特性；顶层是技术技能（如编程、设计），但AI已使其贬值。未来应聚焦前两层，将技术交给AI，自己专注判断与创造，并通过自主学习以目标为导向验证知识。",
+      "why": "提供了能力发展的优先级框架，避免在贬值技能上浪费时间。",
+      "quote_en": "Layer one is a foundation of human nature or psychology. So marketing, sales, writing, speaking, or just psychology itself, it's understanding the mechanics of human attention and how what people perceive as valuable is highly subjective and changes as the world does.",
+      "quote_zh": "第一层是人性或心理学的基础。营销、销售、写作、演讲或心理学本身，就是理解人类注意力的机制，以及人们所感知的价值高度主观且随世界变化。",
+      "frame_id": "f08",
+      "confidence": "high"
+    },
+    {
+      "title": "互联网作为无许可杠杆",
+      "body": "互联网是“无许可的杠杆”，意味着无需审批即可建立受众、开展业务或销售产品。这为个人提供了高自主权的路径。演讲者强调，当前的注意力集中在社交媒体上，因此这是普通人获取关注的最高效渠道。通过建立个人品牌作为高杠杆载体，分享有价值内容，吸引受众，实现独立收入，尤其适合没有资金或起点的人。",
+      "why": "解释了为什么互联网是普通人实现独立的最佳工具。",
+      "quote_en": "The internet is permissionless leverage. You don't need approval to build an audience or start a business or sell a product.",
+      "quote_zh": "互联网是无许可的杠杆。你不需要批准就能建立受众、开展业务或销售产品。",
+      "frame_id": "f11",
+      "confidence": "high"
+    },
+    {
+      "title": "用AI需迭代与高标准：初稿不是终稿",
+      "body": "AI生成内容质量差，是因为用户将初稿当作终稿。必须认识到，AI输出需要反复微调每一个设计、文字、句子等细节。用户应将AI视为与自己智力和野心相匹配的工具，而非天才。最佳学习方式是尝试用AI自动化自己的工作，理解自动化边界，然后基于自身经验指导AI迭代，直至达到高标准。第一版产品必然粗糙，关键在于持续迭代。",
+      "why": "纠正了常见AI使用误区，提供了提升AI输出质量的具体方法。",
+      "quote_en": "You don't understand that you still have to tweak every little design, feature, word, sentence, or whatever else you are having AI do.",
+      "quote_zh": "你不懂你仍然需要调整AI所做的一切细节，包括设计、功能、文字、句子等。",
+      "frame_id": "f14",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:00",
+      "title": "引入：未来三类人",
+      "body": "演讲者开场提出未来将分化为三类人：纯种人、自动化人和数字文艺复兴人。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "02:30",
+      "title": "纯种人与自动化人的问题",
+      "body": "分析前两类人的问题：拒绝AI者常自欺，全盘接受者外包决策损害大脑。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "06:00",
+      "title": "技能树比喻：多维发展",
+      "body": "用游戏技能树比喻说明多维发展的重要性，避免单一维度过度强化。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "10:00",
+      "title": "现代工作模式的历史局限",
+      "body": "指出现代工作概念仅250年历史，工业化模式限制人类潜能。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "14:00",
+      "title": "AI与人类的分工：已知与未知",
+      "body": "提出AI擅长已知信息，人类应专注未知，平衡模拟与数字生活。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "18:00",
+      "title": "达尔文的高效工作节奏",
+      "body": "介绍达尔文每天3小时深度工作节奏，强调高效创造需充分休息。",
+      "frame_id": "f06"
+    },
+    {
+      "time": "22:00",
+      "title": "一人企业与核心技艺选择",
+      "body": "主张建立一人企业，选择位于兴趣、能力与付费交集的技艺。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "26:00",
+      "title": "三层能力模型",
+      "body": "讲解三层能力模型：人性心理为基础，兴趣组合创造独特性，技术技能已贬值。",
+      "frame_id": "f08"
+    },
+    {
+      "time": "30:00",
+      "title": "互联网杠杆与利用AI构建",
+      "body": "强调互联网是无许可杠杆，可利用AI构建软件、落地页等产品。",
+      "frame_id": "f11"
+    },
+    {
+      "time": "34:00",
+      "title": "用AI需迭代与高标准",
+      "body": "指出使用AI必须迭代，设定高标准，最佳学习方式是尝试自动化自己的工作。",
+      "frame_id": "f14"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "纯种人 vs 自动化人 vs 数字文艺复兴人",
+      "body": "这个框架描绘了面对AI的三种态度：一端是完全拒绝技术的“纯种人”，另一端是全盘接受、外包决策的“自动化人”。中间是整合身心精神与职业，批判性使用技术的“数字文艺复兴人”。用于自我定位，避免极端，找到平衡发展路径。",
+      "accent": "red"
+    },
+    {
+      "title": "已知信息 vs 未知信息",
+      "body": "AI擅长处理已知、重复的信息，而人类的价值在于探索未知、创造新颖信息。这个框架用于分工：将已知部分交给AI，自己专注从经验和探索中获得新想法，并利用AI实现。两端是已知（AI领域）和未知（人类领域），平衡两者带来最大价值。",
+      "accent": "blue"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "The modern version of a job, what we call a job today, is only about 250 years old.",
+      "zh": "现代意义上的工作，也就是我们今天所说的工作，大约只有250年的历史。",
+      "context": "在讨论现代工作模式的局限性时，演讲者指出其历史短暂，是工业革命的产物。"
+    },
+    {
+      "en": "AI is good at known information, not unknown or novel information that comes from experience and diving into the unknown.",
+      "zh": "AI擅长处理已知信息，而不是来自经验、深入未知领域所获得的未知或新颖信息。",
+      "context": "在说明AI与人类分工时，强调人类独特价值在于探索未知。"
+    },
+    {
+      "en": "Your craft lives at the intersection of what you care about, what you can uniquely do, and what others are willing to pay you for.",
+      "zh": "你的技艺存在于你关心的、你能独特做到的、以及他人愿意为你付费的三者交集处。",
+      "context": "在指导如何选择核心技艺时，提出三重标准框架。"
+    },
+    {
+      "en": "The best way to learn AI is to try to automate yourself out of work.",
+      "zh": "学习AI的最佳方式是尝试用AI把自己自动化掉。",
+      "context": "在讨论如何有效学习AI时，建议从自动化自身工作开始，理解AI能力边界。"
+    }
+  ],
+  "actions": [
+    "列出你所有的兴趣和技能，找出两到三个可以结合的领域，形成一个独特组合。",
+    "选择一个核心技艺，用三重标准（关心、擅长、付费）评估，确定你的发展方向。",
+    "尝试用AI工具（如Claude）构建一个简单的落地页或待办事项应用，体验从提问到迭代的全过程。",
+    "重新安排你的工作日，模仿达尔文节奏：设定两段各1-2小时的深度工作时间，中间安排休息和反思。",
+    "开始在社交媒体（如Twitter、Instagram）上分享你兴趣领域的见解，每周至少发布两次有价值的内容。",
+    "审视你目前的工作任务，识别哪些可以自动化，尝试用AI替代其中一项，记录效果并迭代。"
+  ],
+  "questions": [
+    {
+      "q": "你的兴趣组合中，哪些可以像“健壮的哲学家”一样产生独特价值？",
+      "why": "帮助你发现个人独特定位，避免平庸。"
+    },
+    {
+      "q": "你目前的工作模式是否包含深度工作与充分休息的交替？如果没有，如何调整？",
+      "why": "评估自己的生产力模式，向高效创造者靠拢。"
+    },
+    {
+      "q": "你在使用AI时，是直接接受初稿还是进行多轮迭代？最近一次使用AI，你迭代了几次？",
+      "why": "反思AI使用习惯，提高输出质量。"
+    }
+  ],
+  "caveats": [
+    "视频中可能包含对频道主个人产品（如creator bootcamp、AI工具eden.so）的推广，但分段结果中未明确提及具体口播内容，需注意潜在广告。",
+    "分段结果基于AI转录和总结，可能存在细节遗漏或理解偏差，尤其是涉及具体操作步骤的部分。",
+    "视频发布日期为2026年，内容可能包含对未来的预测，其准确性尚未验证。",
+    "部分引用可能因转录误差与原话有细微出入，建议结合原视频确认。"
+  ],
+  "topics": [
+    "AI时代",
+    "多维发展",
+    "一人企业",
+    "数字文艺复兴",
+    "自主学习",
+    "个人品牌"
+  ],
+  "_meta": {
+    "video_id": "pmQhqVLVApw",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "未来三类人及多维生存策略",
+      "segment_summary": "演讲者提出未来将分化为三类人：拒绝AI的‘纯种人’、全盘接受AI的‘自动化人’，以及第三种多维发展的‘数字文艺复兴人’。他主张通过整合心智、身体、精神与职业四个维度，避免单一维度过度发展，以应对AI时代的不确定性。",
+      "key_points": [
+        {
+          "title": "第一类人：拒绝AI的‘纯种人’及其问题",
+          "body": "演讲者指出，第一类人是拒绝AI的‘纯种人’，他们标榜‘纯净’，回避技术，常以自然或无屏幕生活为借口，实则可能过度依赖屏幕。他们未意识到使用互联网和社交媒体本身就在推动AI发展。这种群体往往缺乏批判性思考，可能只是跟风潮流，而非真正严肃的立场。这种拒绝外部世界的行为，与历史上某些过度强调精神的群体相似，最终会限制自身发展。",
+          "quote_en": "The purists in the context of today's world are the ones who reject AI. They want nothing to do with it, and they retreat to simplicity or nature or screen free living when they're usually the ones who are on their screens the most.",
+          "quote_zh": "当今世界中的‘纯种人’是那些拒绝AI的人。他们不想与之有任何关系，退回到简单、自然或无屏幕的生活，而他们通常正是最常使用屏幕的人。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "第二类人：全盘接受AI的‘自动化人’及其风险",
+          "body": "第二类人是‘自动化人’或‘赛博格’，他们将所有决策外包给技术，毫无批判性地采用科技，导致大脑受损。他们也热衷于生物技术如肽类药物，追求极致优化，厌恶摩擦，对生活每个环节都进行自动化。这种过度依赖外部技术的行为，使其忽视了内在世界，如思维、情感和信念，从而破坏了个人潜力的全面发展。",
+          "quote_en": "They're the ones that outsource every decision. They fully adopt tech without any critical thought, and it ends up ruining their brain.",
+          "quote_zh": "他们将每一个决定都外包出去。他们毫无批判性地完全采用技术，最终导致大脑受损。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "第三类人：多维发展的‘数字文艺复兴人’",
+          "body": "演讲者主张成为第三类人——多维发展的‘数字文艺复兴人’，即整合心智、身体、精神与职业四个维度。他借用游戏技能树的比喻说明，若只强化单一能力（如金钱或精神），在现实世界中会遭遇瓶颈，最终需发展其他维度。例如，精神再高深，若身体虚弱或无经济基础，仍会受苦。因此，成功在于平衡发展，而非极端选择。",
+          "quote_en": "I want you to think of this like a skill tree in a video game. So when you play a video game, you have these abilities, and when you gain experience, you get points that you can put into each ability.",
+          "quote_zh": "我希望你把它想象成游戏里的技能树。当你玩游戏时，你有这些能力，当你获得经验，你会得到可以投入每个能力的点数。",
+          "frame_id": "f01",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.0,
+        359.7
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "反对单一职业路径，拥抱多才多艺的复兴",
+      "segment_summary": "演讲者指出现代‘工作’概念仅存250年，其工业化模式导致教育沦为训练，扼杀创造力。他主张回归文艺复兴式多能人才模式，利用AI处理已知信息，自身专注未知探索与判断，实现个人价值最大化。",
+      "key_points": [
+        {
+          "title": "现代工作模式是工业化的产物，限制了人类潜能",
+          "body": "演讲者认为现代‘工作’概念仅有约250年历史，是工业革命的产物，它将人训练为执行单一重复任务的‘奴隶’，而非全面发展的人。这种模式使教育变成技能培训，削弱了独立思考和创业能力，导致人们感到可替代。他指出，历史上如工匠、农民、海盗等角色，都是能独立运营整个系统的‘自由人’，这与现代分工形成鲜明对比。",
+          "quote_en": "The modern version of a job, what we call a job today, is only about 250 years old.",
+          "quote_zh": "现代意义上的工作，也就是我们今天所说的工作，大约只有250年的历史。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "AI时代应成为多维人才，利用AI处理已知，专注创造未知",
+          "body": "演讲者主张，AI擅长处理‘已知信息’，但无法创造‘未知或新颖信息’，这部分工作应由人类承担。他建议人们成为‘新文艺复兴人’，选择自己的‘工艺’，利用AI管理整个操作流程，从而专注于品味、方向和判断。这种模式使个体能整合创造力与生产力，成为不可替代的‘行走的矛盾体’。",
+          "quote_en": "AI is good at known information, not unknown or novel information that comes from experience and diving into the unknown.",
+          "quote_zh": "AI擅长处理已知信息，而不是来自经验、深入未知领域所获得的未知或新颖信息。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "未来价值在于平衡两种极端生活方式",
+          "body": "演讲者提出，最有价值的人将生活在两个极端之间：一边是纯粹的创造力，如在公园读书、无屏幕的模拟生活，以获得新想法；另一边是利用AI技术的高效生产力，如在电脑前专注工作。这种平衡能带来完整的意识体验和意义感，避免扁平化的生活方式。",
+          "quote_en": "They seamlessly balance the analog lifestyle of no screens, reading books, maintaining their humanity, and the AI native productive lifestyle.",
+          "quote_zh": "他们无缝平衡着无屏幕、读书、保持人性的模拟生活方式，以及利用AI技术的高效生产力生活方式。",
+          "frame_id": "f04",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        359.7,
+        719.4
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "达尔文日程与未来创作者模式",
+      "segment_summary": "通过分析达尔文的每日工作与休息节奏，说明高效创造力需要专注与深度休息的交替。提出未来成功者将采用‘一人企业’模式，结合AI工具，以多技能服务于单一核心事业，实现个人价值最大化。",
+      "key_points": [
+        {
+          "title": "达尔文的高效创作节奏",
+          "body": "达尔文每天仅投入约三小时的专注创作，分为两个时段，中间穿插家庭时间与阅读，下午则通过散步进行思维反思。这种高强度专注与深度休息交替的模式，使他完成19本书的惊人产出。演讲者认为这种节奏是顶级创造者的共性，也是现代人应效仿的高效工作模式。",
+          "quote_en": "Darwin worked roughly three hours of focus creative work per day across two sessions, and he has contributed vastly to humanity and wrote 19 books.",
+          "quote_zh": "达尔文每天大约投入三小时的专注创造性工作，分为两个时段，他为人类做出了巨大贡献，写了19本书。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "未来创作者的‘一人企业’模式",
+          "body": "演讲者主张未来的成功者将建立‘一人企业’，即个人结合AI等技术代理，独立完成从创作到传播的全流程。这种模式允许个人以10到20人的产出效率，单枪匹马构建自己的事业，或仅靠极小团队实现巨大成果，从而摆脱传统职场的束缚。",
+          "quote_en": "These people will have a one human business, one human with technology agents, AI at their side.",
+          "quote_zh": "这些人将拥有一个‘一人企业’，即一个人加上技术代理，AI在身边。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "选择核心技艺的三重标准",
+          "body": "演讲者强调，个人必须选择一个核心技艺，该技艺需位于三个交集：你真正关心的领域、你具备独特能力的领域、以及他人愿意为此付费的领域。只有满足这三重条件，才能建立不可替代的技能组合，从而在竞争中脱颖而出。",
+          "quote_en": "Your craft lives at the intersection of what you care about, what you can uniquely do, and what others are willing to pay you for.",
+          "quote_zh": "你的技艺存在于你关心的、你能独特做到的、以及他人愿意为你付费的三者交集处。",
+          "frame_id": "f07",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        719.4,
+        1079.0
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "三层能力模型与自主学习",
+      "segment_summary": "演讲者提出成功需掌握三层能力：第一层是理解人性与心理机制，第二层是个人独特兴趣领域，第三层是技术技能。他强调技术技能因AI而贬值，真正的价值在于结合兴趣与心理洞察，并通过自主学习和实践验证知识。",
+      "key_points": [
+        {
+          "title": "第一层：人性与心理机制是价值基础",
+          "body": "演讲者认为，理解人类注意力机制和价值感知的主观性是成功的基础。他指出，当AI生成内容泛滥时，同质化内容会迅速失去价值，而真正理解这一点的人会通过创造性思维做出新颖内容。营销、销售、写作等本质上是不断迭代的试错过程，每个人必须掌握这一层，因为这是他人愿意为你付费的核心。",
+          "quote_en": "Layer one is a foundation of human nature or psychology. So marketing, sales, writing, speaking, or just psychology itself, it's understanding the mechanics of human attention and how what people perceive as valuable is highly subjective and changes as the world does.",
+          "quote_zh": "第一层是人性或心理学的基础。营销、销售、写作、演讲或心理学本身，就是理解人类注意力的机制，以及人们所感知的价值高度主观且随世界变化。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "第二层：个人兴趣与独特组合创造独特性",
+          "body": "演讲者提出第二层是个人痴迷的领域，如哲学、健身、设计等，这些领域不会消失，只会演变。他强调，将兴趣与第一层心理机制结合，能产生独特价值。例如，一个既健壮又有哲学思维的人（jacked philosopher）比单纯思考的哲学家更有价值，若再结合营销和产品，就具备了不可阻挡的竞争力。",
+          "quote_en": "The combination of these interests is where your uniqueness lies. So the jacked philosopher is far more valuable than the armchair philosopher, who only grows their mind without direct experience to test their theories, and is just far more interesting.",
+          "quote_zh": "这些兴趣的组合才是你独特性的所在。所以，健壮的哲学家比只会空谈的哲学家有价值得多，后者只发展思维而无直接经验验证理论，且远不如前者有趣。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "第三层：技术技能因AI而贬值，需向上迁移",
+          "body": "演讲者指出，技术技能（如Photoshop、编程、邮件营销）曾是核心，但AI已能轻松完成，因此不应将未来押注在工具掌握上。他以历史类比说明，技术变革中机械部分会被自动化，人类角色会升级。例如，抄写员变成编辑，手工织布者变成机器操作员。因此，依赖单一工具的人未来将面临淘汰。",
+          "quote_en": "This used to be the most important, because it took time and effort to learn these tools, but now AI does it all with ease, so you should not bank your future on mastery of a tool because AI is the ultimate tool.",
+          "quote_zh": "这曾经最重要，因为学习这些工具需要时间和努力，但现在AI能轻松完成，所以你不应把未来押在工具掌握上，因为AI是终极工具。",
+          "frame_id": "f10",
+          "confidence": "high"
+        },
+        {
+          "title": "自主学习：以目标为导向的发现式学习",
+          "body": "演讲者强调，学校教育是社会适应训练，而真正的教育是发现。他主张通过明确的愿景和目标来过滤信息，主动寻找相关知识，而非被动接受。学习必须通过实践来验证，不能仅靠观看视频或听从他人建议。他指出，无论是AI还是人类，信息都可能错误，必须通过实验和批判性思维来判断其有效性。",
+          "quote_en": "You need to live an intentional life. And that's just the thing. I don't care if you use AI to get information. I don't care if you get all your advice from one YouTube guru. What I do care about is if you have a vision, have a goal, work toward that goal and apply what you learn to problems that come up along the way.",
+          "quote_zh": "你需要过一种有目的的生活。关键在于，我不在乎你用AI获取信息，也不在乎你所有建议都来自一个YouTube大师。我关心的是你是否有愿景、有目标，朝着目标努力，并将所学应用到沿途遇到的问题中。",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1079.0,
+        1438.7
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "创建个人事业与利用AI的路径",
+      "segment_summary": "演讲者主张普通人应通过创建个人品牌和产品，加入数字经济。他强调互联网是无许可的杠杆，AI可加速通用型人才发展，建议通过实践和迭代利用AI工具构建产品，而非仅停留在生成内容层面。",
+      "key_points": [
+        {
+          "title": "建立个人事业的必要性与路径",
+          "body": "演讲者认为，拥有技能和自学能力后，下一步是建立‘一人企业’，即个人品牌加产品或服务。他指出，创作者正在取代传统机构，成为新的教育和文化塑造者。通过在社交媒体上分享有价值的内容，吸引受众，实现独立收入。这需要将个人兴趣转化为可交易的产品或服务，而非仅靠影响力或个人品牌包装。",
+          "quote_en": "You build a one human business. And I'm talking to people who haven't started anything yet, right?",
+          "quote_zh": "你建立一个一人企业。我是在对那些还没开始任何事情的人说话，对吧？",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "互联网作为无许可杠杆的机制",
+          "body": "演讲者强调互联网是‘无许可的杠杆’，意味着无需审批即可建立受众、开展业务或销售产品。这为个人提供了高自主权的路径。他指出，当前的注意力集中在社交媒体上，因此这是普通人获取关注的最高效渠道，尤其适合没有资金或起点的人，通过个人品牌作为高杠杆载体进行创作和价值交换。",
+          "quote_en": "The internet is permissionless leverage. You don't need approval to build an audience or start a business or sell a product.",
+          "quote_zh": "互联网是无许可的杠杆。你不需要批准就能建立受众、开展业务或销售产品。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "AI作为加速工具的正确使用方式",
+          "body": "演讲者指出，AI不仅是内容生成工具，更是可直接用于构建软件、落地页、应用等的生产力工具。他建议用户通过与AI（如Claude）互动，逐步学习并构建产品，例如从‘如何构建待办事项应用’开始，遇到不懂之处就让AI教学。他强调，第一版产品必然粗糙，关键在于迭代，而非停止于‘AI垃圾’的产出。",
+          "quote_en": "You can quite literally ask it to build a software, a landing page, a funnel, an app, a tool, or whatever else they need to do anything on the internet.",
+          "quote_zh": "你可以字面意义上要求它构建软件、落地页、漏斗、应用、工具，或任何你在互联网上需要做的事情。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1438.7,
+        1798.3
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "用AI需迭代与高标准",
+      "segment_summary": "本段提出使用AI必须经过持续迭代和设定极高标准，不能将AI输出视为最终成品。作者主张通过明确目标、设定标准、尝试自动化自身工作来有效利用AI，强调AI是工具而非天才，需像训练员工一样反复指导。",
+      "key_points": [
+        {
+          "title": "设定明确目标与标准",
+          "body": "作者主张在使用AI前必须清楚自己想要什么，以及什么是‘好’的结果。因为大多数人期望AI能完美完成业务构建，但AI无法替代人类对业务的完整理解。只有明确目标，才能指导AI如何帮助实现，否则需要多年迭代才能成功。这要求用户自身具备对产品、营销、销售等环节的认知，不能完全依赖AI。",
+          "quote_en": "You need to know what you want, and you need to know what good looks like.",
+          "quote_zh": "你需要知道自己想要什么，以及什么是好的样子。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "以高迭代标准对待AI输出",
+          "body": "作者指出，AI生成的内容之所以质量差，是因为用户将初稿当作终稿。必须认识到，AI输出需要反复微调每一个设计、文字、句子等细节。用户应将AI视为与自己智力和野心相匹配的工具，而非天才。通过持续迭代，才能将AI输出提升到优于99%市场应用的水平。",
+          "quote_en": "You don't understand that you still have to tweak every little design, feature, word, sentence, or whatever else you are having AI do.",
+          "quote_zh": "你不懂你仍然需要调整AI所做的一切细节，包括设计、功能、文字、句子等。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "通过自动化自身学习AI能力",
+          "body": "作者建议的最佳学习AI方式是尝试用AI替代自己完成日常工作。这能快速识别哪些任务可自动化、哪些不可。理解自动化边界后，用户才能明智地选择将哪些业务环节委托给AI。例如，AI擅长构建着陆页、分析信息，但用户需基于自身经验指导AI，因为初稿无法直接达到理想效果。",
+          "quote_en": "The best way to learn AI is to try to automate yourself out of work.",
+          "quote_zh": "学习AI的最佳方式是尝试用AI把自己自动化掉。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1798.3,
+        2158.0
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

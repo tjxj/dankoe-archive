@@ -1,0 +1,508 @@
+{
+  "title_zh": "战略天才的五维思维法：突破认知局限的思考指南",
+  "one_liner": "思维质量决定人生结果，通过五维视角和认知系统升级，突破身份绑定的思维防御。",
+  "thesis": "视频论证了思维质量决定人生结果，而大多数人陷入单维、还原、部落、不质疑的愚蠢思维。通过升级认知操作系统，经历从顺从到生成的思维层级进化，并运用四维视角（个体/集体、内在/外在）加历史第五维度，可以突破思维局限。同时，必须警惕将信念与身份绑定导致的思维僵化，通过暂停反应保持开放。",
+  "overview_cards": [
+    {
+      "title": "愚蠢思维的四个特征",
+      "body": "愚蠢思维表现为单维度（固守自身视角）、还原论（用单一领域逻辑解释一切）、部落化（只信任同群体）和不质疑（默认“就这样做”）。这些特征共同导致思维封闭，无法突破认知边界，是阻碍成功的关键因素。",
+      "accent": "red"
+    },
+    {
+      "title": "认知操作系统升级",
+      "body": "思维效能不取决于知识量，而在于认知系统的成熟度。仅积累知识如同旧手机装新App，会思维迟钝。真正的提升需通过构建项目、失败、反馈、迭代的真实世界实践，不断升级底层认知框架。",
+      "accent": "blue"
+    },
+    {
+      "title": "四维思维模型",
+      "body": "将世界分为四个象限：个体内在（心理）、集体内在（文化）、个体外在（行为）、集体外在（系统）。分析问题时从这四个维度同时提问，能避免单一视角的教条主义，实现更全面的战略思考。",
+      "accent": "green"
+    },
+    {
+      "title": "身份绑定是思维停滞的根源",
+      "body": "当人将信念、意识形态或价值观视为自我身份的一部分时，就会产生防御性思维，拒绝新信息。这种身份绑定导致在争论中循环往复，无法接近真相。突破的关键是暂停反应，观察自身情绪，不立即防御。",
+      "accent": "ochre"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "愚蠢思维的四个特征",
+      "body": "演讲者系统性地归纳了愚蠢思维的四个具体特征：一是单维度，即固守自身视角；二是还原论，即用单一领域（如商业）的逻辑解释所有问题；三是部落化，即只信任与自己相同群体的人，排斥异见；四是不质疑，即对事物的解释默认为‘就这样做’，缺乏反思。这些特征共同导致思维封闭，无法突破认知边界。",
+      "why": "识别这些特征是避免思维陷阱的第一步，也是理解天才思维的反面基础。",
+      "quote_en": "Second, stupid thinking is reductionistic. So experts in one domain like business try to reduce everything to a strategy problem as one example. Third, stupid thinking is tribal. So you only trust your group, your political party, your tribe, your religious people who adopt your same religious beliefs. Then you consider everyone else wrong because they don't conform and forth. Stupid thinking does not question your justification for most things is that's just how it's done.",
+      "quote_zh": "第二，愚蠢思维是还原论的。比如商业专家试图把所有问题简化为战略问题。第三，愚蠢思维是部落化的。你只信任你的群体、你的政党、你的部落、信奉相同宗教的人，然后认为不遵从的人都是错的。愚蠢思维不质疑，大多数事情的正当性就是‘就这样做’。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "天才思维的定义与机制",
+      "body": "天才思维被定义为能够容纳威胁性想法并意图理解而非仅仅知道的能力。其核心机制在于思维的宽度、深度和高度，即能在不被绝对观念束缚的前提下，自由探索整个知识网络，并将不同领域的思想整合成有用或全新的东西。这种思维模式允许个体在面对复杂问题时，不局限于单一解释框架，而是主动拓展认知边界。",
+      "why": "明确天才思维的本质，为后续的五维模型提供目标导向。",
+      "quote_en": "Genius thinking as a definition would be the ability to hold threatening ideas in the realm of possibility, paired with the intention to understand rather than just know the mark of genius. Thinking is illustrated by the width, depth, and height at which you can think without being cut off from venturing further, often due to holding an idea as absolute.",
+      "quote_zh": "天才思维的定义是：有能力将威胁性想法置于可能性的范畴内，并带着理解而非仅仅知道的意图，这是天才的标志。思维体现在你思考的宽度、深度和高度，且不会因持有绝对观念而被切断进一步探索的可能。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "认知操作系统决定思维效能",
+      "body": "演讲者指出，一个人的思维效果不取决于知道多少，而在于理解的深度和认知系统的成熟度。他用旧iPhone安装新App的比喻说明，仅积累知识（安装新App）而不升级思维系统（操作系统），会导致思维迟钝、无法适应复杂现实。因此，真正的提升需要从底层认知框架入手，而非表面知识堆砌。",
+      "why": "打破“知识等于能力”的误区，指明思维提升的根本路径。",
+      "quote_en": "It's it has more to do with the sophistication of your cognitive operating system.",
+      "quote_zh": "这更多与你认知操作系统的复杂程度有关。",
+      "frame_id": "f03",
+      "confidence": "high"
+    },
+    {
+      "title": "思维层级模型：从本能到合成",
+      "body": "演讲者构建了思维层级模型，从0级本能反应，到1级服从权威的黑白思维，再到2级个体批判性思维，最后到3级‘合成’阶段。在合成阶段，个体能将不同模型视为工具而非绝对真理，容纳矛盾观点，实现多维度思考。这个框架用于解释为何某些人在特定领域成功却在其他领域失败。",
+      "why": "提供可操作的思维进化阶梯，帮助定位自身思维水平。",
+      "quote_en": "At level three, which I'm going to call synthesis. And this is where you see your model as one among many. You hold contradictions and use perspectives as tools rather than law or someone questionable truth.",
+      "quote_zh": "在第三级，我称之为‘合成’。这时你会把你的模型视为众多模型之一。你容纳矛盾，并将视角作为工具而非法律或可疑的真理。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "思维层级的四阶段进化",
+      "body": "思维进化分为四个阶段：层级1是顺从者，接受既定答案；层级2是个体主义者，反抗权威但固守自我答案；层级3是综合者，能接纳他人观点中的部分真理；层级4是生成者，能创造前所未有的原创视角。层级间非线性递进，可偶尔跳跃，但需持续练习以最大化思维广度。其核心机制是：当思维受威胁时，保持诚实与开放，避免退化到低级思维。",
+      "why": "理解思维发展的完整路径，避免停滞在低级阶段。",
+      "quote_en": "Level one and level two can be considered first tier thinking... Then level three and levels four can be considered second tier thinking. This is where you start to reject dogma and you start to actually seek truth for once.",
+      "quote_zh": "层级一和层级二可视为第一层思维……然后层级三和层级四可视为第二层思维。这时你开始拒绝教条，并真正开始寻求真相。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "四维思维模型的结构",
+      "body": "该模型将认知世界划分为四个象限：个体内在世界（心理、情绪、信念）、集体内在世界（文化、价值观、意识形态）、个体外在世界（行为、外貌、生理状态）和集体外在世界（系统、结构、社会机构）。通过同时观察这四个维度，能避免单一视角的局限，实现更全面的‘天才式’思考。",
+      "why": "提供具体可操作的多维度分析框架，避免陷入教条。",
+      "quote_en": "So here's how this would look in graphic form. And you can see that it's divided into four quadrants because there is an inner world which is mental. And then there's an outer world which is physical.",
+      "quote_zh": "这就是它在图形上的样子。你可以看到它被分为四个象限，因为有一个内在世界，即心理世界，还有一个外在世界，即物理世界。",
+      "frame_id": "f08",
+      "confidence": "high"
+    },
+    {
+      "title": "第五维度：历史的整体-部分模式",
+      "body": "第五维度是历史视角，其核心是理解‘整体-部分’的递进模式。历史并非线性事件堆叠，而是由‘部分’演化为‘整体’的过程，如物质演化为生命，生命演化为心智。这种模式认知能帮助预测未来趋势，因为理解了演化规律，就能更准确地规划自身行动以达成目标。",
+      "why": "掌握历史演化规律，提升战略预测和规划能力。",
+      "quote_en": "What that means is that it's composed of holes, but those holes are also parts. As some examples, matter evolves into life evolves into mind. Each of those are a whole.",
+      "quote_zh": "这意味着它由‘整体’构成，但这些‘整体’同时也是‘部分’。例如，物质演化为生命，生命演化为心智。每一个都是一个整体。",
+      "frame_id": "f10",
+      "confidence": "high"
+    },
+    {
+      "title": "信念与身份绑定导致思维僵化",
+      "body": "当人将特定信念、意识形态或价值观视为自我身份的一部分时，就会产生防御性思维，拒绝新信息，陷入固有框架。这限制了思考的广度和深度，使人无法跳出原有视角，导致在争论中循环往复，无法接近真相。例如，极端政治立场者无法跳出其思维泡泡，因为其身份与立场绑定，任何挑战都视为对自我的攻击。",
+      "why": "警惕身份认同对思维的禁锢，是保持开放思维的关键。",
+      "quote_en": "What makes a person stop thinking? What makes them turn in on themselves and to just start defending themselves endlessly? The answer here is identity and you latching on to beliefs, ideas or constructs and just making them a part of who you are.",
+      "quote_zh": "是什么让一个人停止思考？是什么让他们转向自身，无休止地自我防御？答案是身份，以及你将信念、观念或结构附着于自身，使其成为你的一部分。",
+      "frame_id": "f14",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "01:30",
+      "title": "愚蠢思维是单维度的",
+      "body": "演讲者指出愚蠢思维的第一个特征：人们试图把所有事情塞进自己的视角，难以看到外部世界。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "03:30",
+      "title": "愚蠢思维的四个特征",
+      "body": "系统归纳愚蠢思维的四特征：单维度、还原论、部落化、不质疑，导致思维封闭。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "06:00",
+      "title": "天才思维的定义",
+      "body": "提出天才思维是容纳威胁性想法并意图理解的能力，取决于思维的宽度、深度和高度。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "08:00",
+      "title": "认知操作系统升级",
+      "body": "用旧iPhone装新App比喻说明思维效能取决于认知系统成熟度，而非知识量。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "10:30",
+      "title": "思维层级模型",
+      "body": "构建0级本能到3级合成的思维层级，合成阶段能将模型视为工具，容纳矛盾。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "14:00",
+      "title": "思维四阶段进化",
+      "body": "阐述从顺从者、个体主义者、综合者到生成者的四阶段进化，强调非线性递进。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "18:00",
+      "title": "四维思维模型",
+      "body": "介绍将世界分为个体/集体、内在/外在四个象限的模型，避免单一视角。",
+      "frame_id": "f08"
+    },
+    {
+      "time": "22:00",
+      "title": "第五维度：历史模式",
+      "body": "提出历史由整体-部分递进构成，如物质→生命→心智，可用于预测未来。",
+      "frame_id": "f10"
+    },
+    {
+      "time": "26:00",
+      "title": "系统进化原则",
+      "body": "新事物必须超越并包含前一阶段，个体认知从自我中心发展到世界中心。",
+      "frame_id": "f11"
+    },
+    {
+      "time": "30:00",
+      "title": "身份绑定导致思维停滞",
+      "body": "指出将信念与身份绑定会产生防御性思维，限制思考广度。",
+      "frame_id": "f14"
+    },
+    {
+      "time": "33:00",
+      "title": "暂停与观察的方法",
+      "body": "建议面对质疑时暂停反应，观察自身情绪，不立即防御，以突破思维局限。",
+      "frame_id": "f14"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "四维思维模型",
+      "body": "将世界分为个体内在（心理）、集体内在（文化）、个体外在（行为）、集体外在（系统）四个象限。分析问题时从这四个维度分别提问，避免陷入单一视角的教条。两端：内在 vs 外在，个体 vs 集体。",
+      "accent": "blue"
+    },
+    {
+      "title": "思维层级进化模型",
+      "body": "思维从0级本能，到1级顺从权威，2级个体批判，3级综合多元，4级生成原创。用于诊断自己或他人的思维阶段，理解为何某些人在特定领域成功却无法跨域。两端：低级教条 vs 高级生成。",
+      "accent": "green"
+    },
+    {
+      "title": "历史整体-部分演化模式",
+      "body": "历史由“部分”演化为“整体”的递进构成，如物质→生命→心智。应用此模式可预测未来趋势，规划行动时考虑当前系统如何超越并包含前一阶段。两端：部分 vs 整体，过去 vs 未来。",
+      "accent": "ochre"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "First is that stupid thinking is one dimensional. People try to jam everything into their own perspective and have difficulty seeing outside of it.",
+      "zh": "第一，愚蠢思维是单维度的。人们试图把所有事情都塞进自己的视角，难以看到外部世界。",
+      "context": "在定义愚蠢思维的第一个特征时，强调人们固守自身视角的普遍性。"
+    },
+    {
+      "en": "Genius thinking as a definition would be the ability to hold threatening ideas in the realm of possibility, paired with the intention to understand rather than just know the mark of genius. Thinking is illustrated by the width, depth, and height at which you can think without being cut off from venturing further, often due to holding an idea as absolute.",
+      "zh": "天才思维的定义是：有能力将威胁性想法置于可能性的范畴内，并带着理解而非仅仅知道的意图，这是天才的标志。思维体现在你思考的宽度、深度和高度，且不会因持有绝对观念而被切断进一步探索的可能。",
+      "context": "在提出天才思维的核心定义时，区分了“理解”与“知道”，并说明思维的多维特性。"
+    },
+    {
+      "en": "At level three, which I'm going to call synthesis. And this is where you see your model as one among many. You hold contradictions and use perspectives as tools rather than law or someone questionable truth.",
+      "zh": "在第三级，我称之为‘合成’。这时你会把你的模型视为众多模型之一。你容纳矛盾，并将视角作为工具而非法律或可疑的真理。",
+      "context": "在解释思维层级3（合成阶段）时，说明如何超越单一模型，实现多维度思考。"
+    },
+    {
+      "en": "What makes a person stop thinking? What makes them turn in on themselves and to just start defending themselves endlessly? The answer here is identity and you latching on to beliefs, ideas or constructs and just making them a part of who you are.",
+      "zh": "是什么让一个人停止思考？是什么让他们转向自身，无休止地自我防御？答案是身份，以及你将信念、观念或结构附着于自身，使其成为你的一部分。",
+      "context": "在探讨思维停滞的根源时，指出身份绑定是核心原因，导致防御性思维。"
+    },
+    {
+      "en": "So the next time you feel questioned, I beg of you, this is the only thing you have to do is just pause, look at it, observe how you feel and do not collapse in on yourself. Just allow it to sit there, right?",
+      "zh": "所以下次当你感到被质疑时，我恳求你，你唯一要做的就是暂停，观察它，感受你的感觉，不要向内坍缩。就让它在那里，好吗？",
+      "context": "在给出突破思维防御的具体方法时，强调暂停与观察是打破自动化反应的关键。"
+    }
+  ],
+  "actions": [
+    "下次感到被质疑时，暂停10秒，观察自己的情绪和身体反应，不立即反驳。",
+    "选择一个当前困扰你的问题，用四维思维模型从四个象限分别写下至少一个问题。",
+    "识别自己最近一次“愚蠢思维”的表现：是单维度、还原论、部落化还是不质疑？",
+    "检查自己是否将某个信念与身份绑定，尝试列举该信念可能错误的三个理由。",
+    "选择一个历史事件或行业趋势，分析其“整体-部分”演化模式，预测下一步发展。",
+    "评估自己在事业、健康、关系等领域的思维层级，找出最低的领域并制定提升计划。"
+  ],
+  "questions": [
+    {
+      "q": "你最近一次坚持己见、拒绝他人观点是什么时候？当时你的思维处于哪个层级？",
+      "why": "帮助识别自己何时陷入低级思维防御，促进自我觉察。"
+    },
+    {
+      "q": "如果你用四维模型分析你的职业选择，你会忽略哪个维度？",
+      "why": "促使多角度思考，发现认知盲区。"
+    },
+    {
+      "q": "你有哪些“就这样做”的默认信念？它们来自你的文化还是个人经验？",
+      "why": "挑战不质疑的思维习惯，打破自动化反应。"
+    },
+    {
+      "q": "当你想到一个威胁你现有信念的想法时，你的第一反应是什么？",
+      "why": "测试容纳威胁性想法的能力，即天才思维的核心特征。"
+    }
+  ],
+  "caveats": [
+    "所有关键点置信度均为高，但原始转录可能存在个别拼写错误（如'stupid'拼写为'Stupid'）。",
+    "视频内容未发现明显广告口播，但频道简介包含产品推广链接。",
+    "分段研究基于AI转录，可能有个别术语翻译偏差，建议结合原视频理解。"
+  ],
+  "topics": [
+    "战略思维",
+    "认知升级",
+    "思维模型",
+    "心理学",
+    "自我管理"
+  ],
+  "_meta": {
+    "video_id": "TY8IVSQnwlk",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "定义愚蠢思维的四个特征",
+      "segment_summary": "视频开篇提出聪明人未必成功，而成功者未必聪明，引出思考方式决定人生结果。通过定义愚蠢思维的四个特征——一维、还原论、部落化、不质疑——为后续的五维思考模型做铺垫，并指出天才思维是能容纳威胁性想法并持续探索的能力。",
+      "key_points": [
+        {
+          "title": "愚蠢思维是单维度的",
+          "body": "演讲者指出，愚蠢思维的核心特征是单维度，即个体将所有事物强行纳入自身视角，难以跳出自身框架去理解问题。这种思维模式导致认知僵化，无法从多角度审视现实，从而限制了问题解决的深度和广度。演讲者强调，这种思维是普遍存在的，每个人都会在某些时刻陷入其中，因此需要有意识地识别和突破。",
+          "quote_en": "First is that stupid thinking is one dimensional. People try to jam everything into their own perspective and have difficulty seeing outside of it.",
+          "quote_zh": "第一，愚蠢思维是单维度的。人们试图把所有事情都塞进自己的视角，难以看到外部世界。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "愚蠢思维的四个特征",
+          "body": "演讲者系统性地归纳了愚蠢思维的四个具体特征：一是单维度，即固守自身视角；二是还原论，即用单一领域（如商业）的逻辑解释所有问题；三是部落化，即只信任与自己相同群体的人，排斥异见；四是不质疑，即对事物的解释默认为‘就这样做’，缺乏反思。这些特征共同导致思维封闭，无法突破认知边界。",
+          "quote_en": "Second, stupid thinking is reductionistic. So experts in one domain like business try to reduce everything to a strategy problem as one example. Third, stupid thinking is tribal. So you only trust your group, your political party, your tribe, your religious people who adopt your same religious beliefs. Then you consider everyone else wrong because they don't conform and forth. Stupid thinking does not question your justification for most things is that's just how it's done.",
+          "quote_zh": "第二，愚蠢思维是还原论的。比如商业专家试图把所有问题简化为战略问题。第三，愚蠢思维是部落化的。你只信任你的群体、你的政党、你的部落、信奉相同宗教的人，然后认为不遵从的人都是错的。愚蠢思维不质疑，大多数事情的正当性就是‘就这样做’。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "天才思维的定义与机制",
+          "body": "天才思维被定义为能够容纳威胁性想法并意图理解而非仅仅知道的能力。其核心机制在于思维的宽度、深度和高度，即能在不被绝对观念束缚的前提下，自由探索整个知识网络，并将不同领域的思想整合成有用或全新的东西。这种思维模式允许个体在面对复杂问题时，不局限于单一解释框架，而是主动拓展认知边界。",
+          "quote_en": "Genius thinking as a definition would be the ability to hold threatening ideas in the realm of possibility, paired with the intention to understand rather than just know the mark of genius. Thinking is illustrated by the width, depth, and height at which you can think without being cut off from venturing further, often due to holding an idea as absolute.",
+          "quote_zh": "天才思维的定义是：有能力将威胁性想法置于可能性的范畴内，并带着理解而非仅仅知道的意图，这是天才的标志。思维体现在你思考的宽度、深度和高度，且不会因持有绝对观念而被切断进一步探索的可能。",
+          "frame_id": "f02",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.0,
+        347.5
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "认知操作系统升级与思维层级",
+      "segment_summary": "本段提出思维能力取决于认知操作系统的成熟度，而非单纯知识积累。通过‘线条、层级、高度’三维框架，解释了从本能到合成的思维层级演进，并强调真实世界实践是提升思维的关键机制。",
+      "key_points": [
+        {
+          "title": "认知操作系统决定思维效能",
+          "body": "演讲者指出，一个人的思维效果不取决于知道多少，而在于理解的深度和认知系统的成熟度。他用旧iPhone安装新App的比喻说明，仅积累知识（安装新App）而不升级思维系统（操作系统），会导致思维迟钝、无法适应复杂现实。因此，真正的提升需要从底层认知框架入手，而非表面知识堆砌。",
+          "quote_en": "It's it has more to do with the sophistication of your cognitive operating system.",
+          "quote_zh": "这更多与你认知操作系统的复杂程度有关。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "思维层级模型：从本能到合成",
+          "body": "演讲者构建了思维层级模型，从0级本能反应，到1级服从权威的黑白思维，再到2级个体批判性思维，最后到3级‘合成’阶段。在合成阶段，个体能将不同模型视为工具而非绝对真理，容纳矛盾观点，实现多维度思考。这个框架用于解释为何某些人在特定领域成功却在其他领域失败。",
+          "quote_en": "At level three, which I'm going to call synthesis. And this is where you see your model as one among many. You hold contradictions and use perspectives as tools rather than law or someone questionable truth.",
+          "quote_zh": "在第三级，我称之为‘合成’。这时你会把你的模型视为众多模型之一。你容纳矛盾，并将视角作为工具而非法律或可疑的真理。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "真实世界实践是学习核心机制",
+          "body": "演讲者强调，真正的学习不是记忆事实，而是通过构建项目、失败、获取反馈、迭代改进的循环过程。这种在真实世界中试错和调整的机制，才能有效扩展思维能力，避免陷入‘聪明但愚蠢’的困境，即在单一领域精进却无法跨域应用。",
+          "quote_en": "Learning is kind of like an expansion pack for your thinking, right? So if you continue to learn and I'm not talking about studying or memorizing facts, I'm talking about how to actually learn, which is by building projects, failing, getting feedback, repeating, iterating, doing it in the real world.",
+          "quote_zh": "学习就像是思维的扩展包，对吧？如果你持续学习，我不是指学习或记忆事实，而是指如何真正学习，即通过构建项目、失败、获取反馈、重复、迭代，在真实世界中实践。",
+          "frame_id": "f04",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        347.5,
+        694.9
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "思维层级与维度的进化机制",
+      "segment_summary": "本段阐述思维从层级1到4的进化路径，指出层级1-2为第一层思维（教条主义），层级3-4为第二层思维（寻求真相与创造）。强调思维能力的提升需通过觉察思维受威胁时的反应，保持开放。同时引入思维‘海拔’概念，即各领域思维水平的平均值，并用技能树比喻说明高级思维需基础能力解锁，最后引出第四维度——视角维度。",
+      "key_points": [
+        {
+          "title": "思维层级的四阶段进化",
+          "body": "思维进化分为四个阶段：层级1是顺从者，接受既定答案；层级2是个体主义者，反抗权威但固守自我答案；层级3是综合者，能接纳他人观点中的部分真理；层级4是生成者，能创造前所未有的原创视角。层级间非线性递进，可偶尔跳跃，但需持续练习以最大化思维广度。其核心机制是：当思维受威胁时，保持诚实与开放，避免退化到低级思维。",
+          "quote_en": "When you're born, you don't really think when you're a conformist or level one. You think until you reach a point where you have the answer. Then you start defending the answer.",
+          "quote_zh": "当你出生时，作为顺从者或一级思维者，你并不真正思考。你思考直到找到答案，然后开始捍卫这个答案。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "第一与第二层思维的区分",
+          "body": "层级1和2属于第一层思维，其特征是教条主义，表现为‘我正确，你错误’或‘我的群体正确，你的群体错误’，常导致对立冲突。层级3和4属于第二层思维，其特征是拒绝教条，开始寻求真相，理解终极真理往往存在于妥协与权衡之中，而非绝对答案。这种转变的关键在于认识到‘你的真相并非唯一真相’。",
+          "quote_en": "Level one and level two can be considered first tier thinking... Then level three and levels four can be considered second tier thinking. This is where you start to reject dogma and you start to actually seek truth for once.",
+          "quote_zh": "层级一和层级二可视为第一层思维……然后层级三和层级四可视为第二层思维。这时你开始拒绝教条，并真正开始寻求真相。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "思维海拔与技能树模型",
+          "body": "思维海拔指个人在各个生活领域（如事业、情感、健康等）中思维水平的平均值。该模型用技能树比喻说明，高级思维能力（如层级4）的解锁，必须先具备基础层级能力（如层级3）的积累。例如，一个在商业上成功但情感智力低的人，会因无法领导团队而陷入瓶颈。因此，全面发展各领域思维是突破瓶颈的关键。",
+          "quote_en": "The same holds true with the mind. But the thing is here, higher level traits can only be unlocked once you meet a specific requirement of lower level traits.",
+          "quote_zh": "心智也是如此。但问题是，高级特质只有在满足特定的低级特质要求后才能解锁。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "第四维度：视角维度的引入",
+          "body": "在层级和海拔之外，思维能力还受‘第四维度’影响——即视角维度。该维度通过整合四个现实维度（即不同视角）来提升思维能力，其效果是‘按四次方增长’。这并非时间维度，而是指思维的多维视角能力，是实现‘战略天才’思维的关键组成部分。",
+          "quote_en": "Now this isn't the fourth dimension of time. That's actually the fifth dimension that we're going to talk about. But this fourth dimension does increase your ability to think by the power of four, because there are four dimensions of reality, and these dimensions are perspectives.",
+          "quote_zh": "现在这并非时间的第四维度。那实际上是第五维度，我们稍后会讲到。但这个第四维度确实能让你的思维能力按四次方增长，因为现实有四个维度，而这些维度就是视角。",
+          "frame_id": "f07",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        694.9,
+        1042.4
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "四维思维模型与历史第五维度",
+      "segment_summary": "本段提出四维思维模型，将世界分为个体与集体的内在心理/文化世界和外在物理/系统世界，并指出多数专家只关注单一维度。随后引入第五维度——历史视角，强调理解历史发展中的整体-部分模式，以提升对未来和自身行动的预测能力。",
+      "key_points": [
+        {
+          "title": "四维思维模型的结构",
+          "body": "该模型将认知世界划分为四个象限：个体内在世界（心理、情绪、信念）、集体内在世界（文化、价值观、意识形态）、个体外在世界（行为、外貌、生理状态）和集体外在世界（系统、结构、社会机构）。通过同时观察这四个维度，能避免单一视角的局限，实现更全面的‘天才式’思考。",
+          "quote_en": "So here's how this would look in graphic form. And you can see that it's divided into four quadrants because there is an inner world which is mental. And then there's an outer world which is physical.",
+          "quote_zh": "这就是它在图形上的样子。你可以看到它被分为四个象限，因为有一个内在世界，即心理世界，还有一个外在世界，即物理世界。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "四维思维的应用示例",
+          "body": "以营销为例，当思考如何产生社会影响时，需从四个维度提问：集体内在世界（社会如何控制注意力）、个体外在世界（个人行为如何改变）、集体外在世界（就业市场与AI技术现状）、个体内在世界（思考过程带来的感受与动机）。这种多维度提问能系统性地展开思考，避免陷入教条主义。",
+          "quote_en": "So how does society control attention and market their ideas to the masses? That's the collective inner world. How can your behavior change more than it already has during this process? To have a positive impact on society?",
+          "quote_zh": "社会如何控制注意力并向大众推销其观念？这是集体内在世界。在这个过程中，你的行为如何比现在改变得更多？以对社会产生积极影响？",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "第五维度：历史的整体-部分模式",
+          "body": "第五维度是历史视角，其核心是理解‘整体-部分’的递进模式。历史并非线性事件堆叠，而是由‘部分’演化为‘整体’的过程，如物质演化为生命，生命演化为心智。这种模式认知能帮助预测未来趋势，因为理解了演化规律，就能更准确地规划自身行动以达成目标。",
+          "quote_en": "What that means is that it's composed of holes, but those holes are also parts. As some examples, matter evolves into life evolves into mind. Each of those are a whole.",
+          "quote_zh": "这意味着它由‘整体’构成，但这些‘整体’同时也是‘部分’。例如，物质演化为生命，生命演化为心智。每一个都是一个整体。",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1042.4,
+        1389.8
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "系统进化与认知层级的跃迁机制",
+      "segment_summary": "本段阐述了系统进化遵循'超越并包含'原则，个体与社会的认知发展均经历从自我中心到世界中心的阶段，且必须按序发展。同时指出，当前社会仍运行在工业时代思维模式，面对AI时代需更新认知框架以适应变化。",
+      "key_points": [
+        {
+          "title": "系统进化必须超越并包含前一阶段",
+          "body": "演讲者指出，任何新事物的出现都必须超越并包含旧事物，否则系统会自我毁灭。例如，如果环境崩溃，人类文明也会随之崩溃，因为人类依赖生物圈生存。技术乐观主义者认为未来技术能修复环境，但这种观点忽略了当前系统的依赖性。因此，真正的进化是建立在对前一阶段的保留和提升之上，而非抛弃。",
+          "quote_en": "So with each evolution of something, when something new emerges, it transcends and includes the thing before it.",
+          "quote_zh": "因此，每当有新事物出现时，它都会超越并包含之前的事物。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "个体认知发展需经历阶段性跃迁",
+          "body": "个体认知发展遵循从自我中心（egocentric）到部落中心（ethnocentric），再到世界中心（world centric）的路径。演讲者强调，不能跳过阶段直接成为世界中心者，因为对自我和群体的关怀是支撑全球关怀的基础。若忽视自身和群体价值，仅追求世界价值，会导致行动失效。这类似于‘空杯无法倒水’的比喻，说明基础认知层级必须稳固。",
+          "quote_en": "You're born and you kind of start out selfish, and then you identify with your tribe or your group, and then you identify with humanity as a whole or the world, and then so on and so forth.",
+          "quote_zh": "你出生时比较自私，然后认同你的部落或群体，接着认同全人类或世界，依此类推。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "社会进化与技术发展相互驱动",
+          "body": "社会的物理形态从部落到国家，其技术从狩猎采集到机器计算机，每一步技术进步都推动了社会结构和价值观的演变。例如，马耕犁的发明带来粮食盈余，使人们能从事探索和征服，从而推动启蒙运动。现代社会若仍沿用工业时代思维（如上学、工作、65岁退休），则无法应对AI时代的挑战，必须更新认知系统。",
+          "quote_en": "If you are still operating on industrial age technology as a business or you think that the right path to go down is go to school, get a job, retire at 65, because that's what you would do in the industrial age. You're running on this outdated software and you need to change it.",
+          "quote_zh": "如果你的企业仍在使用工业时代的科技，或认为正确的道路是上学、找工作、65岁退休，因为这是工业时代的做法，那你正在运行过时的软件，需要改变它。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1389.8,
+        1737.2
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "识别思维盲区与身份绑定的危害",
+      "segment_summary": "本段指出思维停滞源于将信念与身份绑定，导致防御性思维。主张通过暂停反应、观察自身感受来突破思维局限，避免陷入循环争论。强调世界模型决定思考能力，需主动扩展认知视角。",
+      "key_points": [
+        {
+          "title": "信念与身份绑定导致思维僵化",
+          "body": "当人将特定信念、意识形态或价值观视为自我身份的一部分时，就会产生防御性思维，拒绝新信息，陷入固有框架。这限制了思考的广度和深度，使人无法跳出原有视角，导致在争论中循环往复，无法接近真相。例如，极端政治立场者无法跳出其思维泡泡，因为其身份与立场绑定，任何挑战都视为对自我的攻击。",
+          "quote_en": "What makes a person stop thinking? What makes them turn in on themselves and to just start defending themselves endlessly? The answer here is identity and you latching on to beliefs, ideas or constructs and just making them a part of who you are.",
+          "quote_zh": "是什么让一个人停止思考？是什么让他们转向自身，无休止地自我防御？答案是身份，以及你将信念、观念或结构附着于自身，使其成为你的一部分。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "认知框架由文化与环境塑造",
+          "body": "人的初始思维框架由出生文化、父母教育和生存需求塑造，这些信念在未经反思的情况下被被动接受。这种早期形成的认知模型成为思维的边界，限制了后续思考的可能。多数人从未质疑过这些根深蒂固的信念，导致思维固化，无法突破原有局限，从而影响人生选择和结果。",
+          "quote_en": "You were born into a specific part of the world. That specific part of the world is called a culture. That culture is practically holds its own value system and belief system. If your parents were raised in that culture and you were raised by your parents, those were probably imposed on you.",
+          "quote_zh": "你出生在世界的一个特定部分。那个特定部分叫做文化。这个文化实际上拥有自己的价值体系和信念体系。如果你的父母在那种文化中长大，而你由他们抚养，那么这些信念很可能被强加于你。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "应对挑战的正确反应是暂停与观察",
+          "body": "当面对质疑或不同观点时，不应立即防御或反驳，而应暂停反应，观察自身情绪和思维状态。这种暂停能打破自动化的防御机制，避免陷入无意义争论。通过不立即回应，让信息在意识中沉淀，从而可能获得新的视角，实现思维突破，而不是在原有框架内循环。",
+          "quote_en": "So the next time you feel questioned, I beg of you, this is the only thing you have to do is just pause, look at it, observe how you feel and do not collapse in on yourself. Just allow it to sit there, right?",
+          "quote_zh": "所以下次当你感到被质疑时，我恳求你，你唯一要做的就是暂停，观察它，感受你的感觉，不要向内坍缩。就让它在那里，好吗？",
+          "frame_id": "f14",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1737.2,
+        2084.7
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

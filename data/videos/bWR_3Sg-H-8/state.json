@@ -1,0 +1,48 @@
+{
+  "stages": {
+    "frames": {
+      "fingerprint": "b883d8b04911d54b",
+      "status": "ok",
+      "at": "2026-10-19T12:51:28",
+      "cover": true,
+      "frames": 15,
+      "video_present": true
+    },
+    "subtitle_check": {
+      "fingerprint": "24771e71080c496a",
+      "status": "ok",
+      "at": "2026-10-19T14:59:31",
+      "cues": 807,
+      "words": 5016,
+      "chars": 26898,
+      "first_start": 0.04,
+      "last_end": 1480.98,
+      "duration": 1481.0,
+      "tail_coverage_ratio": 1.0,
+      "words_per_minute": 203.2,
+      "interior_gaps": 0,
+      "duplicate_cue_ratio": 0.0025
+    },
+    "translate": {
+      "fingerprint": "20a62211c18a0e2b",
+      "status": "ok",
+      "at": "2026-10-19T13:02:12",
+      "sentences": 285,
+      "chunks": 9,
+      "words": 5016,
+      "translated": 285,
+      "coverage": 1.0,
+      "missing": 0,
+      "seconds": 33.2
+    },
+    "summarize": {
+      "fingerprint": "a836cdf03ef2c33c",
+      "status": "ok",
+      "at": "2026-10-19T13:59:24",
+      "knowledge_points": 8,
+      "timeline": 11,
+      "segments_ok": 6,
+      "seconds": 379.7
+    }
+  }
+}

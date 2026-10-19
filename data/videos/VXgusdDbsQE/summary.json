@@ -1,0 +1,502 @@
+{
+  "title_zh": "如何用AI更快打造百万美元一人企业",
+  "one_liner": "AI增强而非取代创业流程，掌握基础技能，用AI优化品牌、内容和产品，是单人实现百万收入的关键。",
+  "thesis": "单人创业的核心步骤（流量、内容、产品）未变，但AI可大幅提升效率和质量。通过构建品牌、内容、产品三支柱，并利用AI分析专家知识、生成初稿，创业者能更快达到百万美元年收入。关键在于掌握基础技能，避免盲目依赖AI，并持续迭代。",
+  "overview_cards": [
+    {
+      "title": "AI是催化剂，不是替代品",
+      "body": "AI的作用是增强而非取代传统创业流程。创业者仍需亲自完成流量获取、内容创作、产品设计等核心环节。AI的价值在于加快步骤、提升质量、减少试错，但前提是必须掌握基础技能，不能将AI输出视为绝对真理。",
+      "accent": "blue"
+    },
+    {
+      "title": "百万收入目标拆解",
+      "body": "演讲者设定年收入100万美元的目标，拆解为每月83,333美元，每日2,777美元。新手应优先选择高单价客户路线（如每两天5000美元），通过持续内容输出建立受众，再过渡到产品路线，最终依靠社交平台流量实现规模化收入。",
+      "accent": "green"
+    },
+    {
+      "title": "三支柱模型：品牌、内容、产品",
+      "body": "一人企业成功依赖三个核心支柱：品牌（你是谁、帮助谁、为何关注）、内容（吸引人的观点和教学）、产品（可销售的产品/服务及落地页）。三者构成商业闭环，品牌建立信任，内容吸引流量，产品实现变现。AI可整合专家知识，加速各支柱构建。",
+      "accent": "ochre"
+    },
+    {
+      "title": "AI辅助内容与产品构建",
+      "body": "将优秀内容输入AI分析成功原理，转化为可复用的提示词，生成初稿后人工调整为个人风格。产品端则通过三步AI提示：生成客户画像→设计产品方案→生成落地页初稿，依次衔接，人工审核迭代，确保输出准确。",
+      "accent": "red"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "设定100万美元目标并拆解执行",
+      "body": "演讲者设定年收入100万美元的目标，将其拆解为每月83,333美元，每日2,777美元。这个目标用于框架化讨论，帮助理解实现路径。他强调需掌握基础技能后才能使用高级AI代理工作流，并承诺分享优于他人的AI使用方法和提示词。",
+      "why": "将宏大目标拆解为每日执行标准，使行动具体可衡量。",
+      "quote_en": "$1 million divided by 12 months is $83,333 per month. That number divided by 30 days is $2,777 per day.",
+      "quote_zh": "100万美元除以12个月是每月83,333美元。这个数字除以30天是每天2,777美元。",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "AI是加速器而非替代品",
+      "body": "演讲者主张AI的作用是增强而非取代传统创业流程。创业者仍需亲自完成流量获取、内容创作、产品设计等核心环节。AI的价值在于加快这些步骤、提升产出质量并减少猜测，其本质是催化剂，帮助避免大量试错。但前提是必须掌握基础技能，不能将AI输出视为绝对真理。",
+      "why": "纠正“AI可完全替代人力”的误解，强调人机协作的正确定位。",
+      "quote_en": "You do the same thing that you would have done before, but now you use AI to enhance that process, right?",
+      "quote_zh": "你做的是之前会做的事，但现在用AI来增强这个过程，对吧？",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "基础技能不可替代",
+      "body": "尽管AI工具普及，但课程和教练仍有价值，因为AI无法直接提供特定领域的专业知识。AI的默认响应通常不够好，从有经验的人那里获取知识依然更优。创业者必须成为通才，掌握营销、销售、产品、项目管理等多方面技能，才能有效管理AI代理并做出正确决策。",
+      "why": "提醒创业者在AI时代仍需扎实掌握核心商业技能，避免成为“提示词操作员”。",
+      "quote_en": "Getting specific knowledge from the source of someone who's done something is still superior.",
+      "quote_zh": "从做过某事的人那里获取特定知识仍然更优。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "高单价客户是新手更易实现的起点",
+      "body": "演讲者主张新手应优先选择服务型业务，如每两天接一个5000美元的客户或每四天接一个10000美元的客户。相比向大量用户销售低价订阅或产品，向少数高净值客户销售高价值服务更容易达成，且无需立即建立大规模受众。企业主愿意为增长付费，因此高单价服务的ROI更高。",
+      "why": "为单人创业者提供了低门槛、高回报的启动路径，避免早期陷入流量焦虑。",
+      "quote_en": "If you go the client route, I recommend doing that as a beginner because some people still don't believe this.",
+      "quote_zh": "如果你选择客户路线，我建议新手这么做，因为有些人仍然不相信这一点。",
+      "frame_id": "f04",
+      "confidence": "high"
+    },
+    {
+      "title": "三支柱模型：品牌、内容、产品",
+      "body": "一人企业成功依赖三个核心支柱：品牌（你是谁、帮助他人达成什么、为何值得关注）、内容（吸引人的观点和教学）、产品（可销售的产品或服务及落地页）。这三者构成完整商业闭环，品牌建立信任，内容吸引流量，产品实现变现。该模型通过AI工具整合，使创业者能系统性地规划和执行。",
+      "why": "提供了一个清晰、可操作的商业构建框架，将复杂创业简化为三个模块。",
+      "quote_en": "And those three pillars that you'll have are one. A brand, which is who you are, what you help people achieve, and why people should care about both. Two is content. So your ideas, opinions and teachings that attract people to your brand three is offer so your product, service and compelling landing page you can send people to from your content.",
+      "quote_zh": "你将拥有的三个支柱是：第一，品牌，即你是谁、你帮助人们实现什么、以及为什么人们应该关心这两者。第二是内容，即你的想法、观点和教学，吸引人们关注你的品牌。第三是产品，即你的产品、服务和引人注目的落地页，你可以从内容中引导人们前往。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "个人品牌四原则",
+      "body": "构建个人品牌的四个原则：第一，你是细分市场，你的信念、经历和兴趣赋予你独特视角；第二，需建立内容支柱，包括一个计划变现的技能或兴趣，以及两个你热衷的互补主题；第三，内容支柱必须建立在痛点、基础性话题和高表现想法之上；第四，需将所有内容浓缩成1-2句吸引人的社交简介。这些原则构成个人品牌的基础框架。",
+      "why": "将抽象的个人品牌概念具体化为四个可执行步骤，降低构建门槛。",
+      "quote_en": "The first principle is that you are the niche your beliefs, experiences, and interests give you a unique point of view that reflects in your content and products.",
+      "quote_zh": "第一个原则是，你是细分市场，你的信念、经历和兴趣赋予你独特视角，反映在你的内容和产品中。",
+      "frame_id": "f09",
+      "confidence": "high"
+    },
+    {
+      "title": "用AI分析并生成内容初稿",
+      "body": "将优秀内容输入AI，要求其解析成功原理、心理技巧等，再将这些原则转化为可复用的提示词。使用时输入主题或参考内容，AI生成可优化的初稿，用户再调整为个人风格。这种方法能加速学习和创作，但需注意AI输出需人工审核，避免产生幻觉。",
+      "why": "提供了一种高效的内容创作方法，将模仿学习与AI生成结合，加速技能提升。",
+      "quote_en": "I first took tweets or posts that I really liked, and then I plug them into AI and they said, hey, the breakdown. Exactly why these work? What are the principles here? What are the psychological tactics?",
+      "quote_zh": "我先选中喜欢的推文或帖子，输入AI，让它分析：为什么这些内容有效？其中的原理和心理技巧是什么？",
+      "frame_id": "f13",
+      "confidence": "high"
+    },
+    {
+      "title": "三步AI辅助流程：客户画像→产品方案→落地页",
+      "body": "通过三个连续的AI提示完成商业核心构建：第一步生成客户画像，第二步基于画像设计无法抗拒的产品方案，第三步将两者结合生成落地页初稿。这三个步骤需按顺序进行，前一步的输出作为后一步的输入。用户需对AI输出进行审核和迭代，确保内容准确无误。",
+      "why": "将产品构建流程标准化为AI提示链，大幅降低单人创业者的执行难度。",
+      "quote_en": "So we have prompts for three things, but it helps to just know what we're doing here. First, we need to create a detailed customer avatar.",
+      "quote_zh": "所以我们有三个提示，但了解我们在做什么很重要。首先，我们需要创建一个详细的客户画像。",
+      "frame_id": "f15",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:00",
+      "title": "设定百万目标",
+      "body": "拆解年收入100万美元为每日2,777美元，框架化讨论实现路径。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "02:30",
+      "title": "AI是加速器",
+      "body": "AI增强而非取代传统创业流程，需掌握基础技能。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "06:05",
+      "title": "收入路径选择",
+      "body": "新手应优先选择高单价客户路线，如每两天5000美元项目。",
+      "frame_id": "f04"
+    },
+    {
+      "time": "09:00",
+      "title": "内容建立受众",
+      "body": "持续发布内容，积累流量，为产品变现打基础。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "12:10",
+      "title": "三支柱模型",
+      "body": "提出品牌、内容、产品三支柱，构成商业闭环。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "15:00",
+      "title": "AI构建品牌策略",
+      "body": "用AI整合专家知识，加速个人品牌策略制定。",
+      "frame_id": "f06"
+    },
+    {
+      "time": "18:16",
+      "title": "品牌四原则",
+      "body": "你是细分市场；建立内容支柱；基于痛点；浓缩为社交简介。",
+      "frame_id": "f09"
+    },
+    {
+      "time": "21:00",
+      "title": "内容需基于痛点",
+      "body": "内容必须解决受众问题，而非仅表达个人兴趣。",
+      "frame_id": "f09"
+    },
+    {
+      "time": "24:22",
+      "title": "内容生态循环",
+      "body": "以周更newsletter为核心，拆分为多平台内容，相互反哺。",
+      "frame_id": "f12"
+    },
+    {
+      "time": "27:00",
+      "title": "AI分析生成初稿",
+      "body": "用AI拆解优秀内容原理，生成可优化的初稿。",
+      "frame_id": "f13"
+    },
+    {
+      "time": "30:28",
+      "title": "三步AI流程",
+      "body": "客户画像→产品方案→落地页，依次AI提示生成。",
+      "frame_id": "f15"
+    },
+    {
+      "time": "33:00",
+      "title": "人工审核迭代",
+      "body": "AI输出可能产生幻觉，必须人工检查并迭代。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "三支柱模型：品牌、内容、产品",
+      "body": "创业者依次构建品牌（建立信任）、内容（吸引流量）、产品（变现）。两端：品牌（起点）和产品（终点），内容为连接桥梁。",
+      "accent": "blue"
+    },
+    {
+      "title": "个人品牌四原则",
+      "body": "按顺序应用：1) 你是细分市场；2) 建立内容支柱；3) 基于痛点和基础/高表现话题；4) 浓缩为社交简介。两端：自我认知 → 社交简介。",
+      "accent": "ochre"
+    },
+    {
+      "title": "内容生态循环",
+      "body": "以周更newsletter为核心，拆分为社交帖子、轮播、短视频，优质内容反哺YouTube，形成循环。两端：单一内容 → 多平台曝光。",
+      "accent": "green"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "You do the same thing that you would have done before, but now you use AI to enhance that process, right?",
+      "zh": "你做的是之前会做的事，但现在用AI来增强这个过程，对吧？",
+      "context": "解释AI在创业中的角色，强调AI是增强而非取代。"
+    },
+    {
+      "en": "Getting specific knowledge from the source of someone who's done something is still superior.",
+      "zh": "从做过某事的人那里获取特定知识仍然更优。",
+      "context": "说明尽管AI普及，专家经验仍有不可替代的价值。"
+    },
+    {
+      "en": "If you go the client route, I recommend doing that as a beginner because some people still don't believe this.",
+      "zh": "如果你选择客户路线，我建议新手这么做，因为有些人仍然不相信这一点。",
+      "context": "建议新手从高单价服务客户起步，而非立即追求产品规模化。"
+    },
+    {
+      "en": "The first principle is that you are the niche your beliefs, experiences, and interests give you a unique point of view that reflects in your content and products.",
+      "zh": "第一个原则是，你是细分市场，你的信念、经历和兴趣赋予你独特视角，反映在你的内容和产品中。",
+      "context": "提出个人品牌构建的首要原则，强调个人独特性。"
+    },
+    {
+      "en": "Make sure it didn't hallucinate because you're still having to baby the AI here.",
+      "zh": "确保它没有产生幻觉，因为你仍然需要在这里小心地引导AI。",
+      "context": "提醒用户AI输出可能出错，需人工审核。"
+    }
+  ],
+  "actions": [
+    "设定年收入100万美元目标，拆解为每日2777美元，并规划收入组合（如高单价客户+产品+订阅）。",
+    "作为新手，优先选择高单价服务客户（如5000美元/项目），通过主动 outreach 或内容展示专业能力获取客户。",
+    "每天在社交媒体发布内容，建立受众；同时收集10个高表现帖子，用AI分析其成功原理。",
+    "用AI分析优秀内容后，生成自己的内容初稿，并人工调整为个人风格，发布测试。",
+    "使用AI创建详细客户画像，基于画像设计产品方案，再生成落地页初稿，并逐字审核。",
+    "将个人品牌策略转化为AI提示，设定每日任务（如写作、设置简介），让AI作为教练监督执行。"
+  ],
+  "questions": [
+    {
+      "q": "我是否掌握了创业所需的基础技能（营销、销售、内容创作等），还是过度依赖AI？",
+      "why": "检验自己是否具备独立判断AI输出的能力，避免成为提示词操作员。"
+    },
+    {
+      "q": "我的收入目标是否具体拆解到每日执行？我是否选择了适合自己阶段的路（客户 vs 产品）？",
+      "why": "确保目标可执行，避免好高骛远。"
+    },
+    {
+      "q": "我的内容是否真正解决受众痛点，还是只表达个人兴趣？",
+      "why": "内容营销的核心是提供价值，而非自我表达。"
+    },
+    {
+      "q": "我是否建立了内容生态循环，最大化内容复用？",
+      "why": "提高内容生产效率，减少重复劳动。"
+    },
+    {
+      "q": "在使用AI输出时，我是否进行了充分的人工审核和迭代？",
+      "why": "AI可能产生幻觉，人工审核是质量保障的最后防线。"
+    }
+  ],
+  "caveats": [
+    "视频中多次演示并推荐Eden工具的Canvas模板，可能为作者自家产品或赞助内容，相关部分需理性看待。",
+    "时间节点为根据分段范围估算，非视频精确时间戳，仅供参考。",
+    "百万美元目标为框架性假设，实际收入受多种因素影响，视频未提供详细财务模型。"
+  ],
+  "topics": [
+    "单人创业",
+    "AI应用",
+    "个人品牌",
+    "内容创作",
+    "百万收入"
+  ],
+  "_meta": {
+    "video_id": "VXgusdDbsQE",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "2026单人创业如何用AI提速",
+      "segment_summary": "演讲者指出，2026年单人创业的核心步骤未变，但需用AI提升效率和质量。他强调AI是催化剂，可减少试错，但需掌握基础技能并避免盲目依赖。为具象化目标，他设定100万美元年收入目标，并拆解为每日2777美元的执行标准。",
+      "key_points": [
+        {
+          "title": "AI是加速器而非替代品",
+          "body": "演讲者主张，AI的作用是增强而非取代传统创业流程。创业者仍需亲自完成流量获取、内容创作、产品设计、客户画像、优惠制定、落地页搭建和文案撰写等核心环节。AI的价值在于加快这些步骤、提升产出质量并减少猜测，其本质是催化剂，帮助创业者避免大量试错。但前提是创业者必须掌握基础技能，不能将AI输出视为绝对真理。",
+          "quote_en": "You do the same thing that you would have done before, but now you use AI to enhance that process, right?",
+          "quote_zh": "你做的是之前会做的事，但现在用AI来增强这个过程，对吧？",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "基础技能不可替代",
+          "body": "演讲者强调，尽管AI工具普及，但课程和教练仍有价值，因为AI无法直接提供特定领域的专业知识。他指出，AI的默认响应通常不够好，从有经验的人那里获取知识依然更优。创业者必须成为通才，掌握营销、销售、产品、项目管理、内容创作和社交媒体策略等多方面技能，才能有效管理AI代理并做出正确决策。",
+          "quote_en": "Getting specific knowledge from the source of someone who's done something is still superior.",
+          "quote_zh": "从做过某事的人那里获取特定知识仍然更优。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "设定100万美元目标并拆解执行",
+          "body": "为使目标具体化，演讲者设定年收入100万美元的目标，并将其拆解为每月83,333美元，每日2,777美元。他指出，这个目标并非保证，而是用于框架化讨论，帮助观众理解实现路径。他承诺将分享优于他人的AI使用方法和提示词，但强调这些内容需要投入约一小时学习，且需掌握基础后才能使用高级AI代理工作流。",
+          "quote_en": "$1 million divided by 12 months is $83,333 per month. That number divided by 30 days is $2,777 per day.",
+          "quote_zh": "100万美元除以12个月是每月83,333美元。这个数字除以30天是每天2,777美元。",
+          "frame_id": "f01",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.0,
+        365.4
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "单人AI生意的收入路径与流量来源",
+      "segment_summary": "本段通过具体数字说明了单人实现百万收入的多种商业模式组合，包括产品销售、订阅和高单价客户，并指出新手应优先选择客户路线，通过持续输出内容建立受众，再过渡到产品路线，最终依靠社交平台流量转化实现规模化收入。",
+      "key_points": [
+        {
+          "title": "高单价客户是新手更易实现的起点",
+          "body": "演讲者主张新手应优先选择服务型业务，如每两天接一个5000美元的客户或每四天接一个10000美元的客户，因为相比向大量用户销售低价订阅或产品，向少数高净值客户销售高价值服务更容易达成，且无需立即建立大规模受众。他以自己在设计公司年收入6万美元却仍感拮据的经历说明，高单价服务的ROI更高，也更易说服客户支付，因为企业主愿意为增长付费。",
+          "quote_en": "If you go the client route, I recommend doing that as a beginner because some people still don't believe this.",
+          "quote_zh": "如果你选择客户路线，我建议新手这么做，因为有些人仍然不相信这一点。",
+          "frame_id": "f04",
+          "confidence": "high"
+        },
+        {
+          "title": "内容创作是建立受众和转化流量的核心机制",
+          "body": "演讲者强调，即使没有初始受众，也应通过持续在社交媒体上发布内容来建立受众，因为这既是证明专业能力的方式，也是未来产品销售的流量基础。他指出，通过不断学习、模仿、迭代和优化内容技能，可以实现从1万到5万次YouTube视频观看量，或每月50万到100万次社交媒体曝光，从而为产品落地页带来每日720次访问，最终实现18个150美元产品的日销售目标。",
+          "quote_en": "So the bit that I like to take is continuously building an audience, putting out content, iterating, refining, and improving your skill over time so that your audience growth kind of reflects the growth of your skill.",
+          "quote_zh": "我所推崇的做法是持续建立受众，发布内容，不断迭代、优化并提升技能，让受众增长反映你的技能提升。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "流量来源多样化，但社交平台是低成本首选",
+          "body": "演讲者指出，实现每日720次落地页访问的流量可以来自社交媒体、付费广告、SEO、网红合作等多种渠道。但作为单人创业者，初期资金有限，因此应优先选择社交媒体，专注于提升吸引注意力、传递价值和展示专业能力的技能，而非依赖模板或趋势，通过长期积累形成稳定流量基础，再逐步过渡到产品化变现。",
+          "quote_en": "It can come from social media. It can come from ads like Facebook ads or Google ads. It can come from SEO. It can come from influencer partnerships. It can come from podcast sponsorships, newsletters, sponsorships. It can really come from anything.",
+          "quote_zh": "它可以来自社交媒体。它可以来自Facebook广告或Google广告。它可以来自SEO。它可以来自网红合作。它可以来自播客赞助、通讯或赞助。它真的可以来自任何地方。",
+          "frame_id": "f03",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        365.4,
+        730.7
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "个人品牌内容产品三支柱",
+      "segment_summary": "演讲者提出用AI加速构建一人企业的三支柱模型：品牌、内容、产品。通过Eden的Canvas模板整合AI工具与专家知识，实现个人品牌策略的系统化构建。",
+      "key_points": [
+        {
+          "title": "三支柱模型：品牌、内容、产品",
+          "body": "演讲者主张一人企业成功依赖三个核心支柱：品牌（你是谁、帮助他人达成什么、为何值得关注）、内容（吸引人的观点和教学）、产品（可销售的产品或服务及落地页）。这三者构成完整商业闭环，品牌建立信任，内容吸引流量，产品实现变现。该模型通过AI工具整合，使创业者能系统性地规划和执行。",
+          "quote_en": "And those three pillars that you'll have are one. A brand, which is who you are, what you help people achieve, and why people should care about both. Two is content. So your ideas, opinions and teachings that attract people to your brand three is offer so your product, service and compelling landing page you can send people to from your content.",
+          "quote_zh": "你将拥有的三个支柱是：第一，品牌，即你是谁、你帮助人们实现什么、以及为什么人们应该关心这两者。第二是内容，即你的想法、观点和教学，吸引人们关注你的品牌。第三是产品，即你的产品、服务和引人注目的落地页，你可以从内容中引导人们前往。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "AI驱动的个人品牌策略构建",
+          "body": "演讲者主张利用AI工具（如Eden的Canvas）整合专家知识（如Alex、Mozi等营销专家）来加速个人品牌策略的制定。通过在Canvas中连接AI聊天、上传视频、输入提示词，用户可以与AI对话，提炼个人品牌定位，避免传统方法需要2-5年才能掌握的技能。该方法将专家经验转化为可操作的AI提示，实现快速学习和应用。",
+          "quote_en": "But with AI, if we train them on the principles of experts who willingly put out their knowledge on the internet like Alex or Mozi, sales expert, marketing expert, you have so many different people that talk about branding, about content, so on and so forth. Why can't you take that knowledge and then have the AI help you through that process?",
+          "quote_zh": "但有了AI，如果我们用那些自愿在网络上分享知识的专家（如Alex或Mozi，销售专家、营销专家）的原则来训练它们，你有那么多不同的人谈论品牌、内容等等。为什么不能把这种知识拿来，让AI帮助你完成这个过程呢？",
+          "frame_id": "f06",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        730.7,
+        1096.1
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "个人品牌四原则与AI应用",
+      "segment_summary": "本段提出个人品牌构建的四个核心原则：你是细分市场、需建立内容支柱、内容需基于痛点和高表现主题、需提炼成简洁的社交简介。同时说明如何用AI辅助：通过专家内容对话、转化为简化指南、再构建为教练式提示，实现自动化内容创作与发布。",
+      "key_points": [
+        {
+          "title": "个人品牌四原则",
+          "body": "演讲者提出构建个人品牌的四个原则：第一，你是细分市场，你的信念、经历和兴趣赋予你独特视角；第二，需建立内容支柱，包括一个计划变现的技能或兴趣，以及两个你热衷的互补主题；第三，内容支柱必须建立在痛点、基础性话题和高表现想法之上；第四，需将所有内容浓缩成1-2句吸引人的社交简介。这些原则构成个人品牌的基础框架。",
+          "quote_en": "The first principle is that you are the niche your beliefs, experiences, and interests give you a unique point of view that reflects in your content and products.",
+          "quote_zh": "第一个原则是，你是细分市场，你的信念、经历和兴趣赋予你独特视角，反映在你的内容和产品中。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "内容需基于痛点与高表现主题",
+          "body": "演讲者强调，内容必须解决受众的痛点，否则无法引起共鸣。他指出，许多人只凭兴趣写作，忽略内容对受众的重要性。同时，内容应包含基础性（evergreen）话题和高表现（outlier）话题，后者指在平台表现远超同类的内容，需收集并分析这些高表现内容，将其纳入自己的素材库（swipe file），用于AI对话和内容优化。",
+          "quote_en": "This is where most people mess up is they're like, okay, I like these topics. I have this idea, I'm just going to write about it, but they don't pay attention to why it's important to the actual person.",
+          "quote_zh": "这里大多数人搞砸了，他们想：好吧，我喜欢这些话题，我有个想法，我就写吧，但他们没注意这对实际观众为什么重要。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "用AI构建教练式提示",
+          "body": "演讲者建议将专家内容或个人策略转化为简化指南，再将其构建为AI提示。这种提示可以作为教练，先通过提问收集用户信息，再每日指导用户执行任务，如写作、设置简介、汇报进度等。当集成到AI代理（如Eden）中时，可设定时间表，自动发送灵感提示、协助内容优化，并直接发布到社交媒体，实现自动化内容创作流程。",
+          "quote_en": "You can just turn it into a coach or another person that holds you accountable.",
+          "quote_zh": "你可以把它变成一个教练或另一个能让你负责的人。",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1096.1,
+        1461.4
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "内容创作与AI协作机制",
+      "segment_summary": "内容创作需结合好点子与用户痛点，通过多平台内容生态循环复用。AI用于分析优秀内容原理并生成可优化的初稿，而非直接代写，以加速学习和创作。",
+      "key_points": [
+        {
+          "title": "内容创作需包含痛点或益处",
+          "body": "创作者应将每个想法与解决用户痛点或提供具体益处绑定，而非仅表达个人想法。这要求在产生想法时立即思考其对他人价值，并将其融入内容中，使内容更具吸引力和转化潜力。",
+          "quote_en": "you need to illustrate that reason well, the best way to understand this, or to just do this in general, is if you're reading something and you have an idea or you're reflecting on your life and you have an idea that you know you want to post",
+          "quote_zh": "你需要很好地说明这个原因，最好的理解方式是，当你阅读或反思生活时，有了一个想发布的想法",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "构建多平台内容生态循环",
+          "body": "以周更newsletter为核心，将其拆解为社交平台帖子、图文轮播或短视频脚本，优质内容再反哺YouTube视频，形成内容循环。这种结构能最大化内容复用效率，减少重复创作成本。",
+          "quote_en": "I write the newsletter every week that can splinter into posts, and then the best posts can be used as like a carousel or the script for a short or real. The newsletter turns into a YouTube video, and then all of that just feeds back into each other",
+          "quote_zh": "我每周写newsletter，它可以拆分成帖子，最好的帖子可作为轮播或短视频脚本。newsletter变成YouTube视频，所有内容相互反馈",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "用AI分析并生成内容初稿",
+          "body": "将优秀内容输入AI，要求其解析成功原理、心理技巧等，再将这些原则转化为可复用的提示词。使用时输入主题或参考内容，AI生成可优化的初稿，用户再调整为个人风格，实现高效学习与创作。",
+          "quote_en": "I first took tweets or posts that I really liked, and then I plug them into AI and they said, hey, the breakdown. Exactly why these work? What are the principles here? What are the psychological tactics?",
+          "quote_zh": "我先选中喜欢的推文或帖子，输入AI，让它分析：为什么这些内容有效？其中的原理和心理技巧是什么？",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1461.4,
+        1826.8
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "用AI生成客户画像、产品方案和落地页",
+      "segment_summary": "演讲者提出通过AI辅助完成个人商业的三个核心步骤：创建详细客户画像、设计无法抗拒的产品方案、生成落地页初稿。他强调需将AI训练为能应用优秀营销者知识的工具，并指出这些步骤需依次衔接，最终产出可迭代的初稿。",
+      "key_points": [
+        {
+          "title": "三步AI辅助流程：客户画像→产品方案→落地页",
+          "body": "演讲者主张通过三个连续的AI提示（prompt）完成商业核心构建：第一步生成客户画像，第二步基于画像设计无法抗拒的产品方案，第三步将两者结合生成落地页初稿。这三个步骤需按顺序进行，前一步的输出作为后一步的输入，形成闭环工作流。用户需对AI输出进行审核和迭代，确保内容准确无误。",
+          "quote_en": "So we have prompts for three things, but it helps to just know what we're doing here. First, we need to create a detailed customer avatar.",
+          "quote_zh": "所以我们有三个提示，但了解我们在做什么很重要。首先，我们需要创建一个详细的客户画像。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "训练AI应用专家知识的方法",
+          "body": "演讲者主张通过输入优秀营销者、销售员或文案的成果（如高转化率的社交媒体帖子），并要求AI分析其成功原因、提炼方法论，从而将专家知识转化为可复用的提示模板。这种方法使AI能模仿顶尖从业者的工作方式，而非仅执行简单指令。",
+          "quote_en": "You can take knowledge from an expert person, or you can take what they've done, like a social post that did really well. You can pop that into I ask you to break down why this works, or teach me how to do it, or turn it into a guide, and then you can turn that thing into a prompt",
+          "quote_zh": "你可以从专家那里获取知识，或者拿他们做过的东西，比如一个效果很好的社交媒体帖子。你可以把它放进AI，让它分析为什么有效，或教我怎么做，或转化为指南，然后你再把它变成一个提示。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "AI输出需人工审核与迭代",
+          "body": "演讲者明确指出，AI生成的内容可能产生幻觉（hallucinate），用户必须主动检查输出结果，例如在Notion或类似工具中打开并编辑内容，确保其符合预期。他强调，即使AI能完成大部分工作，用户仍需持续学习、实践和迭代，直到方案有效为止。",
+          "quote_en": "Make sure it didn't hallucinate because you're still having to baby the AI here.",
+          "quote_zh": "确保它没有产生幻觉，因为你仍然需要在这里小心地引导AI。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1826.8,
+        2192.1
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

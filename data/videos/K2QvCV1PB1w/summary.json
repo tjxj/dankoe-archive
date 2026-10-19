@@ -1,0 +1,473 @@
+{
+  "title_zh": "培养五大能力，用内容创作让AI无法替代你",
+  "one_liner": "摆脱工资奴隶制，通过培养五要素和内容创作建立主观价值，成为AI无法替代的人。",
+  "thesis": "工资奴隶制让人陷入无意义重复劳动，丧失自主与挑战，导致精神疲惫。AI时代，代码等客观技能易被替代，而内容创作的主观价值使其成为不可替代的核心能力。要成为AI无法替代的人，必须培养自主性、品味、说服力、坚持和迭代五要素，并通过内容创作实践这些要素，建立独特视角和个人事业。",
+  "overview_cards": [
+    {
+      "title": "逃离工资奴隶制",
+      "body": "传统雇佣模式让多数人陷入‘工资奴隶制’：为他人做非自愿的、无意义的重复工作以换取生存。这种工作在熟练后挑战性迅速下降，导致精神疲惫和无聊，无法激发内在动力。真正的享受来自挑战与技能匹配，因此必须脱离现有层级体系，建立自主人生，掌控自己的挑战和目标。",
+      "accent": "red"
+    },
+    {
+      "title": "培养五大核心能力",
+      "body": "未来抗AI替代的五大要素：自主性（无需许可就行动）、品味（判断什么值得做）、说服力（让他人关心你的工作）、坚持（理解错误是必要过程）、迭代（根据反馈修正方向）。这五者必须结合使用，单独追求某一项（如盲目模仿‘高自主性’）恰恰是低自主性的表现。",
+      "accent": "blue"
+    },
+    {
+      "title": "选择内容创作作为杠杆",
+      "body": "内容创作的价值是主观的，每个人解读不同，因此AI无法替代。相比之下，代码等客观价值技能更容易被自动化。内容不仅是产品，更是传播你‘人生工作’的载体。通过选择一个问题或使命，围绕它创作内容，吸引志同道合的受众，建立信任与忠诚，从而将个人价值放大。",
+      "accent": "green"
+    },
+    {
+      "title": "立即行动：挖掘、提炼、发布",
+      "body": "通过六个问题挖掘你被忽视的独特经验：如你大量研究但无人付费的主题、你解决过但以为他人已解决的问题等。从中提炼你的独特视角（contrarian spine），即你坚信而主流错误的观点。然后立即发布第一个内容，接受初稿不完美，基于反馈持续迭代。不发布就无法改进。",
+      "accent": "ink"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "工资奴隶制的本质与危害",
+      "body": "工资奴隶制指为他人做非自愿的、无意义的重复性工作以换取生存。这种工作在熟练后挑战性迅速下降，导致精神疲惫和无聊，无法激发内在动力。长期处于这种状态会使人失去对生活的掌控感，陷入被动生存。要摆脱此状态，必须认识到其危害，并主动寻求挑战与自主。",
+      "why": "它揭示了为什么许多人尽管有稳定工作却感到空虚疲惫。",
+      "quote_en": "Wage slavery is doing meaningless grind work you didn't choose for someone else just to survive.",
+      "quote_zh": "工资奴隶制就是为别人做你没选择的、无意义的苦力工作，只是为了生存。",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "未来抗AI替代的五大核心要素",
+      "body": "演讲者提出未来抗AI替代的五大核心要素：自主性（无需许可就行动）、品味（判断什么值得做）、说服力（让他人关心你的工作）、坚持（理解错误是必要过程）、迭代（根据反馈修正方向）。这五者必须结合使用，单独追求某一项（如盲目模仿‘高自主性’）恰恰是低自主性的表现。最终它们归结为‘解决问题的能力’和‘判断所需行动的经验’。",
+      "why": "它提供了一个系统性的能力框架，区别于单一技能。",
+      "quote_en": "The first is agency, which is the ability to just do things without permission. It's to see an opportunity and act on it when nobody asked you to.",
+      "quote_zh": "第一是自主性，即无需许可就能做事的能力。就是看到机会，即使没人要求你，也能采取行动。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "通过实践建立不可替代性",
+      "body": "仅靠AI构建产品不足以成功，必须通过亲自实践项目来培养品味、说服力、坚持和迭代能力。作者以自己赚取第一个300美元的经历说明，获得第一个收入是关键转折点，它使人产生‘不再受雇’的信念，从而形成不可替代的身份。这种身份转变不是靠理论学习，而是通过实际创造和迭代产品来实现。",
+      "why": "强调实践是内化高价值技能的唯一途径，无法通过观看视频获得。",
+      "quote_en": "I knew that if I could repeat, improve, and iterate on whatever I just did to make that money, I would somehow be able to gain more control over my lifestyle and future.",
+      "quote_zh": "我知道，如果我能重复、改进并迭代我刚刚做过的任何事情来赚到这笔钱，我就能以某种方式获得更多对生活方式和未来的控制权。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "身份转变需通过环境重塑实现",
+      "body": "行为改变等于身份改变，但若想成为某种人，必须主动进入能塑造该身份的环境，包括改变物理空间、数字信息源和社交圈。否则，即使短期改变行为，也会回归旧有身份。例如，减肥后若不改变价值观和环境，成果难以维持。因此，要成为高价值个体，必须主动重构自身环境。",
+      "why": "指出身份改变的关键在于环境支持，而非仅靠意志力。",
+      "quote_en": "Behavior change equals identity change because you can try to go on a diet and lose 30 pounds. But if you aren't a person who values health, that's not a part of who you are. You don't enjoy the process of being a healthy person. Then you will always feel like you're running uphill.",
+      "quote_zh": "行为改变等于身份改变，因为你可能尝试节食减掉30磅。但如果你不是一个重视健康的人，那不是你的一部分。你不享受健康人的过程。那么你永远会觉得像在逆坡奔跑。",
+      "frame_id": "f06",
+      "confidence": "high"
+    },
+    {
+      "title": "内容创作的价值主观，AI无法替代",
+      "body": "内容创作的价值是主观的，每个人对内容的解读不同，因此不存在唯一正确的答案。这要求创作者必须亲身经历试错过程，积累经验，而AI无法提供这种基于真实实践的教育。相比之下，代码的价值是客观的，只要功能实现，即使代码结构混乱，其价值也成立，因此更容易被AI替代。所以内容创作是更不可替代的技能。",
+      "why": "从价值主观性角度论证了内容创作在AI时代的独特优势。",
+      "quote_en": "The value of content is subjective. Every person reading every single sentence is going to interpret it in a different way.",
+      "quote_zh": "内容的价值是主观的。每个人阅读每一句话都会有不同的解读。",
+      "frame_id": "f11",
+      "confidence": "high"
+    },
+    {
+      "title": "通过六个问题挖掘个人原始素材",
+      "body": "个人价值源于被忽视的积累经验，需通过六个问题挖掘：1）你对什么主题投入大量研究却无人付费？2）你解决过什么自认为他人已解决的问题？3）什么对你自然但难倒他人？4）什么主流建议让你生活变差？5）你坚信但专家认为愚蠢的观点？6）你行业里被假装看不见的问题？这些答案构成内容创作的原始素材。",
+      "why": "提供了一套具体可操作的问题，帮助发现个人独特价值。",
+      "quote_en": "What do you know too much about for it to be an accident? What topic have you researched across dozens of sources for years without anyone paying you to?",
+      "quote_zh": "你对什么主题了解太多，以至于不可能是偶然？你曾多年研究过什么主题，而没有任何人付钱让你研究？",
+      "frame_id": "f14",
+      "confidence": "high"
+    },
+    {
+      "title": "立即发布并基于反馈迭代",
+      "body": "创作始于行动：选择一个挖掘出的答案，构思吸引人的标题和正文，接受首次发布质量不佳的事实。通过发布获得反馈，分析失败原因，学习他人成功案例，尝试具体技巧（如钩子写作），持续试错直至成功。核心机制是‘不发布就无法改进’，因此必须克服完美主义，立即开始。",
+      "why": "打破了‘准备好再开始’的拖延心理，强调行动和反馈循环。",
+      "quote_en": "You literally have post ideas written down from the last step. So you take one. You think of how to make the hook attention grabbing. You think of how to word the body for impact, and then you embrace that the first iteration will suck and that you can't improve what doesn't exist.",
+      "quote_zh": "你实际上已经从上一步写下了发布想法。你选一个，想想如何让钩子吸引人，如何措辞正文以产生影响，然后接受第一次迭代会很烂，因为无法改进不存在的东西。",
+      "frame_id": "f15",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:00",
+      "title": "工资奴隶制",
+      "body": "无意义工作导致精神疲惫，真正的威胁不是AI而是被动生存模式。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "06:46",
+      "title": "五大核心要素",
+      "body": "自主性、品味、说服力、坚持、迭代，需结合使用才能抗AI替代。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "13:31",
+      "title": "实践建立不可替代性",
+      "body": "通过实际项目获得收入，转变身份，形成‘不再受雇’的信念。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "20:17",
+      "title": "环境重塑与试错",
+      "body": "主动改变环境刺激，持续试错获取反馈，打破旧有心理模式。",
+      "frame_id": "f09"
+    },
+    {
+      "time": "27:02",
+      "title": "内容创作不可替代",
+      "body": "价值主观，AI无法替代，是传播个人‘人生工作’的杠杆。",
+      "frame_id": "f11"
+    },
+    {
+      "time": "33:48",
+      "title": "挖掘个人素材",
+      "body": "六个问题找到独特视角和内容方向，提炼个人独特观点。",
+      "frame_id": "f14"
+    },
+    {
+      "time": "40:34",
+      "title": "立即发布并迭代",
+      "body": "接受初稿不完美，基于反馈改进，不发布就无法进步。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "工资奴隶 vs 自主创造",
+      "body": "一端是为他人做无意义的重复劳动，丧失自主与挑战，导致精神疲惫；另一端是建立自己的事业，主动选择挑战，在能力边缘持续成长，获得心流与满足。脱离工资奴隶制的关键在于创建属于自己的层级体系，掌控目标和挑战。",
+      "accent": "red"
+    },
+    {
+      "title": "五要素能力模型",
+      "body": "自主性（行动）、品味（判断）、说服力（传播）、坚持（韧性）、迭代（改进）五者构成AI时代不可替代的能力组合。单独使用某一项无效，必须结合实践。例如，有自主性而无品味会盲目行动，有品味而无说服力则无法传播价值。",
+      "accent": "blue"
+    },
+    {
+      "title": "主观价值 vs 客观价值",
+      "body": "代码等客观技能的价值取决于功能实现，标准明确，易被AI自动化；内容创作的价值是主观的，依赖个人经验、视角和受众解读，AI难以复制。因此，内容创作是更稳固的不可替代性来源，也是传播个人‘人生工作’的杠杆。",
+      "accent": "green"
+    },
+    {
+      "title": "环境-身份重塑循环",
+      "body": "旧环境维持旧身份，新环境塑造新身份。行为改变若没有环境支持，会因惯性回归旧模式。要成为高价值个体，需主动改变物理空间、信息源和社交圈，使所有刺激指向新身份，从而巩固行为改变。",
+      "accent": "ochre"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Wage slavery is doing meaningless grind work you didn't choose for someone else just to survive.",
+      "zh": "工资奴隶制就是为别人做你没选择的、无意义的苦力工作，只是为了生存。",
+      "context": "视频开场定义工资奴隶制，揭示其本质。"
+    },
+    {
+      "en": "The first is agency, which is the ability to just do things without permission. It's to see an opportunity and act on it when nobody asked you to.",
+      "zh": "第一是自主性，即无需许可就能做事的能力。就是看到机会，即使没人要求你，也能采取行动。",
+      "context": "介绍五大核心要素之首，定义自主性。"
+    },
+    {
+      "en": "The value of content is subjective. Every person reading every single sentence is going to interpret it in a different way.",
+      "zh": "内容的价值是主观的。每个人阅读每一句话都会有不同的解读。",
+      "context": "解释为何内容创作比代码更不可替代。"
+    },
+    {
+      "en": "You literally have post ideas written down from the last step. So you take one. You think of how to make the hook attention grabbing. You think of how to word the body for impact, and then you embrace that the first iteration will suck and that you can't improve what doesn't exist.",
+      "zh": "你实际上已经从上一步写下了发布想法。你选一个，想想如何让钩子吸引人，如何措辞正文以产生影响，然后接受第一次迭代会很烂，因为无法改进不存在的东西。",
+      "context": "鼓励观众立即行动，发布第一个内容。"
+    },
+    {
+      "en": "You wake up tomorrow and you do nothing the same for at least a day. You set your alarm for a different time. You plan exactly what you're going to do when you wake up, and it's not the same thing that you normally do.",
+      "zh": "你明天醒来后至少一天内什么都不按常理做。你把闹钟调到不同时间。你计划好醒来后要做的每件事，而且不能是平时做的那些事。",
+      "context": "说明如何通过改变日常行为打破旧有心理模式。"
+    }
+  ],
+  "actions": [
+    "拿出纸笔或打开笔记软件，回答视频中的六个问题，挖掘你的独特经验和观点。",
+    "从答案中选一个，构思一个社交媒体帖子（包括钩子和正文），今天就发布出去。",
+    "明天早晨设置一个不同的闹钟，并计划一件你平时不会做的事（如晨跑、阅读一小时），打破惯性。",
+    "选择一个你感兴趣的领域，用AI工具辅助创建一个最小可行产品（如博客、工具），在过程中刻意练习五要素。",
+    "找三个你欣赏的内容创作者，分析他们的独特视角是什么，以及他们如何通过内容吸引受众。",
+    "记录一周内你感到无聊或疲惫的时刻，反思是否因为挑战不足，并主动增加难度。"
+  ],
+  "questions": [
+    {
+      "q": "我目前的工作是否让我感到精神疲惫？如果是，是因为缺乏自主还是挑战不足？",
+      "why": "帮助诊断自己是否处于工资奴隶制状态。"
+    },
+    {
+      "q": "我有哪些被忽视的知识或经验可以转化为内容？",
+      "why": "引导发现个人独特价值，启动内容创作。"
+    },
+    {
+      "q": "我是否在盲目模仿他人的成功模式，而没有形成自己的独特视角？",
+      "why": "检验是否真正具备自主性，避免低自主性陷阱。"
+    },
+    {
+      "q": "我上一次主动改变环境或尝试新事物是什么时候？",
+      "why": "促使反思环境对身份塑造的影响，推动行动。"
+    }
+  ],
+  "caveats": [
+    "分段结果基于AI转录，可能存在少量误差，但核心观点置信度高。",
+    "视频中未出现明显的第三方广告口播，但作者多次提及个人经历和理念，可能间接为其书籍、课程等产品引流。",
+    "部分概念（如‘工资奴隶制’）带有较强主观色彩，需结合自身情况批判性吸收。",
+    "时间节点基于分段范围估算，实际视频中对应时间可能有数秒偏差。"
+  ],
+  "topics": [
+    "AI不可替代性",
+    "内容创作",
+    "自主性",
+    "工资奴隶制",
+    "个人价值"
+  ],
+  "_meta": {
+    "video_id": "K2QvCV1PB1w",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "逃离工资奴隶制与AI威胁",
+      "segment_summary": "视频指出AI并非最大威胁，真正的威胁是个人对他人依赖生存。作者认为工资奴隶制是做无意义工作换取生存，而真正享受来自挑战与技能匹配。他主张个人需脱离现有层级体系，建立自主人生，通过持续提升技能和追求自主、目的等要素来获得满足感。",
+      "key_points": [
+        {
+          "title": "工资奴隶制的本质与危害",
+          "body": "工资奴隶制指为他人做非自愿的、无意义的重复性工作以换取生存。这种工作在熟练后挑战性迅速下降，导致精神疲惫和无聊，无法激发内在动力。长期处于这种状态会使人失去对生活的掌控感，陷入被动生存。作者通过自身在网页设计公司工作时因精神耗竭而放弃健身的经历，说明了这种工作对身心的消耗。他强调，这种工作模式违背了人类追求挑战与成长的天性。",
+          "quote_en": "Wage slavery is doing meaningless grind work you didn't choose for someone else just to survive.",
+          "quote_zh": "工资奴隶制就是为别人做你没选择的、无意义的苦力工作，只是为了生存。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "享受与满足来自挑战与技能匹配",
+          "body": "真正的享受、意义和满足感来源于在能力边缘挑战自我，即挑战略高于当前技能水平。这种状态能触发心流，是人类获得深层满足的核心机制。视频以游戏为例，说明挑战过难会失败，过易会无聊，只有适度挑战才有趣。而大多数工作在熟练后挑战性停滞，导致员工感到无聊和疲惫，注意力转向无意义的消遣，如刷手机，从而无法获得深层满足。",
+          "quote_en": "Picture enjoyment comes from pursuing a challenge just above your skill level.",
+          "quote_zh": "想象一下，享受来自于追求一个略高于你当前技能水平的挑战。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "脱离层级体系，建立自主人生",
+          "body": "现代社会的雇佣关系本质上是抽象化的奴隶制，形成金字塔结构，底层多数人依赖顶层少数人。这种体系中，个人无法控制目标和挑战，缺乏自主、目的和掌控感。作者主张必须完全脱离这种层级体系，不是否定所有层级，而是创建属于自己的层级，实现高自主性（high agency），从而掌控自己的挑战和人生方向，获得真正的自由与满足。",
+          "quote_en": "You have to completely just leave this pyramid scheme or this hierarchy behind, not that you're going to leave hierarchies altogether, but you're going to create your own.",
+          "quote_zh": "你必须完全摆脱这个金字塔骗局或层级体系，不是说你要彻底抛弃所有层级，而是你要创建你自己的层级。",
+          "frame_id": "f01",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.1,
+        405.7
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "AI时代个人成功的五大要素",
+      "segment_summary": "演讲者批判了传统工业社会的生存模式，指出其导致人们陷入被动、无创造力的‘奴隶’状态。他提出未来抗AI替代的五大核心要素：自主性、品味、说服力、坚持和迭代，并强调这些要素需结合使用，最终归结为‘解决问题的能力’和‘判断所需行动的经验’。",
+      "key_points": [
+        {
+          "title": "传统工作模式导致精神与财务双重奴役",
+          "body": "演讲者指出，工业社会教育人们成为单一领域的专家，只专注于完成他人分配的任务，而忽视了理解支撑该工作的系统。这种模式导致个人缺乏创造自己事业的能力，长期处于工作、睡眠、耗竭的循环中，没有资本、时间和精神能量去发展个人事业，最终在财务上不稳定、精神上疲惫，形成‘精神奴隶’状态。",
+          "quote_en": "And since you're stuck in the loop of one third of your life spent to sleep, one third of your life spent at work, one third of your life's been exhausted.",
+          "quote_zh": "因为你被困在三分之一生命用于睡觉、三分之一生命用于工作、三分之一生命被耗尽的循环中。",
+          "frame_id": "f04",
+          "confidence": "high"
+        },
+        {
+          "title": "未来抗AI替代的五大核心要素",
+          "body": "演讲者提出五个关键要素：第一，自主性，即无需许可就能行动；第二，品味，即判断什么值得推向世界；第三，说服力，即让他人关心你的工作；第四，坚持，即理解错误是必要的过程；第五，迭代，即根据反馈不断修正方向。他强调这五个要素必须结合使用，而非单独追求某一个。",
+          "quote_en": "The first is agency, which is the ability to just do things without permission. It's to see an opportunity and act on it when nobody asked you to.",
+          "quote_zh": "第一是自主性，即无需许可就能做事的能力。就是看到机会，即使没人要求你，也能采取行动。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "自主性需结合其他要素，避免盲目跟风",
+          "body": "演讲者批评当前‘高自主性’成为流行标签，人们只是盲目模仿社交媒体上的成功模式，这恰恰是低自主性的表现。他强调，真正的自主性不是口号，而是与品味、说服力、坚持和迭代等要素结合，形成系统性能力，才能真正实现个人创造和价值构建。",
+          "quote_en": "When you tell people to become high agency, and them just doing that alone signals that they're not high agency. They're low agency because they're just copying each other and what's going viral.",
+          "quote_zh": "当你告诉人们要变得高自主性，而他们仅仅这么做本身就说明他们不是高自主性。他们是低自主性，因为他们只是在互相模仿和追随病毒式传播的内容。",
+          "frame_id": "f03",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        405.7,
+        811.2
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "AI时代个人价值的构建路径",
+      "segment_summary": "本段提出，仅靠AI构建产品不足以成功，关键在于拥有品味、说服力、坚持和迭代能力。作者主张通过实际行动建立个人事业，从而获得不可替代性，并强调身份转变需通过环境重塑实现。",
+      "key_points": [
+        {
+          "title": "AI建产品需结合五要素才能成功",
+          "body": "作者指出，仅用AI构建应用并非终点，成功需要五个关键要素：品味（知道做什么）、说服力（推广能力）、坚持（不放弃）、迭代（根据反馈改进）和用户获取能力。这些要素无法通过观看视频学习获得，必须通过亲自实践项目来培养。即使AI能快速生成产品，但若缺乏这些能力，产品无法获得用户和价值。",
+          "quote_en": "They don't have taste, they don't know what to build, they don't know how to persist. They don't know how to iterate according to feedback, because this is obvious feedback that your app isn't working and they don't have persuasion, they don't have distribution, they can't get it into other people's hands, and they especially can't get them to care about it enough for them to use it and pay for it.",
+          "quote_zh": "他们没有品味，不知道该做什么，不知道如何坚持。不知道如何根据反馈迭代，因为这明显反馈是你的应用不奏效，他们没有说服力，没有分发能力，无法把它交到别人手中，尤其无法让他们足够关心从而使用并付费。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "通过实践建立不可替代性",
+          "body": "作者以自己300美元的首个客户为例，说明获得第一个收入是关键转折点，它使人产生‘不再受雇’的信念，从而形成不可替代的身份。这种身份转变不是靠理论学习，而是通过实际创造和迭代产品来实现。只有亲身经历，才能内化这些高价值技能，如坚持和反馈迭代。",
+          "quote_en": "I knew that if I could repeat, improve, and iterate on whatever I just did to make that money, I would somehow be able to gain more control over my lifestyle and future.",
+          "quote_zh": "我知道，如果我能重复、改进并迭代我刚刚做过的任何事情来赚到这笔钱，我就能以某种方式获得更多对生活方式和未来的控制权。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "身份转变需通过环境重塑实现",
+          "body": "作者强调，行为改变等于身份改变。若想成为某种人，必须主动进入能塑造该身份的环境，包括改变物理空间、数字信息源和社交圈。否则，即使短期改变行为，也会回归旧有身份。例如，想健康的人若不改变价值观和环境，减肥成果难以维持。因此，要成为高价值个体，必须主动重构自身环境。",
+          "quote_en": "Behavior change equals identity change because you can try to go on a diet and lose 30 pounds. But if you aren't a person who values health, that's not a part of who you are. You don't enjoy the process of being a healthy person. Then you will always feel like you're running uphill.",
+          "quote_zh": "行为改变等于身份改变，因为你可能尝试节食减掉30磅。但如果你不是一个重视健康的人，那不是你的一部分。你不享受健康人的过程。那么你永远会觉得像在逆坡奔跑。",
+          "frame_id": "f06",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        811.2,
+        1216.8
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "通过环境重塑与试错实现自我进化",
+      "segment_summary": "本段提出通过主动改变环境刺激来启动心理重塑，并强调持续试错是成长的核心机制。作者主张学习代码或媒体技能，利用AI实现被动收入，以此在未来的竞争中获得不可替代性。",
+      "key_points": [
+        {
+          "title": "主动重塑环境以打破旧有心理模式",
+          "body": "演讲者主张通过一夜之间彻底改变日常行为模式来打破旧有心理条件反射。具体方法包括调整起床时间、改变饮食、接触不同人群和内容，使所有感官刺激都指向新的自我塑造方向。这种环境突变能有效中断惯性思维，为内在成长创造空间。",
+          "quote_en": "You wake up tomorrow and you do nothing the same for at least a day. You set your alarm for a different time. You plan exactly what you're going to do when you wake up, and it's not the same thing that you normally do.",
+          "quote_zh": "你明天醒来后至少一天内什么都不按常理做。你把闹钟调到不同时间。你计划好醒来后要做的每件事，而且不能是平时做的那些事。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "通过持续试错获取真实反馈实现成长",
+          "body": "演讲者认为脱离试错机制是最危险的生活方式，因为只有通过真实反馈才能进行错误修正，从而获得挑战、发现和智慧。他以火箭发明为例说明，所有开创性成就都源于不断试错而非遵循现成指南。成功者能根据现实反馈调整方向，把失败视为必要过程。",
+          "quote_en": "The most dangerous lifestyle is one removed from continuous trial and error. To be removed from the process of error correction is to be removed from challenge, discovery, and hard earned wisdom that leads to growth that leads to fulfillment.",
+          "quote_zh": "最危险的生活方式就是脱离持续的试错。脱离错误修正过程，就等于脱离了挑战、发现和通过艰苦努力获得的智慧，而这些智慧最终导向成长和满足。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "掌握代码或媒体技能以实现被动收入",
+          "body": "演讲者引用navel的名言指出，代码和媒体是无门槛的杠杆工具，能创造睡后收入。他强调AI时代个人拥有巨大创造潜力，不应被技能门槛或工具壁垒所限制。通过构建软件或媒体产品，个人可实现自主创造，摆脱传统雇佣模式的束缚。",
+          "quote_en": "code and media are permissionless. Leverage their the leverage behind the newly rich. You can create software and media that works for you while you sleep.",
+          "quote_zh": "代码和媒体是无门槛的。利用它们，就是利用新富阶层背后的杠杆。你可以创建在你睡觉时为你工作的软件和媒体。",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1216.8,
+        1622.4
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "内容创作比代码更不可替代",
+      "segment_summary": "演讲者认为内容创作是未来最核心的不可替代技能，因其价值主观、需要试错经验，而代码价值客观、AI可替代。他主张选择内容作为人生事业的载体，并强调需明确‘人生工作’，通过高质量内容建立信任与忠诚的受众，从而实现影响力与成果的传播。",
+      "key_points": [
+        {
+          "title": "内容创作的价值主观，AI无法替代",
+          "body": "演讲者指出内容创作的价值是主观的，每个人对内容的解读不同，因此不存在唯一正确的答案。这要求创作者必须亲身经历试错过程，积累经验，而AI无法提供这种基于真实实践的教育。相比之下，代码的价值是客观的，只要功能实现，即使代码结构混乱，只要用户无感知问题，其价值就成立，因此更容易被AI替代。",
+          "quote_en": "The value of content is subjective. Every person reading every single sentence is going to interpret it in a different way.",
+          "quote_zh": "内容的价值是主观的。每个人阅读每一句话都会有不同的解读。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "内容是传播人生工作的载体",
+          "body": "演讲者强调，个人品牌只是实现人生工作的工具，而非目的。他以Peterson、Huberman等人为例，说明他们通过社交媒体传播自己的思想、世界观和信念，从而建立影响力。他主张普通人应选择内容作为起点，因为社交媒体是当前最有效的、无需许可的杠杆工具，能将个人工作成果传递给大众。",
+          "quote_en": "We're not building a personal brand because that is just the vessel to do the life's work.",
+          "quote_zh": "我们不是在打造个人品牌，因为那只是完成人生工作的载体。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "必须明确人生工作并用内容吸引受众",
+          "body": "演讲者要求观众思考‘什么是你的人生工作？’，并指出内容创作的核心是选择一个使命或问题，围绕它创造内容，吸引志同道合的人。他以音乐为例，说明音乐是产品，而内容是吸引粉丝的手段。只有建立了忠诚的受众基础，才能将产品（如演出、音乐）成功推向市场。",
+          "quote_en": "It's choosing a problem, choosing a mission, creating content around that, attracting people to it.",
+          "quote_zh": "这是选择一个问题，选择一个使命，围绕它创造内容，吸引人们关注它。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1622.4,
+        2027.9
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "挖掘个人独特价值并启动内容创作",
+      "segment_summary": "本段提出一个三步法：第一步，通过回答六个问题挖掘个人独特经历和认知；第二步，提炼个人独特视角（contrarian spine）；第三步，立即发布第一个内容并基于反馈迭代。强调内容需源于真实自我，而非模仿或追求速成。",
+      "key_points": [
+        {
+          "title": "通过六个问题挖掘个人原始素材",
+          "body": "演讲者主张，个人价值源于被忽视的积累经验，需通过六个问题挖掘：1）你对什么主题投入大量研究却无人付费？2）你解决过什么自认为他人已解决的问题？3）什么对你自然但难倒他人？4）什么主流建议让你生活变差？5）你坚信但专家认为愚蠢的观点？6）你行业里被假装看不见的问题？这些答案构成内容创作的原始素材。",
+          "quote_en": "What do you know too much about for it to be an accident? What topic have you researched across dozens of sources for years without anyone paying you to?",
+          "quote_zh": "你对什么主题了解太多，以至于不可能是偶然？你曾多年研究过什么主题，而没有任何人付钱让你研究？",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "提炼个人独特视角（contrarian spine）",
+          "body": "演讲者强调，内容需有独特视角，即你坚信而主流错误的观点。这种视角源于对主流错误的识别和修正能力，是内容的竞争力所在。通过回答关于主流建议、专家否定观点和行业盲点的问题，可定位个人独特视角，形成内容的‘脊梁’。",
+          "quote_en": "Your content needs a perspective that only you can see. That perspective comes from the one thing you believe that the mainstream gets wrong.",
+          "quote_zh": "你的内容需要一个只有你能看到的视角。这个视角源于你坚信而主流搞错的那一点。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "立即发布并基于反馈迭代",
+          "body": "演讲者主张，创作始于行动：选择一个挖掘出的答案，构思吸引人的标题和正文，接受首次发布质量不佳的事实。通过发布获得反馈，分析失败原因，学习他人成功案例，尝试具体技巧（如钩子写作），持续试错直至成功。强调‘不发布就无法改进’的机制。",
+          "quote_en": "You literally have post ideas written down from the last step. So you take one. You think of how to make the hook attention grabbing. You think of how to word the body for impact, and then you embrace that the first iteration will suck and that you can't improve what doesn't exist.",
+          "quote_zh": "你实际上已经从上一步写下了发布想法。你选一个，想想如何让钩子吸引人，如何措辞正文以产生影响，然后接受第一次迭代会很烂，因为无法改进不存在的东西。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        2027.9,
+        2433.5
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

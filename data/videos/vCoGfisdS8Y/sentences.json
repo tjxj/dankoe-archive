@@ -1,0 +1,3379 @@
+{
+  "id": "vCoGfisdS8Y",
+  "title": "The Future Of Work (& The New High-Income Skill Stack)",
+  "count": 468,
+  "paragraphs": [
+    {
+      "s": 0.125,
+      "e": 11.511,
+      "sentences": [
+        {
+          "s": 0.125,
+          "e": 1.751,
+          "en": "I want to ask you a question.",
+          "zh": "我想问你一个问题。"
+        },
+        {
+          "s": 1.751,
+          "e": 3.712,
+          "en": "That may sound weird at first.",
+          "zh": "乍一听可能有点奇怪。"
+        },
+        {
+          "s": 3.712,
+          "e": 6.965,
+          "en": "And that question is, why are you watching this?",
+          "zh": "这个问题就是：你为什么在看这个？"
+        },
+        {
+          "s": 7.382,
+          "e": 9.634,
+          "en": "Why are you watching this video specifically?",
+          "zh": "你为什么在看这个视频，而不是别的？"
+        },
+        {
+          "s": 9.634,
+          "e": 11.511,
+          "en": "Because you have access to ChatGPT.",
+          "zh": "因为你有 ChatGPT。"
+        }
+      ]
+    },
+    {
+      "s": 11.511,
+      "e": 39.08,
+      "sentences": [
+        {
+          "s": 11.511,
+          "e": 12.762,
+          "en": "You have access to Claude.",
+          "zh": "你有 Claude。"
+        },
+        {
+          "s": 12.762,
+          "e": 21.896,
+          "en": "You have access to all of these AI tools that are supposed to get rid of information, make craters obsolete, make writers obsolete, make everyone obsolete.",
+          "zh": "你有所有这些 AI 工具，它们本该消灭信息、让创作者被淘汰、让写作者被淘汰、让所有人被淘汰。"
+        },
+        {
+          "s": 21.896,
+          "e": 24.274,
+          "en": "But you are still watching this.",
+          "zh": "但你还在看这个视频。"
+        },
+        {
+          "s": 24.274,
+          "e": 30.613,
+          "en": "And of course, you could ask AI for information on the topic that we're going to talk about.",
+          "zh": "当然，你可以直接问 AI 获取我们今天要聊的话题的信息。"
+        },
+        {
+          "s": 30.613,
+          "e": 39.08,
+          "en": "Or you could just paste the YouTube link into AI and ask it for a quick summary, and it would do a pretty decent job and be able to give you the information.",
+          "zh": "或者你可以把 YouTube 链接粘贴给 AI，让它给你一个快速摘要，它会做得相当不错，能把信息给你。"
+        }
+      ]
+    },
+    {
+      "s": 39.08,
+      "e": 63.855,
+      "sentences": [
+        {
+          "s": 39.08,
+          "e": 49.716,
+          "en": "But I really want you to think about that right before you go all duma on me and how AI is going to replace everyone, because that question alone sets the foundation of this video.",
+          "zh": "但我真的希望你在对我喊\"AI 会取代所有人\"之前，先好好想想这个问题，因为光是这个问题，就奠定了这期视频的基础。"
+        },
+        {
+          "s": 49.716,
+          "e": 54.095,
+          "en": "It shines a light on what the future of creative work could look like.",
+          "zh": "它揭示了一个可能性：创造性工作的未来会是什么样子。"
+        },
+        {
+          "s": 54.095,
+          "e": 58.308,
+          "en": "That's exactly what we're going to break down very extensively.",
+          "zh": "这正是我们要深入拆解的内容。"
+        },
+        {
+          "s": 58.308,
+          "e": 62.479,
+          "en": "And the problem is that AI is coming for everyone's jobs, right?",
+          "zh": "问题是，AI 正在抢走所有人的工作，对吧？"
+        },
+        {
+          "s": 62.479,
+          "e": 63.855,
+          "en": "At least that's what people say.",
+          "zh": "至少人们是这么说的。"
+        }
+      ]
+    },
+    {
+      "s": 63.855,
+      "e": 85.543,
+      "sentences": [
+        {
+          "s": 63.855,
+          "e": 66.733,
+          "en": "And it looks like it's going to actually become true.",
+          "zh": "而且看起来这真的会变成现实。"
+        },
+        {
+          "s": 66.733,
+          "e": 73.323,
+          "en": "And the huge problem with that is that AI isn't only coming for the jobs, it's coming for the meaning.",
+          "zh": "更大的问题在于，AI 不只是在抢走工作，它在抢走意义。"
+        },
+        {
+          "s": 73.323,
+          "e": 75.033,
+          "en": "It's coming for the purpose in life.",
+          "zh": "它在抢走人生的目的。"
+        },
+        {
+          "s": 75.033,
+          "e": 83.208,
+          "en": "If you've been on social media, if you've been living in modern society, you understand that we have this mass scarcity of meaning and purpose.",
+          "zh": "如果你上过社交媒体，如果你生活在现代社会，你就明白我们正面临一场意义和目的的普遍匮乏。"
+        },
+        {
+          "s": 83.208,
+          "e": 85.543,
+          "en": "People just don't know what to do with their lives.",
+          "zh": "人们就是不知道这辈子该做什么。"
+        }
+      ]
+    },
+    {
+      "s": 85.543,
+      "e": 116.241,
+      "sentences": [
+        {
+          "s": 85.543,
+          "e": 92.383,
+          "en": "And if people's work is a source of that purpose, especially creative work, then what happens when it's gone?",
+          "zh": "如果工作——尤其是创造性工作——是那种目的感的来源，那当工作消失时，会发生什么？"
+        },
+        {
+          "s": 92.383,
+          "e": 95.178,
+          "en": "What happens when work doesn't equal purpose?",
+          "zh": "当工作不再等于目的，会发生什么？"
+        },
+        {
+          "s": 95.178,
+          "e": 104.646,
+          "en": "When work doesn't equal identity, when work doesn't equal how you mattered and how you acquired status in society, which is a generator of meaning.",
+          "zh": "当工作不再等于身份，当工作不再等于你如何产生价值、如何在社会中获得地位——而地位是意义的生成器——会发生什么？"
+        },
+        {
+          "s": 104.646,
+          "e": 109.901,
+          "en": "Whether we like to virtue signal about not playing status games or not, you play one every day.",
+          "zh": "不管我们喜不喜欢标榜自己\"不玩地位游戏\"，你每天都在玩。"
+        },
+        {
+          "s": 109.901,
+          "e": 116.241,
+          "en": "Most people think we are in a crisis, but personally I think this is one of the greatest opportunities ever.",
+          "zh": "大多数人认为我们身处危机，但我个人认为这是有史以来最大的机会之一。"
+        }
+      ]
+    },
+    {
+      "s": 116.241,
+      "e": 152.026,
+      "sentences": [
+        {
+          "s": 116.241,
+          "e": 121.621,
+          "en": "Because when I can do everything well, then everything becomes a commodity.",
+          "zh": "因为当我能把一切做得很好时，一切就变成了商品。"
+        },
+        {
+          "s": 121.621,
+          "e": 123.164,
+          "en": "It's not worth paying for.",
+          "zh": "不值得付费。"
+        },
+        {
+          "s": 123.164,
+          "e": 134.634,
+          "en": "So the second question that forms the foundation of this video is how do you become a scarce resource that people want to pay for, especially as a creative?",
+          "zh": "所以，构成这期视频基础的第二个问题是：你如何成为一个人们愿意付费的稀缺资源，尤其是作为一个创作者？"
+        },
+        {
+          "s": 134.634,
+          "e": 149.19,
+          "en": "And that comes from your taste, your perspective, your story, every other skill that we're going to break down in this video, step by step, this is going to be a mix of practical stuff and theories just to show where we're at in society.",
+          "zh": "这来自你的品味、你的视角、你的故事，以及我们将在视频中一步步拆解的每一项其他技能。这期内容会是实操和理论的混合，就是为了展示我们所处的社会阶段。"
+        },
+        {
+          "s": 149.19,
+          "e": 152.026,
+          "en": "So buckle in because we have a lot to talk about.",
+          "zh": "坐稳了，因为我们有很多要聊的。"
+        }
+      ]
+    },
+    {
+      "s": 152.026,
+      "e": 169.002,
+      "sentences": [
+        {
+          "s": 152.026,
+          "e": 154.07,
+          "en": "To start, I'm just going to rapid fire context.",
+          "zh": "一开始，我会快速交代背景。"
+        },
+        {
+          "s": 154.07,
+          "e": 163.163,
+          "en": "I'm going to show you how we got into the situation of not having any meaning in our lives, what that means when jobs go away and what the opportunities actually are.",
+          "zh": "我会告诉你我们是怎么陷入这种人生毫无意义的处境的，当工作消失时这意味着什么，以及真正的机会在哪里。"
+        },
+        {
+          "s": 163.163,
+          "e": 164.539,
+          "en": "So let's get into this.",
+          "zh": "那我们开始吧。"
+        },
+        {
+          "s": 164.539,
+          "e": 166.124,
+          "en": "Hold tight, try to pay attention.",
+          "zh": "抓紧了，尽量集中注意力。"
+        },
+        {
+          "s": 166.124,
+          "e": 169.002,
+          "en": "Here's the history of meaning in four acts.",
+          "zh": "意义的历史，可以分成四幕来讲。"
+        }
+      ]
+    },
+    {
+      "s": 169.002,
+      "e": 194.736,
+      "sentences": [
+        {
+          "s": 169.002,
+          "e": 172.046,
+          "en": "Act one meaning came from up there.",
+          "zh": "第一幕：意义来自\"上面\"。"
+        },
+        {
+          "s": 172.213,
+          "e": 177.51,
+          "en": "So for most of human history, meaning was given to you by gods, kings, elders and scriptures.",
+          "zh": "在人类历史的大部分时间里，意义是神、国王、长老和经文赋予你的。"
+        },
+        {
+          "s": 177.51,
+          "e": 180.889,
+          "en": "You didn't have to find it because it was assigned to you.",
+          "zh": "你不需要去寻找它，因为它已经被分配给你了。"
+        },
+        {
+          "s": 180.93,
+          "e": 189.105,
+          "en": "This is in very early foraging societies, in act two or during the industrial Revolution, meaning was found from out there.",
+          "zh": "在非常早期的采集社会是这样，到了第二幕，也就是工业革命时期，意义来自\"外面\"。"
+        },
+        {
+          "s": 189.147,
+          "e": 194.736,
+          "en": "So science replaced religion as the dominant framework, meaning shifted to productivity in progress.",
+          "zh": "科学取代宗教成为主导框架，意义转向了生产力和进步。"
+        }
+      ]
+    },
+    {
+      "s": 194.736,
+      "e": 210.793,
+      "sentences": [
+        {
+          "s": 194.736,
+          "e": 198.823,
+          "en": "You earned meaning through your work and through contribution to the machine.",
+          "zh": "你通过工作和为机器做贡献来挣得意义。"
+        },
+        {
+          "s": 198.823,
+          "e": 203.912,
+          "en": "Then in act three, where we are now, meaning was deconstructed into nothing.",
+          "zh": "然后到了第三幕，也就是我们现在所处的阶段，意义被解构成了一片虚无。"
+        },
+        {
+          "s": 203.912,
+          "e": 205.538,
+          "en": "Meaning is found nowhere.",
+          "zh": "意义无处可寻。"
+        },
+        {
+          "s": 205.538,
+          "e": 206.956,
+          "en": "This is postmodernism.",
+          "zh": "这就是后现代主义。"
+        },
+        {
+          "s": 206.956,
+          "e": 210.793,
+          "en": "We deconstruct everything because no single perspective is privileged.",
+          "zh": "我们解构一切，因为没有任何单一视角享有特权。"
+        }
+      ]
+    },
+    {
+      "s": 210.793,
+      "e": 223.806,
+      "sentences": [
+        {
+          "s": 210.793,
+          "e": 212.503,
+          "en": "Nothing is objectively true.",
+          "zh": "没有什么是客观真实的。"
+        },
+        {
+          "s": 212.503,
+          "e": 214.631,
+          "en": "Meaning isn't given or earned.",
+          "zh": "意义既不是被赋予的，也不是挣来的。"
+        },
+        {
+          "s": 214.631,
+          "e": 215.59,
+          "en": "It's just gone.",
+          "zh": "它就是消失了。"
+        },
+        {
+          "s": 215.59,
+          "e": 218.593,
+          "en": "And that leads to act four, where meaning will be found.",
+          "zh": "这就引出了第四幕：意义将从哪里被找到。"
+        },
+        {
+          "s": 218.676,
+          "e": 223.806,
+          "en": "In here, meaning has to be generated from within by you, for you.",
+          "zh": "在这里。意义必须由你、为你、从内在生成。"
+        }
+      ]
+    },
+    {
+      "s": 223.806,
+      "e": 246.704,
+      "sentences": [
+        {
+          "s": 223.806,
+          "e": 230.939,
+          "en": "So why does this matter for creatives or creators or people who don't want to give up their work?",
+          "zh": "那么，这对创意工作者、创作者，或者那些不想放弃自己工作的人来说，为什么重要？"
+        },
+        {
+          "s": 230.939,
+          "e": 232.357,
+          "en": "Because there's two types of work.",
+          "zh": "因为工作有两种类型。"
+        },
+        {
+          "s": 232.357,
+          "e": 238.238,
+          "en": "There's the mundane busy work, the repetitive work, the mechanical work, the assembly line style industrial work.",
+          "zh": "一种是枯燥的忙碌工作，重复性工作，机械性工作，流水线式的工业劳动。"
+        },
+        {
+          "s": 238.238,
+          "e": 242.325,
+          "en": "I don't care if that gets rid of I'm. I mean that in the kindest way possible.",
+          "zh": "我不在乎这种工作会不会消失，我是以最善意的方式说这句话的。"
+        },
+        {
+          "s": 242.325,
+          "e": 246.704,
+          "en": "I know that people's livelihoods are at stake, but we're going to talk about how things will look with that, too.",
+          "zh": "我知道这关系到很多人的生计，但我们也会聊聊那种情况下事情会变成什么样。"
+        }
+      ]
+    },
+    {
+      "s": 246.704,
+      "e": 279.612,
+      "sentences": [
+        {
+          "s": 246.704,
+          "e": 248.623,
+          "en": "But then there's creative work, right?",
+          "zh": "但还有另一种，创造性工作，对吧？"
+        },
+        {
+          "s": 248.623,
+          "e": 263.721,
+          "en": "The ability to see reality from your own lens, pull it into your mind, synthesize things together, create something, share it with another person, and then get feedback for your contribution in the form of money or currency, or just another form of value.",
+          "zh": "那种能力——从你自己的视角看现实，把它拉进你的大脑，把各种东西综合起来，创造出点什么，分享给另一个人，然后以金钱或货币的形式，或者别的价值形式，获得对你贡献的反馈。"
+        },
+        {
+          "s": 263.721,
+          "e": 266.224,
+          "en": "That's where humans find meaning.",
+          "zh": "这才是人类找到意义的地方。"
+        },
+        {
+          "s": 266.224,
+          "e": 276.859,
+          "en": "And so when meaning went from being handed to us to being earned through labor and then being found nowhere, it becomes our responsibility to create meaning.",
+          "zh": "所以，当意义从被交到我们手上，变成通过劳动去挣得，再变成无处可寻的时候，创造意义就成了我们自己的责任。"
+        },
+        {
+          "s": 276.859,
+          "e": 279.612,
+          "en": "Creatives are the meaning architects of society.",
+          "zh": "创意工作者是社会的意义建筑师。"
+        }
+      ]
+    },
+    {
+      "s": 279.612,
+      "e": 313.062,
+      "sentences": [
+        {
+          "s": 279.612,
+          "e": 286.536,
+          "en": "So if jobs form the foundation of meaning right now, to an extent, how do those go away and what happens?",
+          "zh": "那么，如果工作在某种程度上构成了当下意义的基础，当它们消失时会发生什么？"
+        },
+        {
+          "s": 286.536,
+          "e": 295.878,
+          "en": "So the traditional economic loop is that you work a job, you get a wage, you spend the company profits, and then that creates more jobs or the ability to pay.",
+          "zh": "传统的经济循环是这样的：你工作，拿工资，花掉公司利润，然后这又创造出更多工作岗位或支付能力。"
+        },
+        {
+          "s": 295.878,
+          "e": 297.922,
+          "en": "This is just a cycle, right.",
+          "zh": "这就是一个循环，对吧。"
+        },
+        {
+          "s": 297.922,
+          "e": 308.933,
+          "en": "And AI breaks this loop because if I does the jobs wages collapse, and if wages collapse, spending collapses and if spending collapses, the entire economic system falls apart.",
+          "zh": "而 AI 打破了这个循环，因为如果 AI 做了那些工作，工资就会崩塌，如果工资崩塌，消费就会崩塌，如果消费崩塌，整个经济体系就会崩溃。"
+        },
+        {
+          "s": 308.933,
+          "e": 313.062,
+          "en": "And this brings up the post labor economics framework that David Shapiro created.",
+          "zh": "这就引出了 David Shapiro 提出的后劳动经济学框架。"
+        }
+      ]
+    },
+    {
+      "s": 313.062,
+      "e": 346.971,
+      "sentences": [
+        {
+          "s": 313.062,
+          "e": 316.774,
+          "en": "He actually has a book called Labor Zero coming out about it soon.",
+          "zh": "他其实马上要出一本关于这个的书，叫《Labor Zero》。"
+        },
+        {
+          "s": 316.774,
+          "e": 324.157,
+          "en": "I would highly recommend going and watching his YouTube video playlist on post Labor Up on Post Labor Economics, because it's very enlightening.",
+          "zh": "我强烈推荐你去看看他在 YouTube 上关于后劳动经济学的视频播放列表，非常有启发性。"
+        },
+        {
+          "s": 324.157,
+          "e": 327.91,
+          "en": "And while it's just a theory and it may not happen, I think theories are cool.",
+          "zh": "虽然这只是一个理论，可能不会发生，但我觉得理论本身就很酷。"
+        },
+        {
+          "s": 327.91,
+          "e": 345.428,
+          "en": "And another thing about creatives is that the more attention you attract to a theory that leads society in a new direction, and the more supporters you get for that thing that tends to create culture and society, the more attention that is invested into a creative idea is more likely to come true than not.",
+          "zh": "关于创造者还有一点：你为一个引领社会走向新方向的理论吸引的注意力越多，为这个可能塑造文化和社会的东西争取到的支持者越多，那么投入到一个创造性想法上的注意力，就越有可能让它成真，而不是落空。"
+        },
+        {
+          "s": 345.428,
+          "e": 346.971,
+          "en": "Things just don't happen.",
+          "zh": "事情不会凭空发生。"
+        }
+      ]
+    },
+    {
+      "s": 346.971,
+      "e": 374.415,
+      "sentences": [
+        {
+          "s": 346.971,
+          "e": 351.559,
+          "en": "Humans build what they want to see in the world, and that could very much be a thing.",
+          "zh": "人类会建造他们想在这个世界上看到的东西，而这完全可能成为现实。"
+        },
+        {
+          "s": 351.559,
+          "e": 357.607,
+          "en": "So the very, very brief version of post labor economics is that household income comes from three sources.",
+          "zh": "所以，后劳动经济学的一个非常非常简短的版本是：家庭收入来自三个来源。"
+        },
+        {
+          "s": 357.607,
+          "e": 360.026,
+          "en": "There's wages, so you get paid for your labor.",
+          "zh": "首先是工资，你靠出卖劳动力获得报酬。"
+        },
+        {
+          "s": 360.026,
+          "e": 361.486,
+          "en": "This is what I threatens.",
+          "zh": "这就是我所说的威胁所在。"
+        },
+        {
+          "s": 361.486,
+          "e": 374.415,
+          "en": "Then there's transfers like government payments, UBI, etc.. But the problem with this becoming the dominant source, just everyone getting paid by the government is that it becomes politically unstable and it distorts markets.",
+          "zh": "然后是转移支付，比如政府补贴、全民基本收入等等。但问题是，如果这成为主导来源，也就是所有人都靠政府发钱过日子，那在政治上会变得不稳定，还会扭曲市场。"
+        }
+      ]
+    },
+    {
+      "s": 374.415,
+      "e": 394.644,
+      "sentences": [
+        {
+          "s": 374.415,
+          "e": 381.881,
+          "en": "And frankly, if we're here for meaning, I personally will not find a lot of meaning just sitting on the couch all day collecting money.",
+          "zh": "而且坦白说，如果我们活着是为了意义，我个人不会觉得整天坐在沙发上领钱能找到多少意义。"
+        },
+        {
+          "s": 381.881,
+          "e": 384.592,
+          "en": "I need to grow. I need to challenge myself.",
+          "zh": "我需要成长。我需要挑战自己。"
+        },
+        {
+          "s": 384.592,
+          "e": 390.598,
+          "en": "I have maybe 60 more years on this planet like I unless we solve immortality too.",
+          "zh": "我在这颗星球上大概还有60年，除非我们连永生也一并解决了。"
+        },
+        {
+          "s": 390.598,
+          "e": 392.558,
+          "en": "But I need to do something.",
+          "zh": "但我总得做点什么。"
+        },
+        {
+          "s": 392.558,
+          "e": 394.644,
+          "en": "And then the third way is capital income.",
+          "zh": "然后第三种方式是资本收入。"
+        }
+      ]
+    },
+    {
+      "s": 394.644,
+      "e": 424.966,
+      "sentences": [
+        {
+          "s": 394.644,
+          "e": 396.854,
+          "en": "So this is owning assets that generate money.",
+          "zh": "也就是拥有能产生金钱的资产。"
+        },
+        {
+          "s": 396.854,
+          "e": 407.782,
+          "en": "And this is where things get interesting because the future probably requires broadening capital participation, regular people owning income generating assets, not just billionaires, but that's just the thing.",
+          "zh": "这正是事情变得有趣的地方，因为未来很可能需要扩大资本参与度，让普通人拥有能产生收入的资产，而不只是亿万富翁。但问题就在这里。"
+        },
+        {
+          "s": 407.782,
+          "e": 415.832,
+          "en": "I still want to do, something I still want to create, and people will still need meaning that is derived from just that.",
+          "zh": "我还是想做点什么，我还是想创造，而人们仍然需要从这件事本身获得意义。"
+        },
+        {
+          "s": 415.832,
+          "e": 420.086,
+          "en": "And that's where you and I come in, the people who value this way of life.",
+          "zh": "这就是你我登场的地方，那些珍视这种生活方式的人。"
+        },
+        {
+          "s": 420.086,
+          "e": 424.966,
+          "en": "So even though we talk about all jobs disappearing, all jobs are not going to disappear.",
+          "zh": "所以，尽管我们谈论所有工作都会消失，但并非所有工作都会消失。"
+        }
+      ]
+    },
+    {
+      "s": 424.966,
+      "e": 443.359,
+      "sentences": [
+        {
+          "s": 424.966,
+          "e": 427.635,
+          "en": "There are still going to be jobs that require humans in the loop.",
+          "zh": "仍然会有需要人类参与其中的工作。"
+        },
+        {
+          "s": 427.635,
+          "e": 435.226,
+          "en": "So things like high liability roles, because you want the human accountable for that thing, statutory positions that have legal requirements.",
+          "zh": "比如高责任岗位，因为你希望有人类为那件事负责；还有法定职位，有法律上的要求。"
+        },
+        {
+          "s": 435.226,
+          "e": 437.145,
+          "en": "Then there's the experience economy.",
+          "zh": "然后是体验经济。"
+        },
+        {
+          "s": 437.145,
+          "e": 440.773,
+          "en": "So bartenders, boutique shops, art galleries, live performances.",
+          "zh": "比如调酒师、精品店、艺术画廊、现场演出。"
+        },
+        {
+          "s": 440.773,
+          "e": 443.359,
+          "en": "This is going to see a huge boom coming into the future.",
+          "zh": "这在未来会迎来巨大的繁荣。"
+        }
+      ]
+    },
+    {
+      "s": 443.359,
+      "e": 471.762,
+      "sentences": [
+        {
+          "s": 443.359,
+          "e": 448.906,
+          "en": "And then the meaning makers or the meaning economy, which is people who help others navigate the human experience.",
+          "zh": "然后是意义创造者，或者说意义经济，也就是那些帮助他人驾驭人生体验的人。"
+        },
+        {
+          "s": 448.906,
+          "e": 450.783,
+          "en": "And then there's relationship and trust job.",
+          "zh": "还有关系和信任类工作。"
+        },
+        {
+          "s": 450.783,
+          "e": 459.584,
+          "en": "So like sales, diplomacy, negotiation, etc.. But the pattern here is that the jobs that survive are the ones where the human is the product.",
+          "zh": "比如销售、外交、谈判等等。但这里的规律是：能存活下来的工作，是那些“人本身就是产品”的工作。"
+        },
+        {
+          "s": 459.584,
+          "e": 462.42,
+          "en": "It's not what they produce, it's who they are.",
+          "zh": "关键不在于他们生产了什么，而在于他们是谁。"
+        },
+        {
+          "s": 462.42,
+          "e": 471.762,
+          "en": "And personally, what comes to mind here is a quote from novel that I read a long time ago, and that quote is there are almost 7 billion people on this planet.",
+          "zh": "就我个人而言，这让我想起很久以前读过的一本小说里的一句话，那句话是：这个星球上有将近70亿人。"
+        }
+      ]
+    },
+    {
+      "s": 471.762,
+      "e": 492.074,
+      "sentences": [
+        {
+          "s": 471.762,
+          "e": 475.349,
+          "en": "Someday I hope there will be almost 7 billion companies.",
+          "zh": "我希望有一天，会有将近70亿家公司。"
+        },
+        {
+          "s": 475.349,
+          "e": 486.819,
+          "en": "And if you've watched any of my one person business videos where I go on the more heavy philosophy side rather than the practical side, you can see what I'm getting at here is that every person has the chance to become their own enterprise.",
+          "zh": "如果你看过我的任何一期一人企业视频，就是那些我更偏向深度哲学而非实操层面的内容，你就会明白我想表达的是：每个人都有机会成为自己的企业。"
+        },
+        {
+          "s": 486.819,
+          "e": 487.904,
+          "en": "I mean, think of where we're at.",
+          "zh": "我的意思是，想想我们现在所处的位置。"
+        },
+        {
+          "s": 487.904,
+          "e": 488.988,
+          "en": "I think this makes sense.",
+          "zh": "我觉得这完全说得通。"
+        },
+        {
+          "s": 488.988,
+          "e": 492.074,
+          "en": "You have AI, you can learn anything, you can build anything.",
+          "zh": "你有AI，你可以学习任何东西，你可以构建任何东西。"
+        }
+      ]
+    },
+    {
+      "s": 492.074,
+      "e": 501.792,
+      "sentences": [
+        {
+          "s": 492.074,
+          "e": 494.994,
+          "en": "You can do what people have been telling you you've been able to do.",
+          "zh": "你可以做到那些别人一直告诉你能做到的事。"
+        },
+        {
+          "s": 494.994,
+          "e": 496.787,
+          "en": "Will everyone become their own company?",
+          "zh": "每个人都会成为自己的公司吗？"
+        },
+        {
+          "s": 496.787,
+          "e": 497.455,
+          "en": "Of course not.",
+          "zh": "当然不会。"
+        },
+        {
+          "s": 497.455,
+          "e": 498.831,
+          "en": "Is everyone watching this video?",
+          "zh": "正在看这个视频的会是所有人吗？"
+        },
+        {
+          "s": 498.831,
+          "e": 501.792,
+          "en": "Of course not. Will everyone even register this as important?",
+          "zh": "当然不是。甚至有多少人会意识到这件事的重要性？"
+        }
+      ]
+    },
+    {
+      "s": 501.792,
+      "e": 521.562,
+      "sentences": [
+        {
+          "s": 501.792,
+          "e": 505.296,
+          "en": "No, I'm just providing a potential opportunity for those who want to take it.",
+          "zh": "不会的，我只是给那些愿意抓住机会的人提供一个潜在的可能性。"
+        },
+        {
+          "s": 505.296,
+          "e": 510.218,
+          "en": "And if you've read my book, Purpose in Profit, it's free to read on my Substack link in the description.",
+          "zh": "如果你读过我的书《Purpose in Profit》，简介里有链接，可以在我的 Substack 上免费阅读。"
+        },
+        {
+          "s": 510.218,
+          "e": 518.476,
+          "en": "Then you see where I'm getting at here, because in that book, I go over the creative way of life where you identify problems, you solve them.",
+          "zh": "那你就能明白我想表达什么了，因为在那本书里，我讲了一种创造性的生活方式：你发现问题，然后解决问题。"
+        },
+        {
+          "s": 518.476,
+          "e": 520.186,
+          "en": "That removes the limits on your potential.",
+          "zh": "这会打破你潜力的上限。"
+        },
+        {
+          "s": 520.186,
+          "e": 521.562,
+          "en": "It forces you to learn.",
+          "zh": "它会逼着你去学习。"
+        }
+      ]
+    },
+    {
+      "s": 521.562,
+      "e": 546.295,
+      "sentences": [
+        {
+          "s": 521.562,
+          "e": 525.691,
+          "en": "And then from the solution you create, you turn that into something that you can give someone else.",
+          "zh": "然后你从自己创造的解决方案里，把它变成可以交付给别人的东西。"
+        },
+        {
+          "s": 525.691,
+          "e": 529.32,
+          "en": "And that is arguably the most meaningful way to live.",
+          "zh": "而这可以说是最有意义的一种活法。"
+        },
+        {
+          "s": 529.32,
+          "e": 534.992,
+          "en": "So not only is this a way to gain an advantage in the future, it's a very meaningful thing to do.",
+          "zh": "所以这不仅是一种在未来获得优势的方式，更是一件非常有意义的事。"
+        },
+        {
+          "s": 534.992,
+          "e": 544.21,
+          "en": "And speaking of meaning, that leads to the second point where we're going to talk about the anatomy of meaning, because I want to give you a framework for understanding how meaning is generated.",
+          "zh": "说到意义，这就引出了第二点，我们来拆解一下意义的构成，因为我想给你一个理解意义如何产生的框架。"
+        },
+        {
+          "s": 544.21,
+          "e": 546.295,
+          "en": "That way you can engineer meaning.",
+          "zh": "这样你就可以主动设计意义。"
+        }
+      ]
+    },
+    {
+      "s": 546.295,
+      "e": 559.475,
+      "sentences": [
+        {
+          "s": 546.295,
+          "e": 551.926,
+          "en": "So in order to understand how to generate meaning, we need to understand what leads to meaninglessness.",
+          "zh": "要理解如何产生意义，我们得先明白是什么导致了无意义感。"
+        },
+        {
+          "s": 551.926,
+          "e": 553.844,
+          "en": "And there's two killers of meaning here.",
+          "zh": "这里有两个扼杀意义的元凶。"
+        },
+        {
+          "s": 553.844,
+          "e": 555.012,
+          "en": "There's stagnation.",
+          "zh": "一个是停滞。"
+        },
+        {
+          "s": 555.012,
+          "e": 557.265,
+          "en": "So no forward movement, no progress.",
+          "zh": "也就是没有前进，没有进展。"
+        },
+        {
+          "s": 557.265,
+          "e": 559.475,
+          "en": "You just feel stuck and then there's isolation.",
+          "zh": "你只是感觉被困住了，另一个是孤立。"
+        }
+      ]
+    },
+    {
+      "s": 559.475,
+      "e": 567.608,
+      "sentences": [
+        {
+          "s": 559.475,
+          "e": 561.31,
+          "en": "So no connection to something greater.",
+          "zh": "也就是和更宏大的事物之间没有连接。"
+        },
+        {
+          "s": 561.31,
+          "e": 562.603,
+          "en": "Feeling like you don't matter.",
+          "zh": "感觉自己无足轻重。"
+        },
+        {
+          "s": 562.603,
+          "e": 564.814,
+          "en": "And this is why modern life feels so empty.",
+          "zh": "这就是为什么现代生活让人感觉如此空虚。"
+        },
+        {
+          "s": 564.814,
+          "e": 566.065,
+          "en": "I mean, just look at your phone.",
+          "zh": "你想想，看看你的手机。"
+        },
+        {
+          "s": 566.065,
+          "e": 567.608,
+          "en": "You're not progressing in any way.",
+          "zh": "你没有任何形式的进步。"
+        }
+      ]
+    },
+    {
+      "s": 567.608,
+      "e": 588.838,
+      "sentences": [
+        {
+          "s": 567.608,
+          "e": 569.026,
+          "en": "You're not contributing in any way.",
+          "zh": "你没有任何形式的贡献。"
+        },
+        {
+          "s": 569.026,
+          "e": 575.283,
+          "en": "You're not connected to other people you think you are because you're in this digital world and there is some form of connection that can come from that.",
+          "zh": "你以为自己和别人有连接，因为你身处这个数字世界，那里确实能产生某种形式的连接。"
+        },
+        {
+          "s": 575.283,
+          "e": 578.494,
+          "en": "But you're not globally connected to so many frickin people.",
+          "zh": "但你并没有和那么多真实的人建立真正的连接。"
+        },
+        {
+          "s": 578.494,
+          "e": 584.792,
+          "en": "And frankly, these companies profit from you being addicted to this thing, to this machine.",
+          "zh": "而且说白了，这些公司就是从你对这个东西、这台机器上瘾中获利的。"
+        },
+        {
+          "s": 584.792,
+          "e": 588.838,
+          "en": "So it's stagnation and isolation lead to meaninglessness.",
+          "zh": "所以停滞和孤立导致了无意义感。"
+        }
+      ]
+    },
+    {
+      "s": 588.838,
+      "e": 606.105,
+      "sentences": [
+        {
+          "s": 588.838,
+          "e": 590.381,
+          "en": "What leads to meaning.",
+          "zh": "那什么能带来意义呢。"
+        },
+        {
+          "s": 590.381,
+          "e": 592.216,
+          "en": "And there are two pillars here.",
+          "zh": "这里有两个支柱。"
+        },
+        {
+          "s": 592.216,
+          "e": 594.051,
+          "en": "Pillar one is progress.",
+          "zh": "支柱一：进步。"
+        },
+        {
+          "s": 594.051,
+          "e": 600.641,
+          "en": "So forward movement because humans need to feel like they're going somewhere, not arriving at a goal and just stopping and giving up.",
+          "zh": "也就是向前走，因为人类需要感觉自己正在去往某个地方，而不是到达一个目标后就停下来、放弃了。"
+        },
+        {
+          "s": 600.641,
+          "e": 606.105,
+          "en": "Like the person who built a $100 million company and then stopped and and found that their life lacked meaning.",
+          "zh": "就像那个打造了一家价值一亿美元公司的人，然后他停了下来，发现自己的生活缺乏意义。"
+        }
+      ]
+    },
+    {
+      "s": 606.105,
+      "e": 621.829,
+      "sentences": [
+        {
+          "s": 606.105,
+          "e": 609.567,
+          "en": "But progress is achieved through creative problem solving.",
+          "zh": "而进步是通过创造性地解决问题来实现的。"
+        },
+        {
+          "s": 609.567,
+          "e": 613.946,
+          "en": "It's through struggle, not through suffering, so to say, through struggle.",
+          "zh": "是通过挣扎，而不是受苦，这么说吧，通过挣扎。"
+        },
+        {
+          "s": 613.946,
+          "e": 615.615,
+          "en": "There's a distinction between the two.",
+          "zh": "这两者是有区别的。"
+        },
+        {
+          "s": 615.615,
+          "e": 619.785,
+          "en": "And I would encourage you to remove any negative connotations you have with the word struggle.",
+          "zh": "我建议你消除对\"挣扎\"这个词的任何负面联想。"
+        },
+        {
+          "s": 619.785,
+          "e": 621.829,
+          "en": "And then pillar two is contribution.",
+          "zh": "然后第二个支柱是贡献。"
+        }
+      ]
+    },
+    {
+      "s": 621.829,
+      "e": 642.099,
+      "sentences": [
+        {
+          "s": 621.829,
+          "e": 626.709,
+          "en": "So progress and contribution, forward movement and a connection to something greater than yourself.",
+          "zh": "所以是进步和贡献，向前推进，以及与比自己更大的事物建立连接。"
+        },
+        {
+          "s": 626.709,
+          "e": 629.378,
+          "en": "There's a Nietzsche quote for this on happiness.",
+          "zh": "关于幸福，尼采有一句话。"
+        },
+        {
+          "s": 629.378,
+          "e": 633.132,
+          "en": "If someone posted post it in the comments because I can't recite it directly.",
+          "zh": "如果有人记得，请发在评论区，因为我没法直接背出来。"
+        },
+        {
+          "s": 633.132,
+          "e": 638.638,
+          "en": "But it's something like happiness is the feeling of resistance being overcome, of progress being made.",
+          "zh": "但大意是，幸福就是阻力被克服、进步正在发生的感觉。"
+        },
+        {
+          "s": 638.638,
+          "e": 642.099,
+          "en": "So this insight isn't anything new, we just need to be reminded of it.",
+          "zh": "所以这个洞见并不新鲜，我们只是需要被提醒。"
+        }
+      ]
+    },
+    {
+      "s": 642.099,
+      "e": 657.448,
+      "sentences": [
+        {
+          "s": 642.099,
+          "e": 647.98,
+          "en": "But when it comes to contribution, humans need to feel like their progress matters to someone more than themselves.",
+          "zh": "但说到贡献，人需要感觉到自己的进步对超越自身的人有意义。"
+        },
+        {
+          "s": 647.98,
+          "e": 651.776,
+          "en": "And this is why solo projects can start to feel hollow after a while.",
+          "zh": "这就是为什么独自做的项目，过一段时间会开始觉得空虚。"
+        },
+        {
+          "s": 651.776,
+          "e": 653.861,
+          "en": "Because you need an audience or community.",
+          "zh": "因为你需要受众或社群。"
+        },
+        {
+          "s": 653.861,
+          "e": 654.779,
+          "en": "You need a cause.",
+          "zh": "你需要一个事业。"
+        },
+        {
+          "s": 654.779,
+          "e": 657.448,
+          "en": "And I'm not talking about a million followers like I have.",
+          "zh": "我说的不是像我这样有百万粉丝。"
+        }
+      ]
+    },
+    {
+      "s": 657.448,
+      "e": 695.695,
+      "sentences": [
+        {
+          "s": 657.448,
+          "e": 666.332,
+          "en": "There are plenty of people with just tiny followings or even a tiny community in their real life that are able to sustain some form of an income.",
+          "zh": "有很多人只有很小的关注量，甚至在现实生活中只有一个小圈子，也能维持某种形式的收入。"
+        },
+        {
+          "s": 666.332,
+          "e": 674.34,
+          "en": "And now when we talk about money, if jobs go away and money starts to transform and money moves away from being a productivity metric, what happens?",
+          "zh": "现在当我们谈论钱，如果工作岗位消失，金钱开始转变，金钱不再作为衡量生产力的指标，会发生什么？"
+        },
+        {
+          "s": 674.34,
+          "e": 682.473,
+          "en": "Personally, I think money is going to continue to be a status symbol, but it's going to be a tool to express agency.",
+          "zh": "我个人认为，钱会继续是一种身份象征，但它会成为一种表达自主权的工具。"
+        },
+        {
+          "s": 682.473,
+          "e": 685.643,
+          "en": "It's going to be a tool for growth just like it is now.",
+          "zh": "它会成为一种成长工具，就像现在一样。"
+        },
+        {
+          "s": 685.643,
+          "e": 695.695,
+          "en": "We're just removing the shallow layer we're transcending as to what money was in the first place and what it was meant to be, which is your ability to do things you weren't able to do before.",
+          "zh": "我们只是在剥掉那层肤浅的外壳，超越金钱最初被赋予的样子和它本该成为的样子，也就是你去做以前做不到的事情的能力。"
+        }
+      ]
+    },
+    {
+      "s": 695.695,
+      "e": 712.169,
+      "sentences": [
+        {
+          "s": 695.695,
+          "e": 699.365,
+          "en": "And it's kind of a physical representation of your growth.",
+          "zh": "它算是你成长的一种物理表征。"
+        },
+        {
+          "s": 699.365,
+          "e": 704.078,
+          "en": "So if those are the two pillars, progress and contribution for meaning, what are the generators?",
+          "zh": "那么，如果进步和贡献是意义的两大支柱，生成器是什么？"
+        },
+        {
+          "s": 704.078,
+          "e": 706.247,
+          "en": "How do you actually generate meaning in your life?",
+          "zh": "你如何真正在生活中生成意义？"
+        },
+        {
+          "s": 706.247,
+          "e": 710.459,
+          "en": "The generators are struggle, curiosity and status for struggle.",
+          "zh": "生成器是挣扎、好奇心和地位。先说挣扎。"
+        },
+        {
+          "s": 710.459,
+          "e": 712.169,
+          "en": "That's the engine of progress.",
+          "zh": "那是进步的引擎。"
+        }
+      ]
+    },
+    {
+      "s": 712.169,
+      "e": 725.558,
+      "sentences": [
+        {
+          "s": 712.169,
+          "e": 715.798,
+          "en": "For curiosity, that's the direction of progress and for status.",
+          "zh": "好奇心，那是进步的方向。再说地位。"
+        },
+        {
+          "s": 715.798,
+          "e": 717.758,
+          "en": "That's the proof of contribution.",
+          "zh": "那是贡献的证明。"
+        },
+        {
+          "s": 717.758,
+          "e": 718.634,
+          "en": "Now for struggle.",
+          "zh": "现在说挣扎。"
+        },
+        {
+          "s": 718.634,
+          "e": 723.514,
+          "en": "I'm talking about what you choose to struggle for because that defines what your purpose is.",
+          "zh": "我说的是你选择为什么而挣扎，因为这定义了你的目的是什么。"
+        },
+        {
+          "s": 723.514,
+          "e": 725.558,
+          "en": "It's not a struggle that's imposed on you.",
+          "zh": "不是强加给你的挣扎。"
+        }
+      ]
+    },
+    {
+      "s": 725.558,
+      "e": 739.196,
+      "sentences": [
+        {
+          "s": 725.558,
+          "e": 727.101,
+          "en": "It's not a goal that's assigned to you.",
+          "zh": "不是分配给你的目标。"
+        },
+        {
+          "s": 727.101,
+          "e": 729.228,
+          "en": "It's what you consciously choose.",
+          "zh": "是你有意识选择的。"
+        },
+        {
+          "s": 729.228,
+          "e": 734.108,
+          "en": "So it's like the creative who chooses to master their craft, to build an audience, to see something true.",
+          "zh": "就像那个选择精通技艺、建立受众、说出真话的创作者。"
+        },
+        {
+          "s": 734.108,
+          "e": 736.068,
+          "en": "That struggle generates meaning.",
+          "zh": "那种挣扎会生成意义。"
+        },
+        {
+          "s": 736.068,
+          "e": 739.196,
+          "en": "Now, curiosity is non-linear attention.",
+          "zh": "而好奇心，是非线性的注意力。"
+        }
+      ]
+    },
+    {
+      "s": 739.196,
+      "e": 767.641,
+      "sentences": [
+        {
+          "s": 739.196,
+          "e": 744.285,
+          "en": "It's following threads that don't make sense, yet it's not something that I can make sense of.",
+          "zh": "是去追踪那些看起来毫无道理、但我也没法解释清楚的线索。"
+        },
+        {
+          "s": 744.285,
+          "e": 745.87,
+          "en": "I can't be curious.",
+          "zh": "我没法\"刻意\"去好奇。"
+        },
+        {
+          "s": 745.87,
+          "e": 752.501,
+          "en": "And that's how you solve problems or discover ideas that nobody is even thinking about, because nobody else is curious about them.",
+          "zh": "而这就是你如何解决别人根本没在想的问题、发现别人根本没在想的点子——因为别人对那些东西不好奇。"
+        },
+        {
+          "s": 752.501,
+          "e": 755.629,
+          "en": "Because curiosity works in a weird way in the brain.",
+          "zh": "因为好奇心在大脑里的运作方式很奇怪。"
+        },
+        {
+          "s": 755.629,
+          "e": 767.641,
+          "en": "I talk about this example a lot, but it's just so simple, yet so powerful is that if you were to take two people, me and you, reading the same book, would we highlight the same lines inside of that book with the same thing stick out to us?",
+          "zh": "我经常举这个例子，它简单到不行，但又极其有力：如果让两个人，比如我和你，读同一本书，我们会划出同样的句子吗？同样的东西会触动我们吗？"
+        }
+      ]
+    },
+    {
+      "s": 767.641,
+      "e": 792.5,
+      "sentences": [
+        {
+          "s": 767.641,
+          "e": 784.575,
+          "en": "You may even think the book is just trash, and it may be the best book I've ever read, because at my situated point in my life, from my perspective, from the experience that's culminated over time in my head to create this very unique way of viewing the world that we don't think is unique because we live in our heads.",
+          "zh": "你甚至可能觉得那本书就是垃圾，而它可能是我读过最好的书。因为在我人生此刻所处的位置、我的视角、我脑中随时间累积的经历——这些形成了看待世界的一种极其独特的方式，而我们自己并不觉得它独特，因为我们活在自己的脑子里。"
+        },
+        {
+          "s": 784.575,
+          "e": 786.327,
+          "en": "That's where curiosity comes from.",
+          "zh": "好奇心就是从那里来的。"
+        },
+        {
+          "s": 786.327,
+          "e": 788.412,
+          "en": "That's your unique edge to an extent.",
+          "zh": "在某种程度上，那就是你独特的优势。"
+        },
+        {
+          "s": 788.412,
+          "e": 791.624,
+          "en": "You just need to learn how to channel it because like follow your curiosity.",
+          "zh": "你只需要学会如何引导它，因为\"追随你的好奇心\"——这话怎么落地？"
+        },
+        {
+          "s": 791.624,
+          "e": 792.5,
+          "en": "How is that practical?",
+          "zh": "怎么实操？"
+        }
+      ]
+    },
+    {
+      "s": 792.5,
+      "e": 810.392,
+      "sentences": [
+        {
+          "s": 792.5,
+          "e": 793.959,
+          "en": "What does that lead to? We'll get into it.",
+          "zh": "它会导向什么？我们后面会讲。"
+        },
+        {
+          "s": 793.959,
+          "e": 797.296,
+          "en": "But now with the third generator status status gets a bad rap.",
+          "zh": "但现在来说第三个生成器：地位。地位这个词名声不好。"
+        },
+        {
+          "s": 797.296,
+          "e": 802.092,
+          "en": "So let's just call status recognition recognition for your work or your contribution.",
+          "zh": "所以我们换个说法，就叫它\"认可\"——对你工作或贡献的认可。"
+        },
+        {
+          "s": 802.092,
+          "e": 805.638,
+          "en": "It's the signal that your struggle mattered to someone.",
+          "zh": "它是一个信号，表明你的挣扎对某个人有意义。"
+        },
+        {
+          "s": 805.638,
+          "e": 810.392,
+          "en": "It's it's the signal that you're not here alone in this void on Earth.",
+          "zh": "它是一个信号，表明你在这个地球上、在这片虚空里，不是孤身一人。"
+        }
+      ]
+    },
+    {
+      "s": 810.392,
+      "e": 821.403,
+      "sentences": [
+        {
+          "s": 810.392,
+          "e": 812.978,
+          "en": "So what are these three generators?",
+          "zh": "那么这三个生成器是什么？"
+        },
+        {
+          "s": 812.978,
+          "e": 815.231,
+          "en": "Struggle, curiosity, status.",
+          "zh": "挣扎、好奇心、认可。"
+        },
+        {
+          "s": 815.231,
+          "e": 816.357,
+          "en": "It's a story.",
+          "zh": "这就是一个故事。"
+        },
+        {
+          "s": 816.357,
+          "e": 819.193,
+          "en": "It's quite literally the foundation of a story.",
+          "zh": "毫不夸张地说，这就是一个故事的根基。"
+        },
+        {
+          "s": 819.193,
+          "e": 821.403,
+          "en": "Now, why do stories matter?",
+          "zh": "那么，故事为什么重要？"
+        }
+      ]
+    },
+    {
+      "s": 821.403,
+      "e": 841.507,
+      "sentences": [
+        {
+          "s": 821.403,
+          "e": 822.822,
+          "en": "Especially going to the future?",
+          "zh": "尤其是在走向未来的时候？"
+        },
+        {
+          "s": 822.822,
+          "e": 825.908,
+          "en": "Because your brain is a story engine.",
+          "zh": "因为你的大脑是一台故事引擎。"
+        },
+        {
+          "s": 825.908,
+          "e": 827.576,
+          "en": "That's what we find meaningful.",
+          "zh": "我们觉得有意义的东西，就是故事。"
+        },
+        {
+          "s": 827.576,
+          "e": 831.372,
+          "en": "We crave novelty, drama, myth and meaning.",
+          "zh": "我们渴望新奇、戏剧、神话和意义。"
+        },
+        {
+          "s": 831.372,
+          "e": 841.507,
+          "en": "And this is especially true when we're not in survival mode, when we're in leisure, and when jobs are replaced, then we have our basic necessities met across the board.",
+          "zh": "当我们不在生存模式里、当我们处于闲暇中、当工作被替代、所有人的基本需求都得到满足时，这一点尤其成立。"
+        }
+      ]
+    },
+    {
+      "s": 842.091,
+      "e": 857.857,
+      "sentences": [
+        {
+          "s": 842.091,
+          "e": 844.093,
+          "en": "This becomes even more important.",
+          "zh": "这会变得更加重要。"
+        },
+        {
+          "s": 844.093,
+          "e": 847.012,
+          "en": "This is what people are going to be looking for and paying for.",
+          "zh": "这就是人们将会寻找、并愿意为之付费的东西。"
+        },
+        {
+          "s": 847.012,
+          "e": 850.391,
+          "en": "Mostly because they're not worried about paying the bills for their house.",
+          "zh": "很大程度上是因为他们不再需要担心付不起房贷。"
+        },
+        {
+          "s": 850.391,
+          "e": 851.892,
+          "en": "They're kind of just lost.",
+          "zh": "他们只是有点迷失。"
+        },
+        {
+          "s": 851.892,
+          "e": 857.857,
+          "en": "And a big portion of the population that doesn't understand what I'm saying in this video is going to end up like that.",
+          "zh": "而人群中很大一部分——那些听不懂我在这个视频里说什么的人——最终就会变成那样。"
+        }
+      ]
+    },
+    {
+      "s": 857.857,
+      "e": 889.43,
+      "sentences": [
+        {
+          "s": 857.857,
+          "e": 867.199,
+          "en": "Wall-E character and the hover chair who just has like the the soda hat in the screen in front of his face at all times, and he's like the 300 pounds overweight and can't move.",
+          "zh": "像 Wall-E 里那个坐在悬浮椅上、头上戴着饮料帽、屏幕永远怼在脸前、300 磅超重、动都动不了的角色。"
+        },
+        {
+          "s": 867.241,
+          "e": 873.247,
+          "en": "The question here is, what is the main purpose of machines going into the future, and what is the main purpose of humans?",
+          "zh": "这里的问题是：走向未来，机器的主要目的是什么？人的主要目的是什么？"
+        },
+        {
+          "s": 873.247,
+          "e": 877.543,
+          "en": "This is the question that everyone's trying to answer, and this leads to a two part insight.",
+          "zh": "这是每个人都在试图回答的问题，而它引出一个两部分的洞见。"
+        },
+        {
+          "s": 877.543,
+          "e": 882.923,
+          "en": "First is that people pay for speed and efficiency when they want to escape an experience.",
+          "zh": "第一，当人们想要逃离某种体验时，他们会为速度和效率付费。"
+        },
+        {
+          "s": 882.923,
+          "e": 889.43,
+          "en": "So this could be long wait times at the DMV, a fast food worker getting your order wrong, or bureaucracy at a company.",
+          "zh": "比如在 DMV 排长队、快餐店员工搞错你的订单，或者公司里的官僚主义。"
+        }
+      ]
+    },
+    {
+      "s": 889.43,
+      "e": 921.128,
+      "sentences": [
+        {
+          "s": 889.43,
+          "e": 894.351,
+          "en": "But on the other hand, people pay a premium for experiences that they want to savor.",
+          "zh": "但另一方面，人们会为自己想细细品味的那种体验支付溢价。"
+        },
+        {
+          "s": 894.351,
+          "e": 898.23,
+          "en": "So a five star restaurant, a life theater, handcrafted goods.",
+          "zh": "比如五星级餐厅、现场戏剧、手工制品。"
+        },
+        {
+          "s": 898.23,
+          "e": 907.364,
+          "en": "And I think this quote from Chris Peake illustrates this quite well, which says the elegance of the future is not in man versus machine, but in their division of labor.",
+          "zh": "我觉得 Chris Peake 的一句话把这点讲得很透彻：未来的优雅不在于人对抗机器，而在于它们的分工。"
+        },
+        {
+          "s": 907.364,
+          "e": 917.166,
+          "en": "Silicon sanding the rough edges of necessity so carbon can ascend to meaning we will abolish baristas and canonized chefs, silence agents and encore actors.",
+          "zh": "硅打磨掉生存需求的粗糙棱角，让碳基生命得以升华到意义层面——我们会淘汰咖啡师，封圣大厨；让客服消失，让演员返场。"
+        },
+        {
+          "s": 917.416,
+          "e": 921.128,
+          "en": "I handles the friction and humans handle the narrative.",
+          "zh": "机器处理摩擦，人类处理叙事。"
+        }
+      ]
+    },
+    {
+      "s": 921.128,
+      "e": 941.941,
+      "sentences": [
+        {
+          "s": 921.128,
+          "e": 930.095,
+          "en": "So that leads into the third idea here, which is that the creator economy equals the meaning economy, because now we need to start making things practical, right?",
+          "zh": "这就引出了第三个观点：创作者经济等于意义经济，因为现在我们需要把东西变得实际了，对吧？"
+        },
+        {
+          "s": 930.095,
+          "e": 935.559,
+          "en": "Struggle, status, curiosity, story, narrative, all this stuff. Okay, cool.",
+          "zh": "挣扎、地位、好奇心、故事、叙事，所有这些。好，没问题。"
+        },
+        {
+          "s": 935.559,
+          "e": 937.394,
+          "en": "But what do you actually do with that?",
+          "zh": "但你到底拿这些东西做什么？"
+        },
+        {
+          "s": 937.394,
+          "e": 940.439,
+          "en": "What does it actually mean for you on a daily basis?",
+          "zh": "对你每天的生活来说，这到底意味着什么？"
+        },
+        {
+          "s": 940.439,
+          "e": 941.941,
+          "en": "What are you actually focused on?",
+          "zh": "你到底该专注于什么？"
+        }
+      ]
+    },
+    {
+      "s": 941.941,
+      "e": 967.883,
+      "sentences": [
+        {
+          "s": 941.941,
+          "e": 945.694,
+          "en": "The first thing here is just understanding the shift in how money is going to flow.",
+          "zh": "第一件事，就是理解金钱流动方式的转变。"
+        },
+        {
+          "s": 945.694,
+          "e": 949.949,
+          "en": "So the old way is that you get paid for your labor, you get paid for your output.",
+          "zh": "旧模式是，你靠出卖劳动力获得报酬，靠产出获得报酬。"
+        },
+        {
+          "s": 949.949,
+          "e": 956.956,
+          "en": "And then the new model is that you get paid by the people who believe in what you're doing and who want to see more of that in the world.",
+          "zh": "新模式是，你靠那些相信你正在做的事、并且希望看到世界上有更多这种事的人来获得报酬。"
+        },
+        {
+          "s": 956.956,
+          "e": 966.632,
+          "en": "In other words, you do something that you deeply care about, and you attract other people to care about that thing, which is two distinct types of skills, right?",
+          "zh": "换句话说，你做一些你深切关心的事，然后吸引其他人也来关心这件事，这需要两种截然不同的技能，对吧？"
+        },
+        {
+          "s": 966.632,
+          "e": 967.883,
+          "en": "That's business and art.",
+          "zh": "那就是商业和艺术。"
+        }
+      ]
+    },
+    {
+      "s": 967.883,
+      "e": 999.581,
+      "sentences": [
+        {
+          "s": 967.883,
+          "e": 978.852,
+          "en": "That's doing what you care about with love, but also creating it in such a way and persuading other people to see the value in it, so that you don't become a starving artist who can't sell any of their work.",
+          "zh": "就是用热爱去做你关心的事，但同时要以一种能说服别人看到其价值的方式去创造它，这样你才不会沦为一个卖不出任何作品的穷困艺术家。"
+        },
+        {
+          "s": 978.852,
+          "e": 984.233,
+          "en": "So for the creator economy and specific, when you follow someone, when you follow someone meaningful, right?",
+          "zh": "具体到创作者经济，当你关注一个人，当你关注一个有分量的人，对吧？"
+        },
+        {
+          "s": 984.233,
+          "e": 995.619,
+          "en": "Not just searching for information, not just looking to get a quick tip, not when you know what you want to ask for, because now you can ask that to ChatGPT what are you? You're listening to someone's perspective.",
+          "zh": "不是在搜索信息，不是想快速得到一个技巧，不是在你明确知道自己想问什么的时候——因为现在你可以直接问 ChatGPT 了——你是在听某个人的视角。"
+        },
+        {
+          "s": 995.619,
+          "e": 997.121,
+          "en": "You're buying their perspective.",
+          "zh": "你在购买他们的视角。"
+        },
+        {
+          "s": 997.121,
+          "e": 999.581,
+          "en": "You're supporting their perspective, their opinion.",
+          "zh": "你在支持他们的视角、他们的观点。"
+        }
+      ]
+    },
+    {
+      "s": 999.581,
+      "e": 1020.519,
+      "sentences": [
+        {
+          "s": 999.581,
+          "e": 1001.959,
+          "en": "You're supporting their curation. Right?",
+          "zh": "你在支持他们的策展能力。对吧？"
+        },
+        {
+          "s": 1001.959,
+          "e": 1009.299,
+          "en": "Whether they use AI or not, you follow a specific person because they are pulling the right ideas and making sense of them.",
+          "zh": "不管他们用不用 AI，你关注一个特定的人，是因为他们在筛选正确的想法并赋予其意义。"
+        },
+        {
+          "s": 1009.299,
+          "e": 1012.511,
+          "en": "So the scarce resource here is attention, right?",
+          "zh": "所以这里的稀缺资源是注意力，对吧？"
+        },
+        {
+          "s": 1012.511,
+          "e": 1015.681,
+          "en": "Because it's scarce, there's only so much attention.",
+          "zh": "因为它是稀缺的，注意力就这么多。"
+        },
+        {
+          "s": 1015.681,
+          "e": 1020.519,
+          "en": "There's only so many people on this planet, and there's only so much attention that can go around.",
+          "zh": "这个星球上的人就这么多，能分配的注意力也就这么多。"
+        }
+      ]
+    },
+    {
+      "s": 1020.519,
+      "e": 1051.592,
+      "sentences": [
+        {
+          "s": 1020.519,
+          "e": 1032.448,
+          "en": "So if you learn the mechanics of capturing and delivering value on attention, like everyone's been saying in the marketing space for the past, however long, then you can demand a premium on what you do.",
+          "zh": "所以如果你学会了在注意力上捕获和交付价值的机制——就像营销领域过去那么多年一直在说的那样——你就能为你所做的事情要求溢价。"
+        },
+        {
+          "s": 1032.448,
+          "e": 1042.332,
+          "en": "And so when it comes to AI flooding the space with a bunch of mediocre content, it doesn't matter because there's not enough attention to pay attention to all of that.",
+          "zh": "所以当 AI 用一堆平庸内容淹没这个领域时，这根本不重要，因为没有足够的注意力去关注所有那些东西。"
+        },
+        {
+          "s": 1042.332,
+          "e": 1046.92,
+          "en": "And if it's mediocre, then it's mediocre and people don't want it and they're going to shift their attention to what matters.",
+          "zh": "如果它是平庸的，那它就是平庸的，人们不想要，他们会把注意力转移到真正重要的事情上。"
+        },
+        {
+          "s": 1046.92,
+          "e": 1048.589,
+          "en": "So that's the game now.",
+          "zh": "这就是现在的游戏规则。"
+        },
+        {
+          "s": 1048.589,
+          "e": 1051.592,
+          "en": "It's not only production, but it's distribution.",
+          "zh": "它不只是生产，更是分发。"
+        }
+      ]
+    },
+    {
+      "s": 1051.592,
+      "e": 1073.113,
+      "sentences": [
+        {
+          "s": 1051.592,
+          "e": 1056.013,
+          "en": "It's not only creation because anyone can create anything, it's curation.",
+          "zh": "它不只是创作——因为任何人都能创作任何东西——更是策展。"
+        },
+        {
+          "s": 1056.013,
+          "e": 1059.016,
+          "en": "So attention is the ultimate leverage.",
+          "zh": "所以注意力是终极杠杆。"
+        },
+        {
+          "s": 1059.016,
+          "e": 1062.978,
+          "en": "And if you want to understand this, just look at Elon Musk or MrBeast. Right?",
+          "zh": "如果你想理解这一点，看看 Elon Musk 或者 MrBeast 就明白了。对吧？"
+        },
+        {
+          "s": 1062.978,
+          "e": 1069.985,
+          "en": "Elon Musk has millions upon millions of followers and he attracts capital, talent and resources through that thing.",
+          "zh": "Elon Musk 有几百万几千万的粉丝，他通过这个东西吸引资本、人才和资源。"
+        },
+        {
+          "s": 1069.985,
+          "e": 1073.113,
+          "en": "His tweets quite literally shift the markets.",
+          "zh": "他的推文真的能左右市场。"
+        }
+      ]
+    },
+    {
+      "s": 1073.113,
+      "e": 1092.132,
+      "sentences": [
+        {
+          "s": 1073.113,
+          "e": 1081.33,
+          "en": "Then you have MrBeast, who would reinvest what he gets from the attention back into the production, and he is slowly becoming a very powerful individual.",
+          "zh": "再看 MrBeast，他会把从注意力中获得的收益重新投入到制作里，他正在慢慢变成一个非常有权力的人。"
+        },
+        {
+          "s": 1081.33,
+          "e": 1086.001,
+          "en": "But those are the extreme examples because personally, I don't want to be the next Elon Musk.",
+          "zh": "但这些都是极端例子，因为就我个人而言，我不想成为下一个 Elon Musk。"
+        },
+        {
+          "s": 1086.126,
+          "e": 1087.586,
+          "en": "It seems pretty risky.",
+          "zh": "看起来风险太大了。"
+        },
+        {
+          "s": 1087.586,
+          "e": 1090.297,
+          "en": "It seems pretty stressful. Maybe I could handle it.",
+          "zh": "看起来压力太大了。也许我能扛得住。"
+        },
+        {
+          "s": 1090.297,
+          "e": 1092.132,
+          "en": "I don't know. Right now in my life, I don't want to be there.",
+          "zh": "我不知道。在我现在的人生阶段，我不想走到那个位置。"
+        }
+      ]
+    },
+    {
+      "s": 1092.132,
+      "e": 1101.35,
+      "sentences": [
+        {
+          "s": 1092.132,
+          "e": 1093.717,
+          "en": "I don't want to be the next MrBeast either.",
+          "zh": "我也不想成为下一个 MrBeast。"
+        },
+        {
+          "s": 1093.717,
+          "e": 1095.052,
+          "en": "I want to talk about something different.",
+          "zh": "我想聊点不一样的。"
+        },
+        {
+          "s": 1095.052,
+          "e": 1098.472,
+          "en": "I have other things that I find more meaningful than that.",
+          "zh": "我有其他我觉得比那更有意义的事情。"
+        },
+        {
+          "s": 1098.472,
+          "e": 1099.807,
+          "en": "I don't even watch MrBeast.",
+          "zh": "我甚至不看 MrBeast。"
+        },
+        {
+          "s": 1099.807,
+          "e": 1101.35,
+          "en": "I watch what I care about.",
+          "zh": "我看我真正在乎的东西。"
+        }
+      ]
+    },
+    {
+      "s": 1101.35,
+      "e": 1119.493,
+      "sentences": [
+        {
+          "s": 1101.35,
+          "e": 1104.144,
+          "en": "So you have to understand that this isn't a winner takes all market.",
+          "zh": "所以你必须明白，这不是一个赢家通吃的市场。"
+        },
+        {
+          "s": 1104.144,
+          "e": 1105.687,
+          "en": "Almost nothing is.",
+          "zh": "几乎没有什么市场是赢家通吃的。"
+        },
+        {
+          "s": 1105.687,
+          "e": 1108.44,
+          "en": "But especially in the creator economy, attention shifts.",
+          "zh": "尤其是在创作者经济里，注意力是会转移的。"
+        },
+        {
+          "s": 1108.44,
+          "e": 1112.236,
+          "en": "If you actually think about it, you understand that it's not very saturated at all.",
+          "zh": "如果你真的想一想，你就会明白它其实一点都不饱和。"
+        },
+        {
+          "s": 1112.236,
+          "e": 1119.493,
+          "en": "Anyone can go viral today, and what they do with that virality determines whether or not they see some form of success.",
+          "zh": "今天任何人都可以爆红，而他们怎么利用那次爆红，决定了他们能不能看到某种形式的成功。"
+        }
+      ]
+    },
+    {
+      "s": 1119.493,
+      "e": 1137.261,
+      "sentences": [
+        {
+          "s": 1119.493,
+          "e": 1128.127,
+          "en": "And then there's, of course, the people who build very slowly over time and attract a small audience and charge premium prices, and they make more than people with millions of followers.",
+          "zh": "当然，还有那些慢慢积累、吸引一小群受众、收取高价的人，他们赚的比几百万粉丝的人还多。"
+        },
+        {
+          "s": 1128.127,
+          "e": 1130.462,
+          "en": "Not everyone is selling a $10 e-book.",
+          "zh": "不是所有人都在卖 10 美元的电子书。"
+        },
+        {
+          "s": 1130.462,
+          "e": 1133.173,
+          "en": "Not everyone is selling a $5,000 coaching program.",
+          "zh": "不是所有人都在卖 5000 美元的教练项目。"
+        },
+        {
+          "s": 1133.173,
+          "e": 1134.758,
+          "en": "Not everyone is selling this. Selling that.",
+          "zh": "不是所有人都在卖这个、卖那个。"
+        },
+        {
+          "s": 1134.758,
+          "e": 1137.261,
+          "en": "There's so many different ways to go about this.",
+          "zh": "做这件事有太多不同的方式了。"
+        }
+      ]
+    },
+    {
+      "s": 1137.261,
+      "e": 1152.067,
+      "sentences": [
+        {
+          "s": 1137.261,
+          "e": 1139.179,
+          "en": "And you take Justin Welsch as an example.",
+          "zh": "你拿 Justin Welsh 举例。"
+        },
+        {
+          "s": 1139.179,
+          "e": 1141.932,
+          "en": "He has a pretty large following, but he's not on YouTube.",
+          "zh": "他有相当多的粉丝，但他不在 YouTube 上。"
+        },
+        {
+          "s": 1141.932,
+          "e": 1142.808,
+          "en": "He's not on other things.",
+          "zh": "他不在其他平台上。"
+        },
+        {
+          "s": 1142.808,
+          "e": 1143.475,
+          "en": "He just writes.",
+          "zh": "他就只是写。"
+        },
+        {
+          "s": 1143.475,
+          "e": 1152.067,
+          "en": "He's focused on like LinkedIn, his newsletter and Twitter and his entire focus is working on something meaningful for as little time as possible.",
+          "zh": "他专注于 LinkedIn、他的 newsletter 和 Twitter，他的全部重心就是花尽可能少的时间做有意义的事。"
+        }
+      ]
+    },
+    {
+      "s": 1152.067,
+      "e": 1178.844,
+      "sentences": [
+        {
+          "s": 1152.067,
+          "e": 1160.534,
+          "en": "So enjoy the most time with his family as he can't. In the other thing here that removes saturation even more is that some people aren't even going to find meaning through work.",
+          "zh": "这样他就能尽可能多地享受和家人在一起的时光。另一个让饱和变得更不成立的点是，有些人甚至不会通过工作找到意义。"
+        },
+        {
+          "s": 1160.534,
+          "e": 1165.33,
+          "en": "They're going to start to find meaning through family, through other things that allow them to grow in different ways.",
+          "zh": "他们会开始通过家庭、通过其他让他们以不同方式成长的事情找到意义。"
+        },
+        {
+          "s": 1165.33,
+          "e": 1168.75,
+          "en": "Now, if you're anything like me, I want as much growth as possible.",
+          "zh": "如果你跟我有点像，我想要尽可能多的成长。"
+        },
+        {
+          "s": 1168.75,
+          "e": 1176.341,
+          "en": "I don't want to just focus on family because I understand that all domains of life interconnect and kind of unlock each other in certain ways.",
+          "zh": "我不想只专注于家庭，因为我明白生活的所有领域都是相互连接的，在某种程度上会互相解锁。"
+        },
+        {
+          "s": 1176.341,
+          "e": 1178.844,
+          "en": "Once you become developed in those domains.",
+          "zh": "一旦你在那些领域发展起来了。"
+        }
+      ]
+    },
+    {
+      "s": 1178.844,
+      "e": 1210.167,
+      "sentences": [
+        {
+          "s": 1178.844,
+          "e": 1185.934,
+          "en": "So I don't want to just focus on vocation or career or family or health, etc. I want to focus on them all.",
+          "zh": "所以我不想只专注于职业、事业、家庭或健康等等。我想全部专注。"
+        },
+        {
+          "s": 1185.934,
+          "e": 1192.316,
+          "en": "And that creates this infinite game where you can just experience this growth and progression and meaning forever.",
+          "zh": "这就创造了一个无限游戏，你可以永远体验这种成长、进步和意义。"
+        },
+        {
+          "s": 1192.316,
+          "e": 1197.613,
+          "en": "The other signal here is that social media creators are just people posting on social media.",
+          "zh": "另一个信号是，社交媒体创作者其实就是那些在社交媒体上发东西的人。"
+        },
+        {
+          "s": 1197.613,
+          "e": 1204.703,
+          "en": "Whether you identify as a personal brand or a content creator or not, anyone who posts on social media, let's just call them a creator for ease of access.",
+          "zh": "不管你是否把自己看作个人品牌或内容创作者，只要在社交媒体上发东西，为了方便，我们就统称为创作者。"
+        },
+        {
+          "s": 1204.703,
+          "e": 1210.167,
+          "en": "They're starting to become the primary source of information for something like news or education.",
+          "zh": "他们正开始成为新闻或教育类信息的主要来源。"
+        }
+      ]
+    },
+    {
+      "s": 1210.167,
+      "e": 1243.075,
+      "sentences": [
+        {
+          "s": 1210.167,
+          "e": 1217.591,
+          "en": "People trust creators more than they trust centralized institutions, and that's a very important thing because it's shifting more towards that.",
+          "zh": "人们信任创作者，胜过信任中心化机构，这一点非常重要，因为趋势正在朝这个方向倾斜。"
+        },
+        {
+          "s": 1217.591,
+          "e": 1228.936,
+          "en": "So this is a massive opportunity for people who have some kind of genuine expertise or some unique way of viewing the world and the ability to articulate and communicate it, which are all skills that can be learned.",
+          "zh": "所以，对于那些拥有某种真正的专业能力、或者有独特世界观、并且能够清晰表达和沟通的人来说，这是一个巨大的机会——而这些全都是可以学会的技能。"
+        },
+        {
+          "s": 1228.936,
+          "e": 1237.152,
+          "en": "Now to hit on the dead internet theory objection one more time where if I just floods the internet with a bunch of content, doesn't content become worthless?",
+          "zh": "现在再回应一次“互联网已死”理论的质疑：如果 AI 只是往互联网上灌一堆内容，内容不就变得一文不值了吗？"
+        },
+        {
+          "s": 1237.152,
+          "e": 1238.904,
+          "en": "Yes, it becomes a commodity.",
+          "zh": "没错，它会变成大宗商品。"
+        },
+        {
+          "s": 1238.904,
+          "e": 1243.075,
+          "en": "Once you can do everything, instantly, everything becomes worthless.",
+          "zh": "一旦你能瞬间完成一切，一切就都变得不值钱了。"
+        }
+      ]
+    },
+    {
+      "s": 1243.075,
+      "e": 1269.309,
+      "sentences": [
+        {
+          "s": 1243.075,
+          "e": 1244.409,
+          "en": "So what does that do?",
+          "zh": "那这会导致什么？"
+        },
+        {
+          "s": 1244.409,
+          "e": 1246.119,
+          "en": "It increases the value.",
+          "zh": "它会提升价值。"
+        },
+        {
+          "s": 1246.119,
+          "e": 1251.959,
+          "en": "And how much can be paid for something human and not necessarily just something human.",
+          "zh": "提升的是那些带有人味的东西的价值，以及人们愿意为此付多少钱——而且不光是“带人味”这么简单。"
+        },
+        {
+          "s": 1251.959,
+          "e": 1260.342,
+          "en": "Everyone's going to be working in some AI assisted way, but a human perspective, a human point of view, the curation, the taste. You can have this.",
+          "zh": "每个人都会以某种 AI 辅助的方式工作，但人的视角、人的观点、策展能力、品味——这些你可以拥有。"
+        },
+        {
+          "s": 1260.342,
+          "e": 1269.309,
+          "en": "You can have I spit out 5 billion words that are amazing, super beautiful prose, but which ones are you going to select to stick around?",
+          "zh": "你可以让 AI 吐出 50 亿个词，写得美轮美奂，但你会选择哪些留下来？"
+        }
+      ]
+    },
+    {
+      "s": 1269.351,
+      "e": 1283.74,
+      "sentences": [
+        {
+          "s": 1269.351,
+          "e": 1273.772,
+          "en": "Then the last thing here is that skills are being abstracted upper layer as they always are.",
+          "zh": "最后一点是，技能正在被一层层向上抽象，历来如此。"
+        },
+        {
+          "s": 1273.772,
+          "e": 1277.359,
+          "en": "How they went from human labor to more animal labor to more machine labor.",
+          "zh": "从人力劳动，到畜力劳动，再到机器劳动。"
+        },
+        {
+          "s": 1277.359,
+          "e": 1278.944,
+          "en": "And now they're more to AI labor.",
+          "zh": "现在正转向 AI 劳动。"
+        },
+        {
+          "s": 1278.944,
+          "e": 1281.446,
+          "en": "So you don't need to focus on the technical or the manual.",
+          "zh": "所以你不需要专注于技术层面或手工操作。"
+        },
+        {
+          "s": 1281.446,
+          "e": 1283.74,
+          "en": "You don't need to set up a typewriter anymore.",
+          "zh": "你不再需要去摆弄一台打字机。"
+        }
+      ]
+    },
+    {
+      "s": 1283.74,
+      "e": 1311.101,
+      "sentences": [
+        {
+          "s": 1283.74,
+          "e": 1286.41,
+          "en": "You don't even need to know how to write anymore.",
+          "zh": "你甚至不再需要知道怎么写作。"
+        },
+        {
+          "s": 1286.41,
+          "e": 1288.537,
+          "en": "I personally like to do my writing manually.",
+          "zh": "我个人还是喜欢手动写作。"
+        },
+        {
+          "s": 1288.537,
+          "e": 1295.002,
+          "en": "Still, I do research with AI, but I see no problem with someone using AI to write.",
+          "zh": "我仍然用 AI 做研究，但我不觉得有人用 AI 写作有什么问题。"
+        },
+        {
+          "s": 1295.127,
+          "e": 1306.763,
+          "en": "Write as long as they're in control of the ideas and what's being put out there just because someone wrote it with AI doesn't mean that it's bad if it accurately represents what they're trying to say, down to the word.",
+          "zh": "只要他们掌控着想法和输出的内容——就因为某人用 AI 写了，不代表它就是烂东西，如果它精准地表达了他们想说的话，精确到每一个词。"
+        },
+        {
+          "s": 1306.763,
+          "e": 1311.101,
+          "en": "The thing that does get on my nerves, though, is that I see like these AI patterns everywhere.",
+          "zh": "不过让我烦的是，我到处都能看到那种 AI 套路。"
+        }
+      ]
+    },
+    {
+      "s": 1311.101,
+      "e": 1335.917,
+      "sentences": [
+        {
+          "s": 1311.101,
+          "e": 1312.978,
+          "en": "Like, oh, it's not this. It's this.",
+          "zh": "比如，“哦，不是这个，是这个。”"
+        },
+        {
+          "s": 1312.978,
+          "e": 1325.532,
+          "en": "Especially on reels like if you know, you know, and you can instantly spot it, but at the same time, is that just because we're noticing those patterns more and those were already a thing, but now that they are coming more from AI, they're more apparent.",
+          "zh": "尤其是在 Reels 上，懂的都懂，你一眼就能认出来。但与此同时，是不是只是因为我们更注意这些模式了？这些模式本来就有，只不过现在更多来自 AI，所以更显眼了。"
+        },
+        {
+          "s": 1325.532,
+          "e": 1329.953,
+          "en": "Are we adopting the language of AI, or is AI adopting the language of us?",
+          "zh": "是我们在学习 AI 的语言，还是 AI 在学习我们的语言？"
+        },
+        {
+          "s": 1329.953,
+          "e": 1331.58,
+          "en": "So there's a lot of stuff here.",
+          "zh": "这里面有太多东西了。"
+        },
+        {
+          "s": 1331.58,
+          "e": 1335.917,
+          "en": "So now for idea for the last defensible mode is you.",
+          "zh": "所以，现在要说的最后一个可防御模式，就是你自己。"
+        }
+      ]
+    },
+    {
+      "s": 1335.917,
+      "e": 1351.6,
+      "sentences": [
+        {
+          "s": 1335.917,
+          "e": 1338.045,
+          "en": "This is the core insight.",
+          "zh": "这是核心洞见。"
+        },
+        {
+          "s": 1338.045,
+          "e": 1345.719,
+          "en": "This is the thing that if you come away from this video, this is the most important thing, not even the skills that you have to learn that we're going to talk about next.",
+          "zh": "如果你看完这个视频只能带走一件事，这就是最重要的那件事——甚至比我们接下来要讲的那些必须学的技能更重要。"
+        },
+        {
+          "s": 1345.719,
+          "e": 1346.511,
+          "en": "This is it.",
+          "zh": "就是这个。"
+        },
+        {
+          "s": 1346.511,
+          "e": 1349.973,
+          "en": "And we'll try to make this point by understanding the swap test.",
+          "zh": "我们通过理解“替换测试”来把这个点讲透。"
+        },
+        {
+          "s": 1349.973,
+          "e": 1351.6,
+          "en": "I'm calling this the swap test.",
+          "zh": "我管它叫替换测试。"
+        }
+      ]
+    },
+    {
+      "s": 1351.6,
+      "e": 1370.243,
+      "sentences": [
+        {
+          "s": 1351.6,
+          "e": 1361.777,
+          "en": "And this swap test is for knowing whether or not I can replace you specifically, if you can swap the creator and the creation without it losing value, I can replace it.",
+          "zh": "这个替换测试就是用来判断我能不能替换掉你——具体来说，如果你能把创作者和创作物换掉，而价值不损失，那我就能替换你。"
+        },
+        {
+          "s": 1361.86,
+          "e": 1365.489,
+          "en": "If the value is tied to who made it, that's your moat.",
+          "zh": "如果价值跟创作者绑定在一起，那才是你的护城河。"
+        },
+        {
+          "s": 1365.489,
+          "e": 1368.116,
+          "en": "So some examples is like a generic stock photo.",
+          "zh": "举个例子，一张普通的图库照片。"
+        },
+        {
+          "s": 1368.116,
+          "e": 1369.451,
+          "en": "Obviously that's swappable.",
+          "zh": "显然是可以被替换的。"
+        },
+        {
+          "s": 1369.451,
+          "e": 1370.243,
+          "en": "I can do it.",
+          "zh": "我也能拍。"
+        }
+      ]
+    },
+    {
+      "s": 1370.243,
+      "e": 1385.926,
+      "sentences": [
+        {
+          "s": 1370.243,
+          "e": 1372.788,
+          "en": "What about a photograph from a famous photographer?",
+          "zh": "那一位知名摄影师拍的照片呢？"
+        },
+        {
+          "s": 1372.788,
+          "e": 1376.124,
+          "en": "That's not really swappable because the value is in her eye.",
+          "zh": "这就没那么容易被替换了，因为价值在于她的眼光。"
+        },
+        {
+          "s": 1376.124,
+          "e": 1378.043,
+          "en": "Her choice is her reputation.",
+          "zh": "她的选择，她的声誉。"
+        },
+        {
+          "s": 1378.043,
+          "e": 1383.298,
+          "en": "Everything else that influences how you perceive the photo or image.",
+          "zh": "所有影响你如何感知这张照片或图像的因素。"
+        },
+        {
+          "s": 1383.298,
+          "e": 1385.926,
+          "en": "What about a generic blog post about productivity?",
+          "zh": "再比如，一篇关于生产力的普通博客文章？"
+        }
+      ]
+    },
+    {
+      "s": 1385.926,
+      "e": 1411.868,
+      "sentences": [
+        {
+          "s": 1385.926,
+          "e": 1387.177,
+          "en": "Obviously that's swappable.",
+          "zh": "显然也是可以被替换的。"
+        },
+        {
+          "s": 1387.177,
+          "e": 1397.229,
+          "en": "What about an essay by someone whose journey you followed for years that's not really swappable because you haven't followed a specific trajectory or story from I for years.",
+          "zh": "但如果是一个你追随了多年的人写的一篇文章，那就没那么容易被替换了，因为你没有追随 AI 多年的具体轨迹或故事。"
+        },
+        {
+          "s": 1397.229,
+          "e": 1402.359,
+          "en": "It doesn't hit the same if that essay is just given to you one day randomly by AI.",
+          "zh": "如果某天 AI 随机把那篇文章丢给你，感觉是完全不一样的。"
+        },
+        {
+          "s": 1402.359,
+          "e": 1405.612,
+          "en": "So what can I not replicate?",
+          "zh": "所以，有什么是我无法复制的？"
+        },
+        {
+          "s": 1405.612,
+          "e": 1411.868,
+          "en": "The first thing is perspective because I can think about your perspective, but it cannot think from it.",
+          "zh": "第一是视角，因为我可以思考你的视角，但它无法从你的视角出发去思考。"
+        }
+      ]
+    },
+    {
+      "s": 1411.868,
+      "e": 1431.68,
+      "sentences": [
+        {
+          "s": 1411.868,
+          "e": 1417.541,
+          "en": "It can analyze what it means to be a first generation immigrant building a creative career, but it cannot be one.",
+          "zh": "它可以分析作为第一代移民建立创意事业意味着什么，但它无法成为那样的人。"
+        },
+        {
+          "s": 1417.541,
+          "e": 1422.17,
+          "en": "Your perspective is shaped by your beliefs, your experiences, your wounds, your wins.",
+          "zh": "你的视角由你的信念、经历、创伤和胜利塑造。"
+        },
+        {
+          "s": 1422.17,
+          "e": 1425.09,
+          "en": "I has none of these because it has no stakes.",
+          "zh": "AI 没有这些，因为它没有利害关系。"
+        },
+        {
+          "s": 1425.09,
+          "e": 1427.217,
+          "en": "The second thing is your energy signature.",
+          "zh": "第二是你的能量印记。"
+        },
+        {
+          "s": 1427.217,
+          "e": 1431.68,
+          "en": "And speaking of energy signature, I actually posted an article to my Substack about.",
+          "zh": "说到能量印记，我其实在 Substack 上发了一篇文章。"
+        }
+      ]
+    },
+    {
+      "s": 1431.763,
+      "e": 1456.329,
+      "sentences": [
+        {
+          "s": 1431.763,
+          "e": 1438.061,
+          "en": "It's a prompt for how to find your intellectual signature and what I mean by intellectual signature is just this.",
+          "zh": "是一个关于如何找到你智识印记的提示词，我所说的智识印记就是这个意思。"
+        },
+        {
+          "s": 1438.103,
+          "e": 1444.985,
+          "en": "It's what ideas are the most important to you that you can pull together, connect, synthesize to create this unique style of content?",
+          "zh": "哪些想法对你来说最重要，你能把它们汇集、连接、综合起来，创造出你独特的内容风格？"
+        },
+        {
+          "s": 1444.985,
+          "e": 1453.577,
+          "en": "If you want to do the content creator route or kind of thought leadership, even though I hate that word, you like deep ideas and you find meaning in those and you want to share them.",
+          "zh": "如果你想走内容创作者路线，或者思想领袖路线，尽管我讨厌这个词，你喜欢深刻的想法，并从中找到意义，而且想分享它们。"
+        },
+        {
+          "s": 1453.577,
+          "e": 1455.162,
+          "en": "That's who that's for. So check that out.",
+          "zh": "那篇文章就是为这类人准备的。可以去看看。"
+        },
+        {
+          "s": 1455.162,
+          "e": 1456.329,
+          "en": "If you want. Link in description.",
+          "zh": "感兴趣的话，链接在简介里。"
+        }
+      ]
+    },
+    {
+      "s": 1456.329,
+      "e": 1481.646,
+      "sentences": [
+        {
+          "s": 1456.329,
+          "e": 1462.169,
+          "en": "But the energy signature is the human ability to select what to focus on and why it matters to you.",
+          "zh": "但能量印记，是人类选择聚焦什么、以及为什么这对你重要的能力。"
+        },
+        {
+          "s": 1462.169,
+          "e": 1468.842,
+          "en": "So two people can cover the same topic or write about the same topic, and it will feel completely different when you read it.",
+          "zh": "所以两个人可以写同一个话题，但你读起来感觉会完全不同。"
+        },
+        {
+          "s": 1468.842,
+          "e": 1472.929,
+          "en": "I can mimic the style, but it cannot mimic care.",
+          "zh": "AI 可以模仿风格，但它无法模仿在乎。"
+        },
+        {
+          "s": 1472.929,
+          "e": 1479.519,
+          "en": "Now the third thing is sense making because I can process information, but it cannot decide what information means.",
+          "zh": "第三是意义建构，因为 AI 可以处理信息，但它无法决定信息意味着什么。"
+        },
+        {
+          "s": 1479.519,
+          "e": 1481.646,
+          "en": "It cannot frame it cannot prioritize.",
+          "zh": "它无法框定，无法排序。"
+        }
+      ]
+    },
+    {
+      "s": 1481.646,
+      "e": 1498.872,
+      "sentences": [
+        {
+          "s": 1481.646,
+          "e": 1488.278,
+          "en": "It cannot say this matters in this doesn't sense making is inherently human because it requires stakes.",
+          "zh": "它无法说这个重要，那个不重要。意义建构本质上是人类的，因为它需要利害关系。"
+        },
+        {
+          "s": 1488.278,
+          "e": 1490.947,
+          "en": "AI has no stakes, AI does not die.",
+          "zh": "AI 没有利害关系，AI 不会死。"
+        },
+        {
+          "s": 1490.947,
+          "e": 1491.781,
+          "en": "And that's just it.",
+          "zh": "就是这样。"
+        },
+        {
+          "s": 1491.781,
+          "e": 1493.992,
+          "en": "That's number four, which is trajectory.",
+          "zh": "这就引出了第四点，轨迹。"
+        },
+        {
+          "s": 1493.992,
+          "e": 1498.872,
+          "en": "Because you have a life, you have a past, you have a present, you have a future, you have a story arc.",
+          "zh": "因为你有一段人生，你有过去，有现在，有未来，有一条故事弧线。"
+        }
+      ]
+    },
+    {
+      "s": 1498.872,
+      "e": 1517.974,
+      "sentences": [
+        {
+          "s": 1498.872,
+          "e": 1500.916,
+          "en": "AI doesn't have a trajectory.",
+          "zh": "AI 没有人生轨迹。"
+        },
+        {
+          "s": 1500.916,
+          "e": 1502.334,
+          "en": "It doesn't have any mortality.",
+          "zh": "它没有死亡这回事。"
+        },
+        {
+          "s": 1502.334,
+          "e": 1504.002,
+          "en": "It doesn't have any temporal compression.",
+          "zh": "它没有任何时间压缩感。"
+        },
+        {
+          "s": 1504.002,
+          "e": 1507.964,
+          "en": "So if we solve immortality one day, it's still not the same.",
+          "zh": "所以就算有一天我们解决了永生，那也完全不是一回事。"
+        },
+        {
+          "s": 1507.964,
+          "e": 1517.974,
+          "en": "If we live forever, this moment still passes right now, this thing that we're living in right now, what I just said is gone.",
+          "zh": "如果我们永生不死，当下这一刻依然会流逝，我们此刻正在经历的这一切，我刚说的话已经消失了。"
+        }
+      ]
+    },
+    {
+      "s": 1517.974,
+      "e": 1534.866,
+      "sentences": [
+        {
+          "s": 1517.974,
+          "e": 1520.06,
+          "en": "I can't redo it. I can't simulate it.",
+          "zh": "我没法重来，我没法模拟它。"
+        },
+        {
+          "s": 1520.06,
+          "e": 1521.436,
+          "en": "I can't try over again.",
+          "zh": "我没法再试一次。"
+        },
+        {
+          "s": 1521.436,
+          "e": 1526.858,
+          "en": "People think immortality will make life meaningless, but I don't think it will for that reason.",
+          "zh": "人们觉得永生会让生命失去意义，但我认为不会，原因就在这里。"
+        },
+        {
+          "s": 1526.858,
+          "e": 1532.155,
+          "en": "So when you create your creating from right now and then it's gone.",
+          "zh": "所以当你创作的时候，你从此刻出发去创作，然后它就消失了。"
+        },
+        {
+          "s": 1532.155,
+          "e": 1534.866,
+          "en": "And the fifth thing is just evolving taste.",
+          "zh": "第五点是不断进化的品味。"
+        }
+      ]
+    },
+    {
+      "s": 1534.866,
+      "e": 1559.891,
+      "sentences": [
+        {
+          "s": 1534.866,
+          "e": 1541.915,
+          "en": "And the best way I can put this is if I tell AI to write like me and I read it, I don't want to write about that anymore.",
+          "zh": "我能给出的最好解释是：如果我让 AI 模仿我的风格写作，我读完之后，就再也不想写那个东西了。"
+        },
+        {
+          "s": 1541.915,
+          "e": 1544.918,
+          "en": "My taste instantly changed and I'm going to write something different.",
+          "zh": "我的品味瞬间变了，我会去写点别的。"
+        },
+        {
+          "s": 1544.918,
+          "e": 1550.34,
+          "en": "If I did that, it would just get stuck in this infinite loop and then it explode. And that's just it.",
+          "zh": "如果我那样做，它就会卡在一个无限循环里，然后爆炸。就是这样。"
+        },
+        {
+          "s": 1550.34,
+          "e": 1555.095,
+          "en": "You grow, you change, you look back on your work and you think it sucks.",
+          "zh": "你在成长，你在变化，你回头看自己的作品，觉得烂透了。"
+        },
+        {
+          "s": 1555.095,
+          "e": 1559.891,
+          "en": "Now the point you've been waiting for the post labor skill stack or the post AI skill stack.",
+          "zh": "现在到了你一直在等的部分：后劳动技能栈，或者说后 AI 技能栈。"
+        }
+      ]
+    },
+    {
+      "s": 1559.891,
+      "e": 1579.995,
+      "sentences": [
+        {
+          "s": 1559.891,
+          "e": 1560.642,
+          "en": "Let's talk about it.",
+          "zh": "我们来聊聊。"
+        },
+        {
+          "s": 1560.642,
+          "e": 1562.852,
+          "en": "Because I've talked about this multiple times in the past.",
+          "zh": "因为我过去讲过很多次这个话题。"
+        },
+        {
+          "s": 1562.852,
+          "e": 1569.776,
+          "en": "I've said things like marketing, sales, writing, speaking all of these other things, but I want to go higher level because we have to abstract out a bit.",
+          "zh": "我说过营销、销售、写作、演讲这些东西，但我想再往上一层，因为我们需要稍微抽象一点。"
+        },
+        {
+          "s": 1569.776,
+          "e": 1574.447,
+          "en": "So this is more of a skill hierarchy than it is just a list of skills that you need to learn.",
+          "zh": "所以这更像是一个技能层级，而不只是一张你需要学的技能清单。"
+        },
+        {
+          "s": 1574.447,
+          "e": 1579.995,
+          "en": "And the thing here is that these aren't career specific skills because you aren't going into a specific career.",
+          "zh": "关键在于，这些不是针对某个职业的技能，因为你不会进入某个具体的职业。"
+        }
+      ]
+    },
+    {
+      "s": 1579.995,
+      "e": 1605.395,
+      "sentences": [
+        {
+          "s": 1579.995,
+          "e": 1581.58,
+          "en": "These are human skills.",
+          "zh": "这些是人的技能。"
+        },
+        {
+          "s": 1581.58,
+          "e": 1586.001,
+          "en": "So this is just uncovering what your nature is and how to lean more into it.",
+          "zh": "这只是在揭示你的本性是什么，以及如何更深入地顺应它。"
+        },
+        {
+          "s": 1586.001,
+          "e": 1595.176,
+          "en": "So the skill stack or hierarchy is first agency the meta skill, then taste, perspective, persuasion and then technical know how.",
+          "zh": "所以这个技能栈或者说层级是：首先是能动性，也就是元技能，然后是品味、视角、说服力，最后是技术实操。"
+        },
+        {
+          "s": 1595.176,
+          "e": 1601.891,
+          "en": "So knowing how to use a software or use AI and these are ordered in a very specific way because they're a hierarchy.",
+          "zh": "也就是知道怎么用一个软件或者用 AI，这些是按特定顺序排列的，因为它们是一个层级。"
+        },
+        {
+          "s": 1601.891,
+          "e": 1605.395,
+          "en": "They're umbrella in under one another and one comes before the other.",
+          "zh": "它们一个包含在另一个之下，一个在另一个之前。"
+        }
+      ]
+    },
+    {
+      "s": 1605.395,
+      "e": 1619.034,
+      "sentences": [
+        {
+          "s": 1605.395,
+          "e": 1610.483,
+          "en": "So agency or the meta skill is the ability to act without permission or prompting.",
+          "zh": "能动性，或者说元技能，是不需要许可或提示就能行动的能力。"
+        },
+        {
+          "s": 1610.483,
+          "e": 1612.694,
+          "en": "It's creating your own story.",
+          "zh": "是创造你自己的故事。"
+        },
+        {
+          "s": 1612.694,
+          "e": 1614.487,
+          "en": "It's setting your own trajectory.",
+          "zh": "是设定你自己的轨迹。"
+        },
+        {
+          "s": 1614.487,
+          "e": 1617.49,
+          "en": "It's not waiting for someone to tell you what to do or who to be.",
+          "zh": "是不等别人告诉你该做什么、该成为谁。"
+        },
+        {
+          "s": 1617.49,
+          "e": 1619.034,
+          "en": "Now, why is it the meta skill?",
+          "zh": "为什么它是元技能？"
+        }
+      ]
+    },
+    {
+      "s": 1619.034,
+      "e": 1637.677,
+      "sentences": [
+        {
+          "s": 1619.034,
+          "e": 1622.621,
+          "en": "Because agency is what allows you to develop all other skills.",
+          "zh": "因为能动性是让你发展所有其他技能的东西。"
+        },
+        {
+          "s": 1622.621,
+          "e": 1626.666,
+          "en": "Without agency, you're just following someone else's path, and that path is being automated.",
+          "zh": "没有能动性，你只是在走别人走过的路，而那条路正在被自动化。"
+        },
+        {
+          "s": 1626.666,
+          "e": 1629.669,
+          "en": "So how do you actually practice agency?",
+          "zh": "那么你如何真正练习能动性？"
+        },
+        {
+          "s": 1629.669,
+          "e": 1635.967,
+          "en": "That's through leaning in to the three generators of meaning struggle, status, curiosity for struggle.",
+          "zh": "那就是深入意义的三台引擎：挣扎、地位、好奇心。先说挣扎。"
+        },
+        {
+          "s": 1635.967,
+          "e": 1637.677,
+          "en": "You make deliberate choices.",
+          "zh": "你做出有意识的选择。"
+        }
+      ]
+    },
+    {
+      "s": 1637.677,
+      "e": 1652.942,
+      "sentences": [
+        {
+          "s": 1637.677,
+          "e": 1639.304,
+          "en": "You reject conformity.",
+          "zh": "你拒绝随大流。"
+        },
+        {
+          "s": 1639.304,
+          "e": 1642.057,
+          "en": "You choose your own problems to solve. For status.",
+          "zh": "你选择自己的问题去解决。为了地位。"
+        },
+        {
+          "s": 1642.057,
+          "e": 1645.894,
+          "en": "Money becomes a tool for agency, not just a metric of productivity.",
+          "zh": "钱成了自主权的工具，而不只是衡量生产力的指标。"
+        },
+        {
+          "s": 1645.894,
+          "e": 1649.522,
+          "en": "You're choosing to do what you want with money as the fuel.",
+          "zh": "你选择做自己想做的事，用钱作为燃料。"
+        },
+        {
+          "s": 1649.522,
+          "e": 1652.942,
+          "en": "Then, through curiosity, you're filtering signal from noise.",
+          "zh": "然后，通过好奇心，你在从噪音中过滤信号。"
+        }
+      ]
+    },
+    {
+      "s": 1652.942,
+      "e": 1672.629,
+      "sentences": [
+        {
+          "s": 1652.942,
+          "e": 1655.278,
+          "en": "You're following threads that interests you.",
+          "zh": "你追随那些让你感兴趣的线索。"
+        },
+        {
+          "s": 1655.278,
+          "e": 1658.073,
+          "en": "And this is especially important when everyone's just chasing the trends.",
+          "zh": "当所有人都在追逐趋势时，这一点尤其重要。"
+        },
+        {
+          "s": 1658.073,
+          "e": 1661.451,
+          "en": "You log on social media and that's all you see is one thing after another.",
+          "zh": "你登录社交媒体，看到的全是一个接一个的东西。"
+        },
+        {
+          "s": 1661.451,
+          "e": 1670.335,
+          "en": "There's no uniqueness, and it's okay if you chase the trends and try to hop on to them, but just doing exactly what the last person did related to that trend.",
+          "zh": "没有任何独特性。追逐趋势、试图蹭上去也没问题，但别只是把上一个人跟那个趋势相关的事原封不动地再做一遍。"
+        },
+        {
+          "s": 1670.335,
+          "e": 1672.629,
+          "en": "And how do you think you create trends?",
+          "zh": "你觉得趋势是怎么创造出来的？"
+        }
+      ]
+    },
+    {
+      "s": 1672.629,
+      "e": 1691.189,
+      "sentences": [
+        {
+          "s": 1672.629,
+          "e": 1684.599,
+          "en": "So a good place to start here with developing agency, even though I've talked about it in a video called The Most Important Skill to learn in the next ten years is you just have to reject the default path, go to school, get a job, retire at 65.",
+          "zh": "所以，培养自主权的一个好起点——虽然我在一个叫《未来十年最值得学的技能》的视频里讲过——就是你得拒绝默认路径：上学、找工作、65岁退休。"
+        },
+        {
+          "s": 1684.599,
+          "e": 1686.351,
+          "en": "That's over. Reject it.",
+          "zh": "那条路完了。拒绝它。"
+        },
+        {
+          "s": 1686.351,
+          "e": 1688.77,
+          "en": "Do something else. Try something new.",
+          "zh": "做点别的。尝试新东西。"
+        },
+        {
+          "s": 1688.77,
+          "e": 1690.146,
+          "en": "Figure out what to do.",
+          "zh": "搞清楚该做什么。"
+        },
+        {
+          "s": 1690.146,
+          "e": 1691.189,
+          "en": "Take one step.",
+          "zh": "迈出一步。"
+        }
+      ]
+    },
+    {
+      "s": 1691.189,
+      "e": 1700.323,
+      "sentences": [
+        {
+          "s": 1691.189,
+          "e": 1694.234,
+          "en": "Even though if you don't, even though you don't think that's the right step to take.",
+          "zh": "哪怕你不迈，哪怕你觉得那不是正确的一步。"
+        },
+        {
+          "s": 1694.234,
+          "e": 1694.776,
+          "en": "Just take it.",
+          "zh": "迈出去就对了。"
+        },
+        {
+          "s": 1694.776,
+          "e": 1696.486,
+          "en": "Make a mistake. Correct the mistake.",
+          "zh": "犯个错。纠正错误。"
+        },
+        {
+          "s": 1696.486,
+          "e": 1697.07,
+          "en": "That's it.",
+          "zh": "就这样。"
+        },
+        {
+          "s": 1697.07,
+          "e": 1700.323,
+          "en": "Now the next skill is taste or the skill of discernment.",
+          "zh": "下一个技能是品味，或者说辨别力。"
+        }
+      ]
+    },
+    {
+      "s": 1700.323,
+      "e": 1724.639,
+      "sentences": [
+        {
+          "s": 1700.323,
+          "e": 1707.08,
+          "en": "And the best way to understand the importance of taste because everyone tells you all you need taste, you need taste, you need agency, you need this.",
+          "zh": "理解品味重要性的最好方式——因为所有人都跟你说你需要品味、你需要品味、你需要自主权、你需要这个。"
+        },
+        {
+          "s": 1707.08,
+          "e": 1708.832,
+          "en": "Why does taste actually matter?",
+          "zh": "品味到底为什么重要？"
+        },
+        {
+          "s": 1708.832,
+          "e": 1709.165,
+          "en": "For that?",
+          "zh": "要回答这个？"
+        },
+        {
+          "s": 1709.165,
+          "e": 1723.346,
+          "en": "We look at the infinite library problem, which some of you may have heard before, but in essence, if there's a library in that library has every possible permutation of any word ever written, ever, it just has everything.",
+          "zh": "我们来看无限图书馆问题，有些人可能听过。本质上说，如果有一个图书馆，里面包含了所有文字的所有可能排列，任何被写出来的东西，全都在里面。"
+        },
+        {
+          "s": 1723.346,
+          "e": 1724.639,
+          "en": "Then it's meaningless.",
+          "zh": "那它就是无意义的。"
+        }
+      ]
+    },
+    {
+      "s": 1724.639,
+      "e": 1742.24,
+      "sentences": [
+        {
+          "s": 1724.639,
+          "e": 1725.557,
+          "en": "It's worthless.",
+          "zh": "毫无价值。"
+        },
+        {
+          "s": 1725.557,
+          "e": 1727.892,
+          "en": "There's no opinion worth looking at.",
+          "zh": "没有任何值得看的观点。"
+        },
+        {
+          "s": 1727.892,
+          "e": 1736.192,
+          "en": "And then there's the infinite monkey problem, where if you take infinite monkeys and have them just type for a billion years, eventually one will produce Shakespeare.",
+          "zh": "然后是无限猴子问题：如果你让无限只猴子打上十亿年，最终会有一只打出莎士比亚。"
+        },
+        {
+          "s": 1736.192,
+          "e": 1738.57,
+          "en": "But again, what worth is that?",
+          "zh": "但话说回来，那又有什么价值？"
+        },
+        {
+          "s": 1738.57,
+          "e": 1742.24,
+          "en": "You're just going to look at it and you're gonna be like, oh, well, yeah, it's good.",
+          "zh": "你只会看着它，然后说，哦，好吧，是不错。"
+        }
+      ]
+    },
+    {
+      "s": 1742.24,
+      "e": 1759.716,
+      "sentences": [
+        {
+          "s": 1742.24,
+          "e": 1746.995,
+          "en": "But it took a monkey a billion years and they have no idea what they're writing about.",
+          "zh": "但这是一只猴子花了十亿年打出来的，它根本不知道自己在写什么。"
+        },
+        {
+          "s": 1746.995,
+          "e": 1749.038,
+          "en": "Like, it doesn't, it doesn't mean anything.",
+          "zh": "这没有任何意义。"
+        },
+        {
+          "s": 1749.038,
+          "e": 1753.585,
+          "en": "So the insight here is that curation matters more than creation.",
+          "zh": "所以这里的洞见是：策展比创造更重要。"
+        },
+        {
+          "s": 1753.585,
+          "e": 1757.797,
+          "en": "You have to select what matters and share it with another person.",
+          "zh": "你必须筛选出真正重要的东西，然后分享给另一个人。"
+        },
+        {
+          "s": 1757.797,
+          "e": 1759.716,
+          "en": "So how do you actually develop taste?",
+          "zh": "那品味到底怎么培养？"
+        }
+      ]
+    },
+    {
+      "s": 1759.716,
+      "e": 1777.233,
+      "sentences": [
+        {
+          "s": 1759.716,
+          "e": 1768.141,
+          "en": "You develop taste by building things, by creating or curating or putting things out there and seeing if it actually works.",
+          "zh": "通过动手构建来培养——去创造、去策展、把东西拿出来，看它到底行不行得通。"
+        },
+        {
+          "s": 1768.141,
+          "e": 1769.559,
+          "en": "You build your own thing.",
+          "zh": "你得构建自己的东西。"
+        },
+        {
+          "s": 1769.559,
+          "e": 1771.686,
+          "en": "You make decisions, agency.",
+          "zh": "自己做决定，行使主动权。"
+        },
+        {
+          "s": 1771.686,
+          "e": 1774.272,
+          "en": "You see what works, you see what doesn't. You iterate.",
+          "zh": "看什么行得通、什么行不通，然后迭代。"
+        },
+        {
+          "s": 1774.272,
+          "e": 1777.233,
+          "en": "Now the third skill here is just perspective.",
+          "zh": "第三个技能是视角。"
+        }
+      ]
+    },
+    {
+      "s": 1777.233,
+      "e": 1797.128,
+      "sentences": [
+        {
+          "s": 1777.233,
+          "e": 1779.694,
+          "en": "It's expanding your human capacity.",
+          "zh": "是扩展你作为人的能力边界。"
+        },
+        {
+          "s": 1779.694,
+          "e": 1786.451,
+          "en": "Now we've talked about the levels of ego development or that could also be synonymous with perspective development many times in the past.",
+          "zh": "我们过去聊过很多次自我发展层级，也可以叫视角发展层级。"
+        },
+        {
+          "s": 1786.451,
+          "e": 1789.913,
+          "en": "But as you develop your perspective, what you're doing is you're opening it up.",
+          "zh": "当你发展自己的视角时，你其实是在打开它。"
+        },
+        {
+          "s": 1789.913,
+          "e": 1793.833,
+          "en": "You become less conformist, less ideological and less dogmatic.",
+          "zh": "你变得不那么从众、不那么意识形态化、不那么教条。"
+        },
+        {
+          "s": 1793.833,
+          "e": 1797.128,
+          "en": "You're you're less stuck in this bubble.",
+          "zh": "你不会再困在那个泡泡里。"
+        }
+      ]
+    },
+    {
+      "s": 1797.128,
+      "e": 1823.321,
+      "sentences": [
+        {
+          "s": 1797.128,
+          "e": 1803.343,
+          "en": "You gain the ability to hold complexity in your mind, to hold contradiction, to see systems and to understand nuance.",
+          "zh": "你获得了在头脑中容纳复杂性、容纳矛盾、看见系统、理解细微差别的能力。"
+        },
+        {
+          "s": 1803.343,
+          "e": 1807.931,
+          "en": "And so this is what allows for genuine agency and sophisticated curation.",
+          "zh": "这才是真正让你拥有主动权、做出精妙策展的基础。"
+        },
+        {
+          "s": 1807.931,
+          "e": 1819.567,
+          "en": "Because if your mind is so small and narrow, the that contains the only opportunities and ideas available to you, you can't create something unique if you're extremely dogmatic.",
+          "zh": "因为如果你的心智又小又窄，里面能容纳的机会和想法就那么多——你要是极度教条，根本创造不出独特的东西。"
+        },
+        {
+          "s": 1819.567,
+          "e": 1822.237,
+          "en": "Now, the next video is going to be specifically on this.",
+          "zh": "下一期视频会专门讲这个。"
+        },
+        {
+          "s": 1822.237,
+          "e": 1823.321,
+          "en": "To make it more practical.",
+          "zh": "让它更实操。"
+        }
+      ]
+    },
+    {
+      "s": 1823.321,
+      "e": 1851.683,
+      "sentences": [
+        {
+          "s": 1823.321,
+          "e": 1825.698,
+          "en": "It's going to be called something like How to Think Like a genius.",
+          "zh": "标题大概会叫《如何像天才一样思考》。"
+        },
+        {
+          "s": 1825.698,
+          "e": 1835.667,
+          "en": "It's about how to tap into five dimensional thinking, so to say, but it teaches you how to think and why that's so important because many people don't think at all.",
+          "zh": "讲的是怎么进入所谓的五维思考，但本质是教你如何思考，以及为什么这如此重要——因为很多人根本不会思考。"
+        },
+        {
+          "s": 1835.667,
+          "e": 1841.047,
+          "en": "Now, the fourth skill is persuasion, which is the ability to make people care about what you do.",
+          "zh": "第四个技能是说服力，也就是让别人在乎你所做之事的能力。"
+        },
+        {
+          "s": 1841.047,
+          "e": 1846.177,
+          "en": "And that's a huge problem for creatives, is that they put so much time and effort into something.",
+          "zh": "这对创作者来说是个巨大的问题：他们花了那么多时间和精力做出一个东西。"
+        },
+        {
+          "s": 1846.177,
+          "e": 1851.683,
+          "en": "You have an author that works for ten years on this insane book and then nobody sees it.",
+          "zh": "一个作者花了十年写了一本厉害的书，结果没人看到。"
+        }
+      ]
+    },
+    {
+      "s": 1851.683,
+      "e": 1878.376,
+      "sentences": [
+        {
+          "s": 1851.683,
+          "e": 1852.517,
+          "en": "It's worthless.",
+          "zh": "那就毫无价值。"
+        },
+        {
+          "s": 1852.517,
+          "e": 1867.574,
+          "en": "So to learn how to persuade, I would just recommend learning about marketing, sales, probably copywriting, and just building on social media, because the more you actually do the things that require you to persuade, and the more you make mistakes and realize, hey, this isn't working.",
+          "zh": "所以想学说服力，我建议去学市场营销、销售，大概还有文案写作，然后直接在社交媒体上构建——因为你越是去做那些需要你说服别人的事，你就越会犯错，然后意识到\"嘿，这行不通\"。"
+        },
+        {
+          "s": 1867.574,
+          "e": 1870.66,
+          "en": "And then you learn new techniques to try, and then you try it and then you get better.",
+          "zh": "接着你会学到新的技巧去尝试，然后去试，然后变得更好。"
+        },
+        {
+          "s": 1870.66,
+          "e": 1871.911,
+          "en": "That's just how you learn.",
+          "zh": "学习就是这么回事。"
+        },
+        {
+          "s": 1871.911,
+          "e": 1878.376,
+          "en": "Now, the fifth skill is technical knowhow, or just using the tools available to you to do all of this stuff.",
+          "zh": "第五个技能是技术实操能力，或者说，利用你手头可用的工具来完成这一切。"
+        }
+      ]
+    },
+    {
+      "s": 1878.376,
+      "e": 1895.059,
+      "sentences": [
+        {
+          "s": 1878.376,
+          "e": 1882.589,
+          "en": "So this is like the practical thing that you can start trying to do from the ground up.",
+          "zh": "这是你可以从零开始动手去做的实操层面。"
+        },
+        {
+          "s": 1882.589,
+          "e": 1888.011,
+          "en": "This is like the vessel for how you're doing, what you're doing, but it's mostly just AI tools right now.",
+          "zh": "它就像你做事方式的载体，但目前主要就是AI工具。"
+        },
+        {
+          "s": 1888.011,
+          "e": 1889.178,
+          "en": "Just learn new tools.",
+          "zh": "去学新工具就对了。"
+        },
+        {
+          "s": 1889.178,
+          "e": 1892.599,
+          "en": "Try Claude, try ChatGPT try Claude code try madness.",
+          "zh": "试试Claude、试试ChatGPT、试试Claude Code、试试Madness。"
+        },
+        {
+          "s": 1892.599,
+          "e": 1895.059,
+          "en": "Try all of these different things or try Eden.",
+          "zh": "所有这些不同的东西都去试试，或者试试Eden。"
+        }
+      ]
+    },
+    {
+      "s": 1895.059,
+      "e": 1919.292,
+      "sentences": [
+        {
+          "s": 1895.059,
+          "e": 1899.48,
+          "en": "Because when this video goes out, Eden should be open to the public.",
+          "zh": "因为等这期视频发出来的时候，Eden应该已经对公众开放了。"
+        },
+        {
+          "s": 1899.48,
+          "e": 1903.026,
+          "en": "We're removing the waitlist for a few days, so join if you want to try it.",
+          "zh": "我们会取消几天等待名单，想试的话就来加入。"
+        },
+        {
+          "s": 1903.026,
+          "e": 1911.868,
+          "en": "But we just introduced projects and the Eden agent, and what Eden is, is it's a drive that handles your busy work so that you can focus on the creative work.",
+          "zh": "但我们刚推出了项目和 Eden 智能体，Eden 是什么？它是一个帮你处理杂事的驱动器，让你能专注于创造性工作。"
+        },
+        {
+          "s": 1911.868,
+          "e": 1915.496,
+          "en": "So think of a drive where you can put off all of your files, your footage, your videos.",
+          "zh": "想象一个驱动器，你可以把所有文件、素材、视频都丢进去。"
+        },
+        {
+          "s": 1915.496,
+          "e": 1919.292,
+          "en": "You can even paste social media links like YouTube videos, have those transcribed.",
+          "zh": "你甚至可以粘贴社交媒体链接，比如 YouTube 视频，让它帮你转录。"
+        }
+      ]
+    },
+    {
+      "s": 1919.292,
+      "e": 1938.895,
+      "sentences": [
+        {
+          "s": 1919.292,
+          "e": 1922.921,
+          "en": "And then you can ask the agent to do things with that information.",
+          "zh": "然后你可以让智能体用这些信息去做事。"
+        },
+        {
+          "s": 1922.921,
+          "e": 1929.26,
+          "en": "Like, I could tell it to pull all my YouTube videos and create a research document in this folder so that I can go and use that to write.",
+          "zh": "比如，我可以让它抓取我所有的 YouTube 视频，在这个文件夹里生成一份研究文档，我就能拿去写东西了。"
+        },
+        {
+          "s": 1929.26,
+          "e": 1933.389,
+          "en": "And then the projects feature is where I can, let's say, write a newsletter.",
+          "zh": "而项目功能呢，比如说我要写一期 newsletter。"
+        },
+        {
+          "s": 1933.598,
+          "e": 1937.143,
+          "en": "I can pull all of my sources and it's like notebook alarm, but this is all in one place.",
+          "zh": "我可以拉取所有素材来源，它有点像 notebook alarm，但全都集中在一个地方。"
+        },
+        {
+          "s": 1937.143,
+          "e": 1938.895,
+          "en": "Why is this different from other tools?",
+          "zh": "这跟其他工具有什么不同？"
+        }
+      ]
+    },
+    {
+      "s": 1938.895,
+      "e": 1950.615,
+      "sentences": [
+        {
+          "s": 1938.895,
+          "e": 1940.855,
+          "en": "Because other tools don't have the foundation.",
+          "zh": "因为其他工具没有这个基础。"
+        },
+        {
+          "s": 1940.855,
+          "e": 1942.065,
+          "en": "They don't have the drive.",
+          "zh": "它们没有这个驱动器。"
+        },
+        {
+          "s": 1942.065,
+          "e": 1947.904,
+          "en": "You can access your local files on your computer with Claude and you can connect to Google Drive, which sucks.",
+          "zh": "你用 Claude 可以访问电脑上的本地文件，也可以连接 Google Drive，但那体验很烂。"
+        },
+        {
+          "s": 1947.904,
+          "e": 1949.405,
+          "en": "But how do you actually share with a team?",
+          "zh": "但你怎么跟团队共享呢？"
+        },
+        {
+          "s": 1949.405,
+          "e": 1950.615,
+          "en": "How do you share it with other people?",
+          "zh": "你怎么分享给别人？"
+        }
+      ]
+    },
+    {
+      "s": 1950.615,
+      "e": 1966.547,
+      "sentences": [
+        {
+          "s": 1950.615,
+          "e": 1952.909,
+          "en": "You're stuck, dragging, dropping, copying, pasting.",
+          "zh": "你被困在拖拽、下载、复制、粘贴里。"
+        },
+        {
+          "s": 1952.909,
+          "e": 1958.331,
+          "en": "You can have Claude create a seven day email sequence, and you can paste the bunch of your context into there.",
+          "zh": "你可以让 Claude 创建一个七天的邮件序列，把一堆上下文粘贴进去。"
+        },
+        {
+          "s": 1958.331,
+          "e": 1962.335,
+          "en": "Or you can already have all of the knowledge about your company in your drive.",
+          "zh": "或者你的驱动器里已经存了公司所有的知识。"
+        },
+        {
+          "s": 1962.335,
+          "e": 1965.505,
+          "en": "And then ask the agent to build out an email sequence for a new project.",
+          "zh": "然后让智能体为一个新项目构建一套邮件序列。"
+        },
+        {
+          "s": 1965.505,
+          "e": 1966.547,
+          "en": "And that's also in the drive.",
+          "zh": "而这个序列也在驱动器里。"
+        }
+      ]
+    },
+    {
+      "s": 1966.547,
+      "e": 1980.853,
+      "sentences": [
+        {
+          "s": 1966.547,
+          "e": 1969.384,
+          "en": "And then your team member can log in, go in there, see it, boom.",
+          "zh": "然后你的团队成员登录进去，就能看到，搞定。"
+        },
+        {
+          "s": 1969.384,
+          "e": 1971.761,
+          "en": "So try that out as well. Link in the description.",
+          "zh": "所以也去试试这个吧。链接在描述栏。"
+        },
+        {
+          "s": 1971.761,
+          "e": 1973.471,
+          "en": "That's pretty much it for this video.",
+          "zh": "这期视频差不多就这些了。"
+        },
+        {
+          "s": 1973.471,
+          "e": 1976.14,
+          "en": "I hope it was helpful. I hope it gave you some insight.",
+          "zh": "希望对你有用，希望能给你一些启发。"
+        },
+        {
+          "s": 1976.14,
+          "e": 1980.853,
+          "en": "I hope it opened your mind to the potential of the future, especially for creatives.",
+          "zh": "希望能打开你的思路，让你看到未来的可能性，尤其是对创作者来说。"
+        }
+      ]
+    },
+    {
+      "s": 1980.853,
+      "e": 1991.03,
+      "sentences": [
+        {
+          "s": 1980.853,
+          "e": 1984.315,
+          "en": "I'm pretty excited and bullish on creative work.",
+          "zh": "我对创造性工作非常兴奋，也非常看好。"
+        },
+        {
+          "s": 1984.315,
+          "e": 1989.612,
+          "en": "So until the next video on how to practice thinking and how to think better, like subscribe.",
+          "zh": "那么在下期讲如何练习思考、如何更好地思考的视频之前，点赞订阅。"
+        },
+        {
+          "s": 1989.612,
+          "e": 1991.03,
+          "en": "I'll see you in the next one. Bye!",
+          "zh": "下期见。拜！"
+        }
+      ]
+    }
+  ]
+}

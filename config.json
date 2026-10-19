@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "name": "Dan Koe Talks",
+    "handle": "@DanKoeTalks",
+    "url": "https://www.youtube.com/@DanKoeTalks",
+    "description": "Dan Koe 关于一人企业、专注力、战略思维与自我重塑的长视频合集"
+  },
+  "video_dir": "/Volumes/T7/download/dankoe",
+  "data_dir": "data",
+  "site_dir": "site",
+  "api": {
+    "api_key_env": "OPENAI_API_KEY",
+    "base_url_env": "OPENAI_API_BASE",
+    "default_base_url": "https://api.siliconflow.cn/v1",
+    "translate_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synthesize_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "concurrency": 4,
+    "timeout": 300,
+    "max_retries": 6
+  },
+  "translate": {
+    "chunk_sentences": 14,
+    "chunk_words_budget": 900,
+    "thinking": false,
+    "temperature": 0.3
+  },
+  "summarize": {
+    "segments": 6,
+    "keyframes_total": 15,
+    "frames_per_segment": 3,
+    "thinking": true,
+    "temperature": 0.35,
+    "vision_concurrency": 6,
+    "video_concurrency": 3,
+    "vision_timeout": 600,
+    "synth_timeout": 900
+  },
+  "frames": {
+    "cover_second_ratio": 0.06,
+    "keyframe_count": 15,
+    "keyframe_width": 720,
+    "cover_width": 960,
+    "jpeg_quality": 4
+  },
+  "srt_completeness": {
+    "min_tail_coverage_ratio": 0.97,
+    "max_interior_gap_seconds": 120,
+    "min_words_per_minute": 60
+  }
+}

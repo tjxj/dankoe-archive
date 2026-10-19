@@ -1,0 +1,116 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ channel.name }} · 视频学习档案{% endblock %}
+{% block description %}{{ channel.description }} —— {{ video_count }} 个视频、{{ total_hours }} 小时，含英文原稿、中文译文与图文总结。{% endblock %}
+
+{% block content %}
+<div class="wrap">
+
+  <section class="masthead">
+    <div class="eyebrow">视频学习档案 · Video Study Archive</div>
+    <h1>{{ channel.name }}</h1>
+    <p class="lede">{{ channel.description }}。本站把每个视频拆成四层：官方封面与原片入口、逐句中英对照稿（点句跳转）、可连续阅读的英文原稿与中文译稿、以及绑定到具体画面的图文总结。</p>
+
+    <div class="statrow">
+      <div class="stat">
+        <b>{{ video_count }}</b>
+        <span class="mono dim">视频</span>
+      </div>
+      <div class="stat">
+        <b>{{ total_hours }}<span style="font-size:.9rem;color:var(--muted)"> 小时</span></b>
+        <span class="mono dim">总时长</span>
+      </div>
+      <div class="stat">
+        <b>{{ total_words_k }}<span style="font-size:.9rem;color:var(--muted)">k</span></b>
+        <span class="mono dim">英文词数</span>
+      </div>
+      <div class="stat">
+        <b>{{ total_sentences }}</b>
+        <span class="mono dim">对齐句数</span>
+      </div>
+      <div class="stat">
+        <b>{{ date_range }}</b>
+        <span class="mono dim">收录区间</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="toolbar">
+    <div class="search">
+      <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+        <circle cx="7" cy="7" r="4.6"/><path d="M10.5 10.5 14 14" stroke-linecap="round"/>
+      </svg>
+      <input id="searchInput" type="search" placeholder="搜索标题、中文译名、主题…" autocomplete="off" aria-label="搜索视频">
+    </div>
+
+    {% if topic_chips %}
+    <div class="chips" role="group" aria-label="按主题筛选">
+      {% for t in topic_chips %}
+      <button class="chip" type="button" data-topic="{{ t.name }}" aria-pressed="false">{{ t.name }}<span class="n">{{ t.n }}</span></button>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if month_chips|length > 1 %}
+    <div class="chips" role="group" aria-label="按月份筛选">
+      {% for m in month_chips %}
+      <button class="chip" type="button" data-month="{{ m.key }}" aria-pressed="false">{{ m.label }}<span class="n">{{ m.n }}</span></button>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <button class="chip" type="button" id="resetFilters" style="border-style:dashed">清除筛选</button>
+    <span class="count mono" id="resultCount">{{ video_count }} 个视频</span>
+  </div>
+
+  <div id="videoGrid">
+    {% set f = featured %}
+    <a class="feature" href="v/{{ f.id }}.html" data-month="{{ f.month }}" data-topics="{{ f.topics|join('|') }}"
+       data-search="{{ f.search_hay }}">
+      <span class="feature-media">
+        <img src="assets/cover/{{ f.id }}.jpg" alt="{{ f.title }} 封面" loading="eager" width="1280" height="720">
+        <span class="feature-badge">最新</span>
+      </span>
+      <span>
+        <span class="eyebrow">{{ f.date }} · {{ f.duration_label }}</span>
+        <h2>{{ f.title }}</h2>
+        {% if f.title_zh %}<span class="zh" style="display:block">{{ f.title_zh }}</span>{% endif %}
+        {% if f.one_liner %}<span class="desc" style="display:block">{{ f.one_liner }}</span>{% endif %}
+        <span class="vcard-meta" style="display:flex">
+          <span class="mono">{{ f.views }} 次播放</span>
+          <span class="dot"></span>
+          <span class="mono">{{ f.sentence_count }} 句对照</span>
+          {% if f.topics %}<span class="dot"></span>{% for t in f.topics[:3] %}<span class="topic">{{ t }}</span>{% endfor %}{% endif %}
+        </span>
+      </span>
+    </a>
+
+    <div class="grid">
+      {% for v in videos %}
+      <a class="vcard" href="v/{{ v.id }}.html" data-month="{{ v.month }}" data-topics="{{ v.topics|join('|') }}"
+         data-search="{{ v.search_hay }}">
+        <span class="vcard-media">
+          <img src="assets/cover/{{ v.id }}.jpg" alt="{{ v.title }} 封面" loading="lazy" width="480" height="270">
+          <span class="vcard-dur mono">{{ v.duration_label }}</span>
+          <span class="vcard-date mono">{{ v.date }}</span>
+        </span>
+        <span class="vcard-body">
+          <h3>{{ v.title }}</h3>
+          {% if v.title_zh %}<span class="zh">{{ v.title_zh }}</span>{% endif %}
+          <span class="vcard-meta">
+            <span class="mono">{{ v.date }}</span>
+            <span class="dot"></span>
+            <span class="mono">{{ v.views }}</span>
+            {% if v.sentence_count %}<span class="dot"></span><span class="mono">{{ v.sentence_count }} 句</span>{% endif %}
+          </span>
+        </span>
+      </a>
+      {% endfor %}
+      <div class="empty" id="emptyState" style="display:none">
+        <p class="serif" style="font-size:1.25rem;margin:0 0 6px">没有匹配的视频</p>
+        <p class="mono" style="margin:0">试试别的关键词，或点「清除筛选」</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+{% endblock %}

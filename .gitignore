@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# LLM 响应缓存：可再生，进 git 只增噪音
+data/cache/
+
+# 构建产物：python3 run.py build 从 data/ + templates/ 重建（0.3s）
+site/
+
+# 无头 Chrome 验收的临时产物
+tests/_capture.html

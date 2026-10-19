@@ -1,0 +1,462 @@
+{
+  "title_zh": "零粉丝如何靠两个习惯增长受众",
+  "one_liner": "社交增长靠两个习惯：用个人视角重述已验证话题，并主动社交借力他人受众。",
+  "thesis": "大多数人在社交媒体失败是因为从零开始摸索，缺乏内容判断力。增长的关键是制作与已验证成功内容结构相似但融入个人经验的内容，利用算法推荐触达同类观众。同时，必须主动通过社交建立真实关系，让他人分享你的内容，因为算法不可靠，手动借力他人受众才是可控的增长方式。",
+  "overview_cards": [
+    {
+      "title": "失败经历是隐藏优势",
+      "body": "演讲者因多次创业失败，积累了品牌美学、文案写作、网络关系等高价值技能。这些技能让他在进入社交媒体时具备“先发优势”，能快速识别有效内容模式，避免新手常见的“发内容无人问津”的困境。技能积累是增长的前置条件，而非从零开始。",
+      "accent": "ochre"
+    },
+    {
+      "title": "内容创作：模仿结构，注入视角",
+      "body": "用户消费内容是为了看不同创作者对同一话题的见解，而非全新内容。因此，找到平台上已验证的热门内容结构，用你自己的经验、观点和风格重新诠释，就能借助算法推荐获得曝光。不必追求原创，关键是提供独特的个人视角。",
+      "accent": "blue"
+    },
+    {
+      "title": "主动社交：从他人受众获取粉丝",
+      "body": "算法如彩票，不可依赖。粉丝增长的本质是让人们看到你的内容并关注你，而他们正存在于其他创作者的受众中。每天花30分钟私信同领域创作者，通过真诚赞美建立友谊，再自然请求对方分享你的优质内容，实现雪球式增长。",
+      "accent": "green"
+    },
+    {
+      "title": "系统化创作与工具辅助",
+      "body": "使用工具（如Eden）建立内容灵感库，保存和分析优质帖子，利用AI生成变体激发原创想法。将零散的灵感系统化，定期回顾自己的高表现内容进行迭代，提高创作效率和质量。工具不是替代思考，而是放大已有的创作能力。",
+      "accent": "ink"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "失败经历积累高价值技能",
+      "body": "演讲者在进入社交媒体前尝试了数字艺术、摄影、广告代理、电商等七种以上业务，虽均失败，但积累了品牌美学、文案写作、网络关系等实用技能。这些技能成为他在社交媒体上快速起步的基础，而非从零开始学习。他因此能识别有效内容模式，避免新手地狱。",
+      "why": "说明为什么有人能从零粉丝快速增长，而大多数人陷入新手地狱。",
+      "quote_en": "I had a bunch of high value skills under my belt. Even though those prior businesses, thanks to Shiny Object Syndrome, failed and I tried so many different things...",
+      "quote_zh": "我身上已经积累了一堆高价值技能。尽管之前的那些生意因为“闪亮物体综合症”而失败，我尝试过太多不同的事情……",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "社交平台增长本质是复制验证过的结构",
+      "body": "用户在社交媒体上消费内容时，是想看到特定话题下不同创作者的个人见解，而非全新内容。算法会基于用户观看某话题的视频，推荐同一话题的其他创作者内容。因此，制作与已成功视频结构相似的内容，就会被推荐给原视频的观众群体，从而实现增长。这是可学习的机制，而非运气。",
+      "why": "揭示了社交增长的核心机制，破除对原创的迷信。",
+      "quote_en": "If you actually think about how you consume social media or how I consume social media, people are there to see what's already being talked about from a specific creator's opinion.",
+      "quote_zh": "如果你真的思考一下你是如何消费社交媒体，或者我如何消费社交媒体，人们在那里是为了看到某个特定创作者对已经讨论过的话题的看法。",
+      "frame_id": "f04",
+      "confidence": "high"
+    },
+    {
+      "title": "内容创作不必追求原创，应聚焦个人视角",
+      "body": "没有人拥有真正新颖的想法，原创想法极为稀少。创作者不应因担心抄袭而回避模仿成功内容结构。关键在于，即使使用相同的标题和结构，只要内容注入个人经验、观点和见解，就不是简单复制。例如，Craig Perry的视频虽然结构类似，但包含他自己的独特洞察，因此获得高播放量。",
+      "why": "解放创作者的心理负担，提供可操作的内容策略。",
+      "quote_en": "Another thing for people who are worried about copying you like nobody has a novel idea, novel ideas are extremely rare.",
+      "quote_zh": "对于担心抄袭的人，另一个问题是：没有人有新颖的想法，新颖的想法极其稀少。",
+      "frame_id": "f03",
+      "confidence": "high"
+    },
+    {
+      "title": "利用AI迭代优秀内容以激发原创想法",
+      "body": "将喜欢的优质帖子作为起点，用AI生成多个变体，然后自己阅读筛选，等待一个能激发灵感的版本出现。这个过程通过AI的迭代和自己的思维过滤，最终产出接近原创的内容。经过个人判断和调整后，内容会变得独特，因为个人已通过大量阅读形成了自己的写作风格和品味。",
+      "why": "提供具体的内容创作方法，结合AI工具提高效率。",
+      "quote_en": "So what I like to do is take really good posts that I like and be like, hey, just give me iterations of these and I'll read through them and I'll just wait for one to hit and I'll be like, okay, yeah, I'll write about that.",
+      "quote_zh": "所以我喜欢的做法是，拿一些我喜欢的优质帖子，然后说，嘿，给我这些的变体，我会阅读它们，等待一个能打动我的出现，然后我会想，好吧，我就写这个。",
+      "frame_id": "f06",
+      "confidence": "high"
+    },
+    {
+      "title": "通过主动网络从他人受众获取粉丝",
+      "body": "粉丝增长的核心机制是让他人看到你的内容并主动关注，而算法如同彩票，不可靠。因此，必须手动将内容展示给他人受众。社交媒体上的用户行为主要是关注、点赞、转发和评论，而你想要的粉丝正存在于其他创作者的受众中。应主动参与他人内容，通过互动或合作，将自己置于他人受众的视野中。",
+      "why": "提出第二个增长杠杆，强调主动行动而非被动等待算法。",
+      "quote_en": "You want followers? Followers come from people seeing your post on their phone and then clicking your profile and being interested enough to follow you.",
+      "quote_zh": "你想要粉丝？粉丝来自人们在手机上看到你的帖子，然后点击你的个人资料，并足够感兴趣而关注你。",
+      "frame_id": "f10",
+      "confidence": "high"
+    },
+    {
+      "title": "时间分配策略：内容创作与社交互动并重",
+      "body": "建议将每天60分钟分为两部分：前30分钟用于研究优质内容、构思和撰写，后30分钟用于主动私信联系目标用户，请求他们分享内容。这种时间分配确保内容质量和社交行动并重，形成可重复的增长流程。坚持执行，将两个习惯融入日常。",
+      "why": "提供可执行的时间管理方案，将两个习惯融入日常。",
+      "quote_en": "I would recommend time blocking it for 30 minutes on your calendar so that you actually sit down and do it right. 30 minutes on your calendar should be for researching validated posts and writing out ideas and actually drafting the posts. And then the other 30 minutes should be reaching out to people to get those posts shared right.",
+      "quote_zh": "我建议在日历上预留30分钟，让你真正坐下来好好做这件事。30分钟用于研究被验证的帖子、构思和撰写内容。另外30分钟用于联系人们，让他们分享这些帖子。",
+      "frame_id": "f11",
+      "confidence": "high"
+    },
+    {
+      "title": "非需求型社交：建立真实友谊",
+      "body": "通过“非需求型社交”建立真实友谊，而非功利性联系。找到5个志同道合的人，通过持续互动建立信任，当自己发布优质内容时，朋友会自然愿意分享，因为彼此支持是友谊的自然结果。这种关系基于共同目标和价值观，比一次性交易更可持续，也避免被当作 spammer。",
+      "why": "强调社交的质量而非数量，避免被当作 spammer。",
+      "quote_en": "And so the goal here is to make actual friends, because what do friends do? They support each other and they're usually working toward the same goal. They have a similar value set.",
+      "quote_zh": "所以目标是建立真正的友谊，因为朋友会互相支持，通常朝着相同目标努力，拥有相似的价值观。",
+      "frame_id": "f12",
+      "confidence": "high"
+    },
+    {
+      "title": "请求分享：基于信任的自然转化",
+      "body": "在建立信任后，直接请求对方分享自己的内容。可以发送精心创作的帖子，并说明“灵感来自我们的对话”，或坦诚表达“我正在努力成长，如果你能分享，我会非常感激”。这种请求因前期互动而显得自然，成功率更高。前期提供价值（如分享资源）触发互惠原则，使对方更愿意回报。",
+      "why": "完成社交增长闭环的最后一步，将关系转化为实际增长。",
+      "quote_en": "If you plan to leverage their audience for growth, you want to send them a post that you actually put a lot of time into, and that's good.",
+      "quote_zh": "如果你打算利用他们的受众实现增长，就发一篇你花了很多时间写的帖子，这样很好。",
+      "frame_id": "f15",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:00",
+      "title": "失败经历是隐藏优势",
+      "body": "演讲者分享自己因多次创业失败积累的高价值技能，成为社交增长的前置条件，避免新手地狱。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "06:26",
+      "title": "第一杠杆：模仿已验证内容结构",
+      "body": "揭示社交增长本质是复制验证过的结构，用个人视角重述热门话题，算法会推荐给同类观众。",
+      "frame_id": "f04"
+    },
+    {
+      "time": "12:51",
+      "title": "AI迭代与工具辅助创作",
+      "body": "介绍如何利用AI生成内容变体，结合个人品味筛选，并系统化收集灵感（Eden工具演示）。",
+      "frame_id": "f06"
+    },
+    {
+      "time": "19:17",
+      "title": "第二杠杆：主动社交获取粉丝",
+      "body": "指出算法不可靠，必须手动将内容展示给他人受众，通过互动和合作实现增长。",
+      "frame_id": "f10"
+    },
+    {
+      "time": "25:43",
+      "title": "建立真实友谊的策略",
+      "body": "每天30分钟私信建立非需求型关系，通过简单赞美开启对话，找到志同道合者。",
+      "frame_id": "f12"
+    },
+    {
+      "time": "32:09",
+      "title": "七步法请求分享",
+      "body": "展示兴趣、提供价值、建立信任，最后自然请求对方分享你的优质内容，形成增长闭环。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "内容创作双要素：已验证结构 + 个人视角",
+      "body": "不要从零原创，而是找到平台上已成功的内容结构（标题、话题），用你自己的经验、观点和风格重新诠释。这样既能借助算法推荐，又能提供独特价值。两端：纯原创（高风险，低反馈） vs 纯抄袭（无价值，被厌恶）。",
+      "accent": "blue"
+    },
+    {
+      "title": "社交增长互惠环：兴趣 → 价值 → 信任 → 请求",
+      "body": "通过展示对他人作品的兴趣建立连接，提供资源或信息触发互惠心理，积累信任后自然请求对方分享你的内容。两端：功利性 spam（被忽略） vs 真实友谊（可持续增长）。",
+      "accent": "green"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I had a bunch of high value skills under my belt. Even though those prior businesses, thanks to Shiny Object Syndrome, failed and I tried so many different things...",
+      "zh": "我身上已经积累了一堆高价值技能。尽管之前的那些生意因为“闪亮物体综合症”而失败，我尝试过太多不同的事情……",
+      "context": "演讲者解释为什么他进入社交媒体时并非从零开始，而是带着之前失败积累的技能。"
+    },
+    {
+      "en": "If you actually think about how you consume social media or how I consume social media, people are there to see what's already being talked about from a specific creator's opinion.",
+      "zh": "如果你真的思考一下你是如何消费社交媒体，或者我如何消费社交媒体，人们在那里是为了看到某个特定创作者对已经讨论过的话题的看法。",
+      "context": "在说明社交平台增长机制时，指出用户消费行为的特点。"
+    },
+    {
+      "en": "Another thing for people who are worried about copying you like nobody has a novel idea, novel ideas are extremely rare.",
+      "zh": "对于担心抄袭的人，另一个问题是：没有人有新颖的想法，新颖的想法极其稀少。",
+      "context": "回应创作者对模仿的顾虑，强调原创想法的稀缺性。"
+    },
+    {
+      "en": "You want followers? Followers come from people seeing your post on their phone and then clicking your profile and being interested enough to follow you.",
+      "zh": "你想要粉丝？粉丝来自人们在手机上看到你的帖子，然后点击你的个人资料，并足够感兴趣而关注你。",
+      "context": "在提出第二杠杆时，解释粉丝增长的根本机制。"
+    },
+    {
+      "en": "And so the goal here is to make actual friends, because what do friends do? They support each other and they're usually working toward the same goal. They have a similar value set.",
+      "zh": "所以目标是建立真正的友谊，因为朋友会互相支持，通常朝着相同目标努力，拥有相似的价值观。",
+      "context": "在讲述非需求型社交时，强调建立真实友谊的重要性。"
+    }
+  ],
+  "actions": [
+    "每天花30分钟研究你所在领域的热门内容，分析它们的标题、结构和钩子，建立一个“已验证内容”灵感库。",
+    "选择一篇热门内容，用AI工具生成5个变体，然后结合自己的经验改写，注入个人视角，发布前确保有独特的见解。",
+    "每天花30分钟主动私信5个同领域创作者，用真诚的赞美开启对话（例如“你关于X的帖子让我很受启发”），避免直接推销。",
+    "找到5个志同道合的创作者，持续互动，分享对他们有用的资源（如一篇相关文章），建立互惠关系，而非一次性请求。",
+    "在建立信任后，将自己精心创作的一篇帖子发给一位朋友，说明灵感来源，并坦诚请求他们分享，观察效果。",
+    "使用内容管理工具（如Eden或类似）系统化保存和分析优质内容，定期回顾自己的高表现内容进行迭代。"
+  ],
+  "questions": [
+    {
+      "q": "你过去是否有过失败经历？从中积累了哪些可以用于内容创作的技能？",
+      "why": "帮助识别自己已有的隐藏优势，而不是从零开始。"
+    },
+    {
+      "q": "你最近发布的内容是完全原创，还是借鉴了已验证的结构？如果是后者，你注入了哪些个人视角？",
+      "why": "检验是否在有效利用第一杠杆。"
+    },
+    {
+      "q": "你本周主动联系了多少个同领域创作者？你们的互动是功利性的还是基于真实兴趣？",
+      "why": "评估社交增长习惯的执行情况。"
+    }
+  ],
+  "caveats": [
+    "视频包含对Eden工具的多次推广和功能演示，部分内容可能为产品广告。",
+    "视频中提到的Craig Perry案例为个例，其成功可能受多种因素影响，不保证适用于所有平台或领域。",
+    "视频基于演讲者个人经验，其“失败积累技能”的路径可能不适用于所有起步者。",
+    "部分转录可能不完整（如quote_en中的省略号），细节可能存在偏差。"
+  ],
+  "topics": [
+    "社交媒体增长",
+    "内容创作",
+    "社交网络",
+    "零粉丝起步",
+    "AI辅助创作"
+  ],
+  "_meta": {
+    "video_id": "7HM-rptYdTs",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "失败经历如何助社交平台增长",
+      "segment_summary": "演讲者分享自己因多次创业失败积累的技能和经验，使其在进入社交媒体时具备了他人没有的‘先发优势’。他指出，这些失败教会了他品牌美学、文案写作、网络关系建立等关键能力，从而在社交媒体上实现了稳定增长，而非从零开始摸索。",
+      "key_points": [
+        {
+          "title": "失败经历积累高价值技能",
+          "body": "演讲者在进入社交媒体前尝试过数字艺术、摄影、多个代理机构（如Facebook广告、SEO、网页设计）、两次Dropshipping和电商品牌等七种以上业务模式，虽然均失败，但积累了品牌美学、文案写作、网络关系建立等实用技能。这些技能成为他在社交媒体上快速起步的基础，而非从零开始学习。",
+          "quote_en": "I had a bunch of high value skills under my belt. Even though those prior businesses, thanks to Shiny Object Syndrome, failed and I tried so many different things...",
+          "quote_zh": "我身上已经积累了一堆高价值技能。尽管之前的那些生意因为‘闪亮物体综合症’而失败，我尝试过太多不同的事情……",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "技能组合形成内容创作优势",
+          "body": "演讲者将之前学习的网页设计技能与文案写作、品牌美学结合，形成了独特的内容创作能力。这种组合使他能创作出更吸引人的内容，从而在社交媒体上获得稳定增长（如每周100到500粉丝），避免了新手常见的‘新手地狱’——即内容无人问津、无法获得关注的困境。",
+          "quote_en": "When I finally get to the point and the web design that I was doing paired with the copywriting really well, paired with the branding really well.",
+          "quote_zh": "当我最终达到那个阶段，我所做的网页设计与文案写作配合得非常好，与品牌美学也配合得非常好。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "避免‘新手地狱’的关键是已有经验",
+          "body": "大多数人在社交媒体上失败，是因为他们从零开始，边学边做，缺乏对有效内容模式的判断力，陷入‘新手地狱’。而演讲者因前期失败积累了大量经验，具备了对‘钩子’（hook）和内容价值的直觉，能快速识别什么内容有效，从而避免了盲目试错，实现稳定增长。",
+          "quote_en": "And that's kind of what gets you stuck in beginner hell. Beginner hell is where you kind of you just post into the void and you don't really gain any followers.",
+          "quote_zh": "这正是让你陷入‘新手地狱’的原因。新手地狱就是你只是把内容发进虚空，却根本无法获得任何粉丝。",
+          "frame_id": "f01",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.1,
+        386.0
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "社交平台增长的两大杠杆之一：做自己视角下的有效内容",
+      "segment_summary": "本段提出社交平台增长的核心机制是模仿已验证内容结构，而非追求原创。演讲者以YouTube算法推荐机制和用户消费习惯为依据，说明用户更关注特定话题的个人见解而非新内容。他以创作者Craig Perry的早期高播放量视频为例，证明复制成功内容结构并注入个人视角能快速获得增长。",
+      "key_points": [
+        {
+          "title": "社交平台增长本质是复制验证过的结构",
+          "body": "演讲者指出，社交平台增长不是靠运气或算法随机选择，而是像游戏一样有可学习的机制。用户在平台上消费内容时，是想看到特定话题下不同创作者的个人见解，而非全新内容。YouTube算法会基于用户观看某话题的视频，推荐同一话题的其他创作者内容。因此，如果创作者制作与已成功视频结构相似的内容，就会被推荐给原视频的观众群体，从而实现增长。",
+          "quote_en": "If you actually think about how you consume social media or how I consume social media, people are there to see what's already being talked about from a specific creator's opinion.",
+          "quote_zh": "如果你真的思考一下你是如何消费社交媒体，或者我如何消费社交媒体，人们在那里是为了看到某个特定创作者对已经讨论过的话题的看法。",
+          "frame_id": "f04",
+          "confidence": "high"
+        },
+        {
+          "title": "成功案例：Craig Perry的早期视频验证了该机制",
+          "body": "演讲者以创作者Craig Perry的前两个YouTube视频为例，这两个视频分别获得23万和14.4万播放量，证明了该机制的有效性。这些视频的标题和结构与平台上已有的热门视频高度相似，例如'如何记住你读过的所有内容'和'如何变得危险地自学'，这些标题在YouTube搜索中已有大量同类视频。Craig Perry并非完全复制内容，而是基于个人经验和视角提供独特见解，这符合算法推荐逻辑，同时满足用户对特定话题不同观点的需求。",
+          "quote_en": "If you look here how to remember everything you read. If you're on this side, I've created a video like that I've almost created with the exact same title.",
+          "quote_zh": "如果你看这里'如何记住你读过的所有内容'。如果你在这一边，我做过一个类似的视频，几乎用的是完全相同的标题。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "内容创作不必追求原创，应聚焦个人视角",
+          "body": "演讲者强调，没有人拥有真正新颖的想法，原创想法极为稀少。因此，创作者不应因担心抄袭而回避模仿成功内容结构。关键在于，即使使用相同的标题和结构，只要内容注入个人经验、观点和见解，就不是简单复制。例如，Craig Perry的视频虽然结构类似，但包含他自己的独特洞察。演讲者自己也做过'The Four Hour Work Day'的衍生内容，说明在不侵犯核心概念的前提下，借鉴和再创作是合理且有效的策略。",
+          "quote_en": "Another thing for people who are worried about copying you like nobody has a novel idea, novel ideas are extremely rare.",
+          "quote_zh": "对于担心抄袭的人，另一个问题是：没有人有新颖的想法，新颖的想法极其稀少。",
+          "frame_id": "f03",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        386.0,
+        771.9
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "如何通过模仿和迭代创作原创内容",
+      "segment_summary": "演讲者主张通过分析优秀内容、提取核心观点并利用AI生成变体，再结合个人思考和品味进行筛选与优化，从而产出原创内容。他以自己和Mark Manson等创作者使用同一主题的例子，说明热门话题的可复用性，并推荐使用Eden工具系统化管理内容灵感和创作流程。",
+      "key_points": [
+        {
+          "title": "利用AI迭代优秀内容以激发原创想法",
+          "body": "演讲者建议将喜欢的优质帖子作为起点，用AI生成多个变体，然后自己阅读筛选，等待一个能激发灵感的版本出现。这个过程通过AI的迭代和自己的思维过滤，最终产出接近原创的内容。他强调，虽然AI提供的是变体，但经过个人判断和调整后，内容会变得独特，因为个人已通过大量阅读形成了自己的写作风格和品味。",
+          "quote_en": "So what I like to do is take really good posts that I like and be like, hey, just give me iterations of these and I'll read through them and I'll just wait for one to hit and I'll be like, okay, yeah, I'll write about that.",
+          "quote_zh": "所以我喜欢的做法是，拿一些我喜欢的优质帖子，然后说，嘿，给我这些的变体，我会阅读它们，等待一个能打动我的出现，然后我会想，好吧，我就写这个。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "热门主题可复用，但需结合个人视角进行差异化创作",
+          "body": "演讲者以“如何在6-12个月内超越99%的人”这一主题为例，说明该主题已被多个顶级创作者（包括他自己、Mark Manson、Alex Hermosa、Tom Bellew）成功使用，证明其有效性。他指出，不同创作者会从各自领域（如商业、财务、关系）切入，提供不同视角，从而避免内容同质化。这表明，关键不在于主题本身，而在于如何用自己的方式诠释它。",
+          "quote_en": "Anyone can take the topic how to be, how to get ahead of 99% of people and just think, how would I get ahead of 99% of people based on my interest, right?",
+          "quote_zh": "任何人都可以拿‘如何超越99%的人’这个主题，然后思考：基于我的兴趣，我该如何超越99%的人，对吧？",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "使用Eden工具系统化管理内容创作流程",
+          "body": "演讲者介绍Eden工具，用于创建内容灵感库（如帖子、网页、PDF），并支持AI辅助分析。用户可设置内容主题，浏览不同平台的热门内容，筛选后添加到自己的“灵感文件夹”中，如YouTube灵感库。该工具旨在将零散的灵感和研究过程系统化，提高创作效率和内容质量。",
+          "quote_en": "Eden is quite literally, you have boards that you can paste links to of social posts or websites, or you can upload PDFs to. You can create notes in or documents.",
+          "quote_zh": "Eden实际上就是，你有可以粘贴社交帖子或网站链接的看板，或者上传PDF文件。你还可以在里面创建笔记或文档。",
+          "frame_id": "f06",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        771.9,
+        1157.8
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "用工具分析内容并手动获取粉丝",
+      "segment_summary": "演讲者介绍其内容创作工具Eden的功能，如保存和分析优质内容、搜索特定创作者的高表现内容。接着提出第二个增长杠杆：通过主动网络（networking）从他人受众中获取粉丝，而非依赖算法，强调内容质量是增长的根本前提。",
+      "key_points": [
+        {
+          "title": "利用Eden工具分析和复用优质内容",
+          "body": "演讲者推荐使用Eden工具，将发现的优质内容添加到自己的内容板（board）中，便于后续创作时参考。他强调可以搜索特定创作者，过滤其各平台的高表现内容，直接分析自己的成功内容以迭代优化。此外，他演示了如何在聊天功能中引用内容板，让AI生成内容变体或深度分析视频结构，从而高效提升内容创作质量。",
+          "quote_en": "So a lot of mine on Twitter are articles, so Twitter just renders those as a link. But I can scroll through here and I can just see one my own good ideas so I can iterate off of those.",
+          "quote_zh": "我很多推文是文章，推特只显示为链接。但我可以在这里滚动，看到我自己的好点子，从而进行迭代。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "通过主动网络从他人受众获取粉丝",
+          "body": "演讲者指出，粉丝增长的核心机制是让他人看到你的内容并主动关注，而算法如同彩票，不可靠。因此，必须手动将内容展示给他人受众。他解释，社交媒体上的用户行为主要是关注、点赞、转发和评论，而你想要的粉丝正存在于其他创作者的受众中。因此，应主动参与他人内容，通过互动或合作，将自己置于他人受众的视野中，从而实现粉丝的雪球式增长。",
+          "quote_en": "You want followers? Followers come from people seeing your post on their phone and then clicking your profile and being interested enough to follow you.",
+          "quote_zh": "你想要粉丝？粉丝来自人们在手机上看到你的帖子，然后点击你的个人资料，并足够感兴趣而关注你。",
+          "frame_id": "f10",
+          "confidence": "high"
+        },
+        {
+          "title": "内容质量是增长的根本，付费推广需谨慎",
+          "body": "演讲者强调，无论是否付费推广，最终能否增长取决于内容本身的质量。他指出，如果内容不好，即使付费让别人分享，观众也不会关注，这与投放劣质产品广告无异。因此，他主张将内容创作视为一项需要长期技能积累的业务，而非依赖运气或短期付费策略。付费推广虽可行，但应建立在优质内容的基础上，否则只是浪费金钱。",
+          "quote_en": "But if someone else shares your post and people don't like it, they're not going to follow you and then it's a waste of money.",
+          "quote_zh": "但如果别人分享你的帖子，而人们不喜欢，他们就不会关注你，那钱就白花了。",
+          "frame_id": "f09",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1157.8,
+        1543.7
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "通过社交建立真实关系增长受众",
+      "segment_summary": "演讲者主张通过在社交媒体上主动建立真实友谊来增长受众，而非依赖算法。他建议每天预留60分钟，前30分钟用于内容创作，后30分钟用于私信联系潜在朋友，通过价值交换获得内容分享，从而实现有机增长。",
+      "key_points": [
+        {
+          "title": "时间分配策略：内容创作与社交互动",
+          "body": "演讲者建议将每天60分钟分为两部分：前30分钟用于研究优质内容、构思和撰写，后30分钟用于主动私信联系目标用户，请求他们分享内容。这种时间分配确保内容质量和社交行动并重，形成可重复的增长流程。",
+          "quote_en": "I would recommend time blocking it for 30 minutes on your calendar so that you actually sit down and do it right. 30 minutes on your calendar should be for researching validated posts and writing out ideas and actually drafting the posts. And then the other 30 minutes should be reaching out to people to get those posts shared right.",
+          "quote_zh": "我建议在日历上预留30分钟，让你真正坐下来好好做这件事。30分钟用于研究被验证的帖子、构思和撰写内容。另外30分钟用于联系人们，让他们分享这些帖子。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "非需求型社交：建立真实友谊",
+          "body": "演讲者强调通过‘非需求型社交’建立真实友谊，而非功利性联系。他建议找到5个志同道合的人，通过持续互动建立信任，当自己发布优质内容时，朋友会自然愿意分享，因为彼此支持是友谊的自然结果。",
+          "quote_en": "And so the goal here is to make actual friends, because what do friends do? They support each other and they're usually working toward the same goal. They have a similar value set.",
+          "quote_zh": "所以目标是建立真正的友谊，因为朋友会互相支持，通常朝着相同目标努力，拥有相似的价值观。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "私信沟通技巧：简单赞美开启对话",
+          "body": "演讲者建议通过发送简短赞美开启私信对话，例如针对对方内容说‘这太真实了，我曾四次放弃社交媒体’。这种非正式、真诚的交流方式模仿现实社交场景，避免使用商业用语，从而建立轻松自然的连接。",
+          "quote_en": "You just send simple praise. It's like how girls compliment each other's shoes or something like that, and then they're like, oh my God, girl, where do you get those? And they start up a conversation and then one thing leads to another, and then they're getting lunch and then they're best friends.",
+          "quote_zh": "你只需发送简单的赞美，就像女孩们互相夸鞋子，然后说‘天啊，你从哪买的？’，于是对话开始了，接着发展成共进午餐，最后成为最好的朋友。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1543.7,
+        1929.6
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "社交互动七步法构建创作者关系",
+      "segment_summary": "演讲者提出通过七步法与创作者建立深度关系：展示兴趣、提供价值、线上见面、持续连接，最终请求分享内容。核心机制是利用互惠原则，通过提供资源或信息建立信任，再自然请求对方分享自己的作品，实现内容传播。",
+      "key_points": [
+        {
+          "title": "展示兴趣：关注对方创作内容",
+          "body": "演讲者主张通过询问对方正在构建的项目或阅读其过往文章来展示兴趣。例如问‘你在建什么？’或‘你那篇关于XX的文章让我很受启发’。这种互动模仿了现实中的社交，通过在回复和私信中表达关注，建立初步连接，为后续互动打下基础。",
+          "quote_en": "You can ask them or what are you building? Or I see that you're building Eden, how is that going?",
+          "quote_zh": "你可以问他们正在构建什么？或者我看到你在做Eden，进展如何？",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "提供价值：通过资源连接建立互惠",
+          "body": "演讲者强调不必自己创造价值，只需成为连接者。例如，将看到的AI相关视频分享给正在做软件的创作者，并说明‘这可能影响你的项目’。这种行为触发互惠原则，对方会因被记住而产生回报意愿，从而更愿意分享你的内容。",
+          "quote_en": "If you give something, someone else is going to feel the need to give something in return.",
+          "quote_zh": "如果你给予某物，别人就会感到需要回报你。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "请求分享：基于信任的自然转化",
+          "body": "在建立信任后，演讲者建议直接请求对方分享自己的内容。可以发送精心创作的帖子，并说明‘灵感来自我们的对话’，或坦诚表达‘我正在努力成长，如果你能分享，我会非常感激’。这种请求因前期互动而显得自然，成功率更高。",
+          "quote_en": "If you plan to leverage their audience for growth, you want to send them a post that you actually put a lot of time into, and that's good.",
+          "quote_zh": "如果你打算利用他们的受众实现增长，就发一篇你花了很多时间写的帖子，这样很好。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1929.6,
+        2315.5
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

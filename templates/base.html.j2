@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>{% block title %}{{ site_title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site_description }}{% endblock %}">
+<link rel="icon" type="image/svg+xml" href="{{ asset_prefix }}favicon.svg?v={{ build_id }}">
+<link rel="stylesheet" href="{{ asset_prefix }}app.css?v={{ build_id }}">
+{% block head_extra %}{% endblock %}
+</head>
+<body{% block body_attr %}{% endblock %}>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="{{ home_href }}">
+      <b>{{ channel.name }}</b>
+      <span>{{ channel.handle }} · {{ video_count }} 视频</span>
+    </a>
+    <nav>
+      {% block nav_extra %}{% endblock %}
+      <button id="themeBtn" class="iconbtn" type="button" aria-pressed="false" title="切换主题">浅色</button>
+      <a class="iconbtn" href="{{ channel.url }}" target="_blank" rel="noopener noreferrer" title="在 YouTube 打开频道">YouTube ↗</a>
+    </nav>
+    <div class="progress" id="progress" role="presentation"></div>
+  </div>
+</header>
+
+<main>
+{% block content %}{% endblock %}
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="row">
+      <span>{{ channel.name }} 视频学习档案 · 共 {{ video_count }} 个视频 · {{ total_hours }} 小时</span>
+      <span>构建于 {{ built_at }}</span>
+    </div>
+    <p style="margin:12px 0 0;max-width:78ch">
+      视频版权归原作者
+      <a href="{{ channel.url }}" target="_blank" rel="noopener noreferrer">{{ channel.name }}</a> 所有，
+      本站仅作个人学习用途，播放一律走 YouTube 官方嵌入。本站由 Ai学习的老章@公众号 制作。
+    </p>
+  </div>
+</footer>
+
+<script src="{{ asset_prefix }}app.js?v={{ build_id }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

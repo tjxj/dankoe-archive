@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "reasons": [],
+  "metrics": {
+    "cues": 592,
+    "words": 7740,
+    "chars": 40867,
+    "first_start": 0.08,
+    "last_end": 2169.0,
+    "duration": 2169.0,
+    "tail_coverage_ratio": 1.0,
+    "words_per_minute": 214.1,
+    "interior_gaps": 0,
+    "duplicate_cue_ratio": 0.0
+  }
+}

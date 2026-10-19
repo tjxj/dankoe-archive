@@ -1,0 +1,474 @@
+{
+  "title_zh": "兴趣太多无法专注？用AI和内容建立一人业务",
+  "one_liner": "通过社交媒体免费分发内容，结合AI工具构建个人品牌和产品，个人可以零成本将多种兴趣转化为高杠杆的一人业务。",
+  "thesis": "互联网和AI技术使个人创业门槛极低。通过构建个人品牌、设计高价值产品offer、建立内容分销渠道，个人可以脱离时间换金钱的模式，实现规模化收入。关键在于每日执行内容发布和产品推广，并利用AI迭代优化创作流程。",
+  "overview_cards": [
+    {
+      "title": "单人业务的盈利逻辑",
+      "body": "借助互联网和社交媒体，个人可通过创作内容实现高杠杆收入。一篇内容获得百万观看，即使只有1%的人购买100美元产品，也能产生10万美元收入。这脱离了按时间计酬的模式，转向按价值计酬，且成本极低，仅需时间投入学习技能。",
+      "accent": "blue"
+    },
+    {
+      "title": "个人品牌三要素",
+      "body": "单人业务需构建三大核心：个人品牌是数字身份，决定用户选择；产品offer是价值包装，包含梦想结果、交付机制、速度和保障四个杠杆；分销渠道是获取注意力的途径，包括内容、营销和销售。三者构成业务基础。",
+      "accent": "ink"
+    },
+    {
+      "title": "每日执行框架",
+      "body": "每天发布1-3条短内容测试市场，每周发布一篇长内容深化价值，并每日至少推广一次产品。通过持续实践获取反馈，而非依赖AI或教程被动学习。写作过程本身是完善想法的方式，而非等待完美想法再动笔。",
+      "accent": "green"
+    },
+    {
+      "title": "AI协作与迭代",
+      "body": "使用AI工具（如品牌策略师、内容策略师等）构建工作流，但需提供具体示例和指令约束AI，并通过细节调整迭代优化。AI无法自动理解“好内容”，用户必须自己具备判断力，才能引导AI产出独特优质内容。",
+      "accent": "ochre"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "单人业务的盈利机制",
+      "body": "演讲者主张，个人可通过创作内容（如教育或信息产品）并利用社交媒体免费分发，实现高杠杆收入。其核心机制是：内容一旦发布，可被大量观众观看，即使转化率低，也能通过规模化产生可观收入。例如，百万观看量中1%购买100美元产品，即可获得10万美元收入。这脱离了传统按时间计酬模式，转向按价值计酬，且成本极低，仅需时间投入学习技能。",
+      "why": "揭示了互联网时代个人创业的核心经济逻辑，即内容杠杆。",
+      "quote_en": "you can write one piece of content, and if that content gets a million views and you get 1% of those people to buy a $100 product, I will let you do the math.",
+      "quote_zh": "你可以写一篇内容，如果这篇内容获得一百万次观看，且有1%的人购买100美元的产品，我让你自己算算收入。",
+      "frame_id": "f01",
+      "confidence": "high"
+    },
+    {
+      "title": "个人品牌是业务的数字身份",
+      "body": "演讲者主张个人品牌是单人业务的核心，它相当于数字店面，决定用户是否选择你的产品。品牌需体现个人价值观、世界观和故事，通过日常互动建立信任和价值感。他建议用AI工具采访自己，生成包含愿景、反愿景和内容支柱的个人品牌策略文档，作为后续内容创作的统一基础。",
+      "why": "强调在信息过载时代，个人品牌是区分和建立信任的关键。",
+      "quote_en": "Now, as a one person business, your brand is a personal brand, and even if you're not a one person business, look at Elon Musk, look at Mr. Beast.",
+      "quote_zh": "作为单人业务，你的品牌就是个人品牌，即使你不是单人业务，看看埃隆·马斯克，看看Mr. Beast。",
+      "frame_id": "f03",
+      "confidence": "high"
+    },
+    {
+      "title": "产品offer是价值包装的四个杠杆",
+      "body": "演讲者强调offer是产品或服务的感知价值，而非产品本身。他提出offer创作包含四个关键杠杆：客户梦想的结果、实现该结果的交付机制（如课程或教练）、达成结果的速度，以及失败后的保障。这四个要素共同构成有竞争力的交易，使营销和销售变得更容易。",
+      "why": "提供了一个具体框架，用于设计高转化率的产品或服务。",
+      "quote_en": "Offer creation is the art of pulling four levers. The first is the dream outcome. So what the customer actually wants to is the delivery mechanism.",
+      "quote_zh": "产品提供是拉动四个杠杆的艺术。第一个是梦想的结果。客户真正想要的是交付机制。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "分销渠道是获取注意力的关键",
+      "body": "演讲者指出，即使有最好的品牌和产品，若无人知晓则毫无意义。分销是让客户找到你、了解你并付费的全过程，包括营销、销售、内容、广告和落地页。他引用Jack Butcher的话“先建立分销，再构建任何东西”，强调在注意力即杠杆的互联网时代，分销是业务成功的基础。",
+      "why": "提醒创业者不要只关注产品，而忽略流量和渠道建设。",
+      "quote_en": "Build distribution, then build whatever you want. Because we're living in the internet age where attention equals leverage.",
+      "quote_zh": "先建立分销，再构建任何东西。因为我们正生活在注意力等于杠杆的互联网时代。",
+      "frame_id": "f04",
+      "confidence": "high"
+    },
+    {
+      "title": "每日短内容发布机制",
+      "body": "演讲者建议每天在选定的短内容平台（如Substack、X、LinkedIn等）发布1到3条内容，强调选择自己最契合的平台。他指出，通过持续发布可以免费测试产品、服务和创意，获得市场反馈，避免在未验证的项目上浪费广告预算。这不仅是内容输出，更是学习和迭代的过程。",
+      "why": "提供了可操作的每日行动步骤，降低启动门槛。",
+      "quote_en": "The first thing you're going to do is post 1 to 3 times a day on a short form platform of your choice.",
+      "quote_zh": "你要做的第一件事是每天在你选择的短内容平台上发布1到3次内容。",
+      "frame_id": "f06",
+      "confidence": "high"
+    },
+    {
+      "title": "六种AI角色分工明确",
+      "body": "演讲者提出在Eden平台中预设了六种AI角色：品牌策略师、内容策略师、长内容专家、短内容专家、产品顾问和营销策略师。这些角色分别负责品牌定位、内容选题、长文结构、短文草稿、产品设计和推广文案，形成一个完整的个人业务运营系统。用户可通过点击按钮一键添加这些AI到工作区。",
+      "why": "展示了如何用AI系统化地管理个人业务全流程，而非零散使用。",
+      "quote_en": "The first is as a brand strategist. So creating a personal brand strategy so you don't blend in with everyone else and studying how your content is doing to propose growth tactics for you.",
+      "quote_zh": "第一个是作为品牌策略师。创建个人品牌策略，让你不与他人雷同，并研究内容表现以提出增长策略。",
+      "frame_id": "f09",
+      "confidence": "high"
+    },
+    {
+      "title": "AI输出需迭代优化而非一次性生成",
+      "body": "AI无法一次性完美生成符合需求的内容，因为用户往往无法清晰表达全部需求。正确的做法是先让AI进行广度覆盖的初步生成，如创建网站原型或撰写初稿，然后像设计师在Photoshop或Figma中一样，对边框圆角、颜色、阴影、布局等细节进行逐项调整，通过多次迭代使内容变得独特和高级。",
+      "why": "纠正了人们对AI“一键生成”的误解，强调人工微调的重要性。",
+      "quote_en": "You have to tweak the border radius and the color and the drop shadow and the layouts and how you want things to be at that point, when you have the prototype or the template or the first draft, then you do what any other designer would do in Photoshop or Figma.",
+      "quote_zh": "当你有了原型、模板或初稿时，你必须调整圆角、颜色、阴影、布局和你想要的呈现方式，就像任何其他设计师在Photoshop或Figma中所做的那样。",
+      "frame_id": "f12",
+      "confidence": "high"
+    },
+    {
+      "title": "建立可复用的内容创作流程",
+      "body": "演讲者分享了自己五步内容创作流程：1. 从书籍、对话中收集未被广泛讨论的创意；2. 选择同时满足个人热情、用户受益和市场验证的选题；3. 大量脑暴标题并筛选；4. 设计长文结构并列提纲；5. 基于提纲衍生10-20个短内容创意。此流程需被提炼为AI可执行的工作流，并通过持续迭代保持适应性。",
+      "why": "提供了一个从创意到发布的结构化流程，可复制和系统化。",
+      "quote_en": "First is I read books, save ideas, have conversations with friends, listened along, lectures for ideas that nobody is talking about online.",
+      "quote_zh": "首先是阅读书籍、保存想法、与朋友交谈、听讲座，寻找网上没人讨论的想法。",
+      "frame_id": "f14",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:30",
+      "title": "单人业务的盈利逻辑",
+      "body": "介绍内容杠杆如何实现高收入，脱离时间换钱模式。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "06:30",
+      "title": "个人品牌的重要性",
+      "body": "个人品牌是数字身份，决定用户信任和选择。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "09:30",
+      "title": "产品offer的四个杠杆",
+      "body": "讲解梦想结果、交付机制、速度和保障如何构成高价值offer。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "12:30",
+      "title": "每日短内容发布",
+      "body": "提出每天发布1-3条短内容，测试市场并获取反馈。",
+      "frame_id": "f06"
+    },
+    {
+      "time": "18:30",
+      "title": "AI工具介绍",
+      "body": "展示Eden平台中的六种AI角色，用于品牌和内容管理。",
+      "frame_id": "f09"
+    },
+    {
+      "time": "24:30",
+      "title": "AI输出迭代优化",
+      "body": "强调AI初稿需像设计一样微调，避免平庸。",
+      "frame_id": "f12"
+    },
+    {
+      "time": "30:30",
+      "title": "内容创作五步流程",
+      "body": "分享从创意收集到短内容衍生的系统化流程。",
+      "frame_id": "f14"
+    },
+    {
+      "time": "34:00",
+      "title": "系统持续迭代",
+      "body": "指出任何系统都可能失效，需持续优化而非放弃。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "Offer创作四杠杆",
+      "body": "用于设计高感知价值的产品或服务。四个杠杆：客户梦想的结果（他们真正想要什么）、交付机制（如何实现）、速度（多快达成）、保障（失败后怎么办）。拉动这些杠杆可提升转化率。",
+      "accent": "blue"
+    },
+    {
+      "title": "内容创作五步流程",
+      "body": "从创意到发布的系统化方法：收集独特创意 → 选题（热情+受益+验证） → 脑暴标题 → 设计长文结构 → 衍生短内容。此流程可交给AI执行，但需人工迭代。",
+      "accent": "green"
+    },
+    {
+      "title": "个人品牌三要素",
+      "body": "构建单人业务的基础框架：品牌（你是谁，价值观） → 产品offer（你提供什么价值） → 分销（客户如何找到你）。三者缺一不可，且需按顺序建立。",
+      "accent": "ink"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "you can write one piece of content, and if that content gets a million views and you get 1% of those people to buy a $100 product, I will let you do the math.",
+      "zh": "你可以写一篇内容，如果这篇内容获得一百万次观看，且有1%的人购买100美元的产品，我让你自己算算收入。",
+      "context": "在解释单人业务的盈利逻辑时，用具体数字说明内容杠杆的威力。"
+    },
+    {
+      "en": "Build distribution, then build whatever you want. Because we're living in the internet age where attention equals leverage.",
+      "zh": "先建立分销，再构建任何东西。因为我们正生活在注意力等于杠杆的互联网时代。",
+      "context": "强调分销渠道的重要性，引用Jack Butcher的话。"
+    },
+    {
+      "en": "Offer creation is the art of pulling four levers. The first is the dream outcome. So what the customer actually wants to is the delivery mechanism.",
+      "zh": "产品提供是拉动四个杠杆的艺术。第一个是梦想的结果。客户真正想要的是交付机制。",
+      "context": "在讲解如何设计产品offer时，提出四个杠杆框架。"
+    },
+    {
+      "en": "You have to tweak the border radius and the color and the drop shadow and the layouts and how you want things to be at that point, when you have the prototype or the template or the first draft, then you do what any other designer would do in Photoshop or Figma.",
+      "zh": "当你有了原型、模板或初稿时，你必须调整圆角、颜色、阴影、布局和你想要的呈现方式，就像任何其他设计师在Photoshop或Figma中所做的那样。",
+      "context": "说明AI输出需要像设计一样进行细节迭代，不能直接使用。"
+    }
+  ],
+  "actions": [
+    "每天在选定的短内容平台（如X、LinkedIn）发布1-3条内容，测试市场反应。",
+    "每周撰写一篇长内容（如Substack文章），并在文中自然植入产品推广链接。",
+    "使用AI工具（如ChatGPT）采访自己，生成包含愿景、反愿景和内容支柱的个人品牌策略文档。",
+    "收集10个你欣赏的爆款内容示例（标题、结构、风格），提供给AI作为创作参考。",
+    "每天至少一次，在社交媒体上通过“问题-放大-解决方案”框架推广自己的产品或服务。"
+  ],
+  "questions": [
+    {
+      "q": "我今天发布的内容是否体现了我的个人品牌价值观和独特视角？",
+      "why": "确保内容与品牌一致，避免同质化，建立信任。"
+    },
+    {
+      "q": "我的产品offer是否清晰包含了客户梦想的结果、交付机制、速度和保障？",
+      "why": "提升产品的感知价值，使营销更有效。"
+    },
+    {
+      "q": "我在使用AI生成内容后，是否进行了细节迭代和个性化调整？",
+      "why": "避免产出千篇一律的AI模板内容，保持独特性。"
+    }
+  ],
+  "caveats": [
+    "视频中演讲者多次推广自己的Eden平台和预设AI工具，部分内容为产品演示和广告。",
+    "分段结果中的frame_id可能存在不准确，例如同一分段内多个关键点标注相同frame_id。",
+    "时间节点为根据分段范围估算，非精确时间戳。",
+    "演讲者个人经历部分可能带有幸存者偏差，其收入数字未提供独立验证。"
+  ],
+  "topics": [
+    "一人业务",
+    "个人品牌",
+    "AI内容创作",
+    "社交媒体营销",
+    "数字产品",
+    "创业"
+  ],
+  "_meta": {
+    "video_id": "XqS7kIWMIDE",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "个人业务的可行性与个人经历",
+      "segment_summary": "演讲者指出，借助互联网、社交媒体和AI，个人可通过内容创作建立100万至1000万美元的单人业务，无需投入资本。他以自身从失败到年收入数百万的经历，说明通过社交平台分发教育或信息产品，可实现收入替代，且AI使这一模式更易实现。",
+      "key_points": [
+        {
+          "title": "单人业务的盈利机制",
+          "body": "演讲者主张，个人可通过创作内容（如教育或信息产品）并利用社交媒体免费分发，实现高杠杆收入。其核心机制是：内容一旦发布，可被大量观众观看，即使转化率低，也能通过规模化产生可观收入。例如，百万观看量中1%购买100美元产品，即可获得10万美元收入。这脱离了传统按时间计酬模式，转向按价值计酬，且成本极低，仅需时间投入学习技能。",
+          "quote_en": "you can write one piece of content, and if that content gets a million views and you get 1% of those people to buy a $100 product, I will let you do the math.",
+          "quote_zh": "你可以写一篇内容，如果这篇内容获得一百万次观看，且有1%的人购买100美元的产品，我让你自己算算收入。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "个人经历验证模式可行性",
+          "body": "演讲者以自身经历证明该模式可行：他早期尝试健身频道、Dropshipping、蓝光眼镜等均失败，后通过自由职业积累技能，最终在社交媒体上通过数字产品实现收入增长，从年收入1万美元到400万美元，再到软件项目稳定收入100万至150万美元。他强调，该路径虽非易事，但可实现，且起点低，无需初始资金，仅需时间投入。",
+          "quote_en": "About six years ago, I started on social media and made around $10,000 with digital products. The next year it was $100,000, then $800,000.",
+          "quote_zh": "大约六年前，我开始在社交媒体上通过数字产品赚了大约1万美元。第二年是10万美元，然后是80万美元。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "AI与社交媒体的协同作用",
+          "body": "演讲者指出，AI（如GPT-6、Astra、Fable 5.1）极大降低了个人创业门槛，使内容创作和业务构建更高效。社交媒体作为免费分发渠道，与AI结合，形成‘低成本放大’的商业模式。这种组合让普通人拥有巨大竞争优势，因为多数人尚未意识到或行动，而AI使内容生产、优化和分发更快速，从而加速个人业务增长。",
+          "quote_en": "And now GPT six, Astra and Fable 5.1 and whatever the next model is going to be, just make it even more possible.",
+          "quote_zh": "现在GPT-6、Astra和Fable 5.1，以及下一个模型，都让这变得更容易实现。",
+          "frame_id": "f02",
+          "confidence": "medium"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.1,
+        361.6
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "个人品牌与单人业务三大要素",
+      "segment_summary": "本段提出单人业务需构建个人品牌、设计产品offer和建立分销渠道三大核心。品牌是数字身份，offer是价值包装，分销是获取注意力的途径，三者构成业务基础框架。",
+      "key_points": [
+        {
+          "title": "个人品牌是业务的数字身份",
+          "body": "演讲者主张个人品牌是单人业务的核心，它相当于数字店面，决定用户是否选择你的产品。品牌需体现个人价值观、世界观和故事，通过日常互动建立信任和价值感。他建议用AI工具采访自己，生成包含愿景、反愿景和内容支柱的个人品牌策略文档，作为后续内容创作的统一基础。",
+          "quote_en": "Now, as a one person business, your brand is a personal brand, and even if you're not a one person business, look at Elon Musk, look at Mr. Beast.",
+          "quote_zh": "作为单人业务，你的品牌就是个人品牌，即使你不是单人业务，看看埃隆·马斯克，看看Mr. Beast。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "产品offer是价值包装的四个杠杆",
+          "body": "演讲者强调offer是产品或服务的感知价值，而非产品本身。他提出offer创作包含四个关键杠杆：客户梦想的结果、实现该结果的交付机制（如课程或教练）、达成结果的速度，以及失败后的保障。这四个要素共同构成有竞争力的交易，使营销和销售变得更容易。",
+          "quote_en": "Offer creation is the art of pulling four levers. The first is the dream outcome. So what the customer actually wants to is the delivery mechanism.",
+          "quote_zh": "产品提供是拉动四个杠杆的艺术。第一个是梦想的结果。客户真正想要的是交付机制。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "分销渠道是获取注意力的关键",
+          "body": "演讲者指出，即使有最好的品牌和产品，若无人知晓则毫无意义。分销是让客户找到你、了解你并付费的全过程，包括营销、销售、内容、广告和落地页。他引用Jack Butcher的话'先建立分销，再构建任何东西'，强调在注意力即杠杆的互联网时代，分销是业务成功的基础。",
+          "quote_en": "Build distribution, then build whatever you want. Because we're living in the internet age where attention equals leverage.",
+          "quote_zh": "先建立分销，再构建任何东西。因为我们正生活在注意力等于杠杆的互联网时代。",
+          "frame_id": "f04",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        361.6,
+        723.1
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "个人业务启动的每日执行框架",
+      "segment_summary": "演讲者提出一个具体的每日业务启动计划：每天发布1-3条短内容，每周发布一篇长内容，并每日推广一次产品。他强调通过实践获取市场反馈，而非依赖AI或教程被动学习，主张将写作与内容发布作为核心技能训练方式。",
+      "key_points": [
+        {
+          "title": "每日短内容发布机制",
+          "body": "演讲者建议每天在选定的短内容平台（如Substack、X、LinkedIn等）发布1到3条内容，强调选择自己最契合的平台。他指出，通过持续发布可以免费测试产品、服务和创意，获得市场反馈，避免在未验证的项目上浪费广告预算。这不仅是内容输出，更是学习和迭代的过程。",
+          "quote_en": "The first thing you're going to do is post 1 to 3 times a day on a short form platform of your choice.",
+          "quote_zh": "你要做的第一件事是每天在你选择的短内容平台上发布1到3次内容。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "每周长内容创作与结构化写作",
+          "body": "演讲者建议每周发布一篇长内容，推荐使用Substack或X的文章功能。他提出一个30分钟的晨间写作计划：前30分钟用于短内容创作（包括研究、选题和撰写），后30分钟用于撰写250字左右的长内容。他强调写作过程本身是完善想法的方式，而非等待完美想法再动笔。",
+          "quote_en": "So you're going to have 30 minutes for writing short form content. And what that means is not staring at a blank screen. It means researching what the AI is. I'm going to give you deciding on an idea, and then writing it out as an engaging short form post.",
+          "quote_zh": "所以你将有30分钟用于撰写短内容。这意味着不是盯着空白屏幕。而是研究AI是什么，我将给你一个想法，然后把它写成一个吸引人的短内容帖子。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "每日产品推广策略",
+          "body": "演讲者主张每天至少推广一次自己的产品或服务，可以在长内容的中间和结尾处自然植入，例如“如果你在挣扎于XYZ，试试这个”，并附上链接。对于每周只发布一次长内容的情况，他建议通过其他形式（如Substack或X的回复、Instagram Stories）每天进行一次推广，使用“问题-放大-解决方案”框架。",
+          "quote_en": "You're going to try to promote your offer once a day. So you promote it in your long form piece. Somewhere in the middle, you just say, hey, if you're struggling with XYZ, try this and then link your product or service and then at the end do the same thing.",
+          "quote_zh": "你要尝试每天推广一次你的产品。在你的长内容中，中间某个位置说：嘿，如果你在挣扎于XYZ，试试这个，然后链接你的产品或服务，结尾处也做同样的事。",
+          "frame_id": "f06",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        723.1,
+        1084.5
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "用AI构建个人品牌与内容流程",
+      "segment_summary": "演讲者介绍在Eden平台中预设的六种AI角色，用于个人品牌的全流程管理，包括品牌策略、内容策划、长/短内容创作、产品设计和营销推广。他强调这些AI工具能将用户知识转化为可销售产品，并通过结构化流程提升内容表现。",
+      "key_points": [
+        {
+          "title": "六种AI角色分工明确",
+          "body": "演讲者提出在Eden平台中预设了六种AI角色：品牌策略师、内容策略师、长内容专家、短内容专家、产品顾问和营销策略师。这些角色分别负责品牌定位、内容选题、长文结构、短文草稿、产品设计和推广文案，形成一个完整的个人业务运营系统。用户可通过点击按钮一键添加这些AI到工作区，或单独下载为技能文件用于其他AI平台。",
+          "quote_en": "The first is as a brand strategist. So creating a personal brand strategy so you don't blend in with everyone else and studying how your content is doing to propose growth tactics for you.",
+          "quote_zh": "第一个是作为品牌策略师。创建个人品牌策略，让你不与他人雷同，并研究内容表现以提出增长策略。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "AI工具可直接在Eden中使用并集成",
+          "body": "用户可以在Eden平台中直接使用这些预设AI工具，通过点击“设置我的业务”按钮将所有工具添加到工作区，或单独下载为技能文件用于Claude或ChatGPT。这些工具能与Eden的MCP（模型控制平面）连接，实时研究Substack、X、YouTube等平台的爆款内容，提取标题、结构和写作模式，从而帮助用户生成高表现内容大纲。",
+          "quote_en": "And then since this is inside of Eden, or you connect Claude to the Eden MCP, it can then research everything that's going viral across Substack, XR, YouTube scripts, etc.",
+          "quote_zh": "而且由于这在Eden内部，或者你将Claude连接到Eden的MCP，它就能研究Substack、XR、YouTube脚本等平台上的所有爆款内容。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "内容创作流程需按顺序执行",
+          "body": "演讲者建议用户按特定顺序使用这些AI工具：先进行品牌策略，再做内容策略，然后基于两者生成长/短内容，最后在有产品后使用营销策略AI。他强调这些工具不直接生成最终内容，而是提供大纲和草稿供用户编辑，因为他认为初学者不应完全自动化写作，以保持对内容的控制权和质量。",
+          "quote_en": "I'd recommend going through these in the order I listed above. So brand strategy first, then content strategy, and then you base your short form and long form posts off of those.",
+          "quote_zh": "我建议按我列出的顺序使用这些工具。首先是品牌策略，然后是内容策略，接着基于它们来生成短内容和长内容。",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1084.5,
+        1446.0
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "AI创作需迭代优化与精准指令",
+      "segment_summary": "AI并非万能，直接使用易产出平庸内容。需提供具体示例和指令约束上下文，并通过细节调整迭代优化，才能产出独特优质内容。作者强调创作需像设计师在Figma中微调一样，对AI输出进行精细打磨。",
+      "key_points": [
+        {
+          "title": "AI输出需迭代优化而非一次性生成",
+          "body": "AI无法一次性完美生成符合需求的内容，因为用户往往无法清晰表达全部需求。正确的做法是先让AI进行广度覆盖的初步生成，如创建网站原型或撰写初稿，然后像设计师在Photoshop或Figma中一样，对边框圆角、颜色、阴影、布局等细节进行逐项调整，通过多次迭代使内容变得独特和高级。这与直接下载WordPress模板后不做修改的平庸结果形成对比。",
+          "quote_en": "You have to tweak the border radius and the color and the drop shadow and the layouts and how you want things to be at that point, when you have the prototype or the template or the first draft, then you do what any other designer would do in Photoshop or Figma.",
+          "quote_zh": "当你有了原型、模板或初稿时，你必须调整圆角、颜色、阴影、布局和你想要的呈现方式，就像任何其他设计师在Photoshop或Figma中所做的那样。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "需提供具体示例和指令约束AI上下文",
+          "body": "要获得高质量的AI输出，必须主动提供明确的约束条件。这包括提供你希望模仿的YouTube视频标题和字幕、Reels、Substack文章、X帖子等具体示例，以及你偏好的写作风格样本。这些材料作为参考，能有效引导AI生成符合你品牌调性和内容风格的作品，而不是产出千篇一律的“AI模板”内容。",
+          "quote_en": "It means giving it YouTube titles and transcripts of videos that represent the type of content you want to create. It means reels, transcripts, Substack notes or articles, X posts or articles, or ample examples of the style of writing that you like.",
+          "quote_zh": "这意味着提供代表你想要创建内容类型的YouTube标题和视频字幕。这意味着Reels、字幕、Substack笔记或文章、X帖子或文章，或大量你喜欢的写作风格示例。",
+          "frame_id": "f13",
+          "confidence": "high"
+        },
+        {
+          "title": "AI内容质量取决于用户对“好”的认知",
+          "body": "AI无法自动理解“好内容”的标准。用户必须自己具备对优质内容的判断力，包括内容结构、创作者的“能量签名”、品牌主线和独特观点等。这些要素需要通过经验、 mentorship 或学习获得。只有当用户能清晰定义“好”，才能通过提供具体示例和指令，让AI输出符合预期，而非产出被轻易识别为“AI生成”的平庸内容。",
+          "quote_en": "The first thing is that you need to know what good looks like, or have an example of what good looks like, because when it comes to good content or good posting on social media, there's a lot at play.",
+          "quote_zh": "第一件事是你需要知道什么是好的，或者拥有一个什么是好的例子，因为当谈到优质内容或社交媒体上的优质发布时，涉及很多因素。",
+          "frame_id": "f11",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1446.0,
+        1807.5
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "AI协作需明确流程与持续迭代",
+      "segment_summary": "演讲者强调，要让AI有效协作，必须先明确自己的创作流程，并将该流程转化为AI可执行的步骤。他提出需通过提问获取清晰方向，建立包含研究、选题、结构设计和内容生成的完整工作流，并持续迭代优化系统，而非简单外包任务。",
+      "key_points": [
+        {
+          "title": "通过提问获取创作方向",
+          "body": "演讲者主张不能直接让AI生成内容，而应通过提问引导AI进行头脑风暴，直到确定满意的风格。例如，可要求AI以‘创作世界顶级Newsletter’为目标，通过提问明确需求，最终将讨论结果凝练成可复用的文档或技能，供后续对话调用。",
+          "quote_en": "So in your case, you could ask something like, I want to write one of the greatest, most engaging newsletters in the world, something that stands out and doesn't sound robotic.",
+          "quote_zh": "在你的情况下，你可以问，我想写一份世界上最棒、最具吸引力的通讯，让它脱颖而出且不显得机械。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "建立可复用的内容创作流程",
+          "body": "演讲者分享了自己五步内容创作流程：1. 从书籍、对话中收集未被广泛讨论的创意；2. 选择同时满足个人热情、用户受益和市场验证的选题；3. 大量脑暴标题并筛选；4. 设计长文结构并列提纲；5. 基于提纲衍生10-20个短内容创意。此流程需被提炼为AI可执行的工作流。",
+          "quote_en": "First is I read books, save ideas, have conversations with friends, listened along, lectures for ideas that nobody is talking about online.",
+          "quote_zh": "首先是阅读书籍、保存想法、与朋友交谈、听讲座，寻找网上没人讨论的想法。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "系统需持续迭代而非放弃",
+          "body": "演讲者指出，任何系统（包括AI协作系统）都可能因环境变化或个人成长而失效，但这不是放弃的理由。当发现AI输出‘slop’（垃圾内容）时，应主动指出问题、提供改进建议、调整方向，持续优化系统，使其适应新情况。",
+          "quote_en": "But that isn't a reason to think that the system doesn't work altogether, and it doesn't mean that you abandon it entirely. It means you iterate and make it adaptable.",
+          "quote_zh": "但这不是认为系统完全失效的理由，也不意味着要彻底放弃。这意味着你要迭代并使其具备适应性。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1807.5,
+        2169.0
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

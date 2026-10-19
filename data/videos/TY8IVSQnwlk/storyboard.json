@@ -1,0 +1,109 @@
+{
+  "frames": [
+    {
+      "frame_id": "f01",
+      "timestamp": 108.77,
+      "time_label": "01:49",
+      "filename": "f01.jpg",
+      "index": 1
+    },
+    {
+      "frame_id": "f02",
+      "timestamp": 242.9,
+      "time_label": "04:03",
+      "filename": "f02.jpg",
+      "index": 2
+    },
+    {
+      "frame_id": "f03",
+      "timestamp": 377.04,
+      "time_label": "06:17",
+      "filename": "f03.jpg",
+      "index": 3
+    },
+    {
+      "frame_id": "f04",
+      "timestamp": 511.17,
+      "time_label": "08:31",
+      "filename": "f04.jpg",
+      "index": 4
+    },
+    {
+      "frame_id": "f05",
+      "timestamp": 645.31,
+      "time_label": "10:45",
+      "filename": "f05.jpg",
+      "index": 5
+    },
+    {
+      "frame_id": "f06",
+      "timestamp": 779.44,
+      "time_label": "12:59",
+      "filename": "f06.jpg",
+      "index": 6
+    },
+    {
+      "frame_id": "f07",
+      "timestamp": 913.58,
+      "time_label": "15:14",
+      "filename": "f07.jpg",
+      "index": 7
+    },
+    {
+      "frame_id": "f08",
+      "timestamp": 1047.71,
+      "time_label": "17:28",
+      "filename": "f08.jpg",
+      "index": 8
+    },
+    {
+      "frame_id": "f09",
+      "timestamp": 1181.85,
+      "time_label": "19:42",
+      "filename": "f09.jpg",
+      "index": 9
+    },
+    {
+      "frame_id": "f10",
+      "timestamp": 1315.98,
+      "time_label": "21:56",
+      "filename": "f10.jpg",
+      "index": 10
+    },
+    {
+      "frame_id": "f11",
+      "timestamp": 1450.12,
+      "time_label": "24:10",
+      "filename": "f11.jpg",
+      "index": 11
+    },
+    {
+      "frame_id": "f12",
+      "timestamp": 1584.25,
+      "time_label": "26:24",
+      "filename": "f12.jpg",
+      "index": 12
+    },
+    {
+      "frame_id": "f13",
+      "timestamp": 1718.39,
+      "time_label": "28:38",
+      "filename": "f13.jpg",
+      "index": 13
+    },
+    {
+      "frame_id": "f14",
+      "timestamp": 1852.52,
+      "time_label": "30:53",
+      "filename": "f14.jpg",
+      "index": 14
+    },
+    {
+      "frame_id": "f15",
+      "timestamp": 1986.66,
+      "time_label": "33:07",
+      "filename": "f15.jpg",
+      "index": 15
+    }
+  ]
+}

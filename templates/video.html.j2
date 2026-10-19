@@ -1,0 +1,365 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ v.title_zh or v.title }} · {{ channel.name }}{% endblock %}
+{% block description %}{{ v.one_liner or v.title }} —— {{ v.duration_label }}，含中英对照稿与图文总结。{% endblock %}
+{% block body_attr %} data-video-id="{{ v.id }}" data-duration="{{ v.duration }}"{% endblock %}
+
+{% block nav_extra %}
+<a class="iconbtn" href="../index.html#{{ v.month }}" title="返回首页">← 全部</a>
+{% endblock %}
+
+{% block content %}
+<div class="wrap">
+
+  <section class="vhero">
+    <div class="backline">
+      <a class="back" href="../index.html">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M10 3 5 8l5 5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        全部视频
+      </a>
+      <span class="mono faint">{{ v.date }}</span>
+      {% if v.index_label %}<span class="mono faint">·</span><span class="mono faint">{{ v.index_label }}</span>{% endif %}
+    </div>
+
+    <h1 class="vtitle">{{ v.title }}</h1>
+    {% if v.title_zh %}<div class="vtitle-zh">{{ v.title_zh }}</div>{% endif %}
+
+    <div class="vmeta">
+      <span class="mono">{{ v.date }}</span>
+      <span class="sep"></span>
+      <span class="mono">{{ v.duration_label }}</span>
+      <span class="sep"></span>
+      <span class="mono">{{ v.views }} 次播放</span>
+      <span class="sep"></span>
+      <span class="mono">{{ v.sentence_count }} 句对照</span>
+      <span class="sep"></span>
+      <a class="mono" href="{{ v.url }}" target="_blank" rel="noopener noreferrer">YouTube ↗</a>
+    </div>
+
+    {% if v.one_liner %}<p class="thesis" style="margin-top:22px">{{ v.one_liner }}</p>{% endif %}
+
+    {% if v.topics %}
+    <div class="topics" style="margin-top:18px">
+      {% for t in v.topics %}<a class="topic" href="../index.html">{{ t }}</a>{% endfor %}
+    </div>
+    {% endif %}
+  </section>
+
+  <div class="layout">
+
+    <!-- ─────────── 左：播放器 ─────────── -->
+    <aside class="playercol">
+      <div class="player">
+        <div id="ytPlayer"></div>
+        <div class="player-fallback" id="playerFallback" hidden>
+          <div>
+            <p class="serif" style="font-size:1.0625rem;color:#e6e1d6;margin:0 0 8px">播放器未能加载</p>
+            <p style="margin:0 0 14px;font-size:.8125rem">原因：<span id="fallbackReason">未知</span>。<br>页面其余部分完全可用；点任意字幕会打开带时间戳的 YouTube 链接。</p>
+            <a class="btn primary" href="{{ v.url }}" target="_blank" rel="noopener noreferrer" style="display:inline-flex">在 YouTube 观看 ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="playerbar">
+        <span class="nowtime" id="nowTime"><b>00:00</b> / {{ v.duration_label }}</span>
+        <button class="btn" type="button" data-jump-now title="字幕滚动到当前播放位置">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M8 3v10M4 9l4 4 4-4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          定位到当前
+        </button>
+        <a class="btn" href="{{ v.url }}" target="_blank" rel="noopener noreferrer">YouTube ↗</a>
+      </div>
+
+      {% if v.local_file %}
+      <p class="mono faint" style="margin:12px 0 0;line-height:1.7;word-break:break-all">
+        本地文件：{{ v.video_dir }}/{{ v.local_file }}
+      </p>
+      {% endif %}
+
+      {% if v.chapters %}
+      <details class="chapters" id="chapters"{% if v.chapters|length <= 12 %} open{% endif %}>
+        <summary>章节 · {{ v.chapters|length }}</summary>
+        <ol>
+          {% for c in v.chapters %}
+          <li><button type="button" data-seek="{{ c.start }}" data-chap="{{ c.start }}">
+            <span class="t">{{ c.time_label }}</span><span>{{ c.title }}</span>
+          </button></li>
+          {% endfor %}
+        </ol>
+      </details>
+      {% endif %}
+
+      {% if v.description %}
+      <details class="chapters">
+        <summary>视频简介</summary>
+        <p style="margin:0 0 12px;color:var(--muted);font-size:.875rem;line-height:1.8;white-space:pre-line">{{ v.description[:1200] }}</p>
+      </details>
+      {% endif %}
+    </aside>
+
+    <!-- ─────────── 右：内容 ─────────── -->
+    <div>
+      <div class="tabs" role="tablist" aria-label="内容视图">
+        <button class="tab" role="tab" data-tab="summary" aria-selected="true">图文总结</button>
+        <button class="tab" role="tab" data-tab="transcript" aria-selected="false">中英对照<span class="n">{{ v.sentence_count }}</span></button>
+        <button class="tab" role="tab" data-tab="en" aria-selected="false">英文原稿</button>
+        <button class="tab" role="tab" data-tab="zh" aria-selected="false">中文稿</button>
+      </div>
+
+      <!-- ════════ 图文总结 ════════ -->
+      <section class="panel-out" id="panel-summary" data-active="true" role="tabpanel">
+        {% if not s %}
+        <div class="note"><b>总结尚未生成。</b> 运行 <code>python3 run.py summarize --only {{ v.id }}</code> 后重新 build 即可。</div>
+        {% else %}
+
+        {% if s.one_liner or s.thesis %}
+        <div class="section" style="padding-top:0">
+          <div class="section-head">
+            <div class="section-num">01</div>
+            <div>
+              <h2>核心主张</h2>
+            </div>
+          </div>
+          {% if s.one_liner %}<p class="oneliner">{{ s.one_liner }}</p>{% endif %}
+          {% if s.thesis %}<p class="thesis">{{ s.thesis }}</p>{% endif %}
+        </div>
+        {% endif %}
+
+        {% if s.overview_cards %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">02</div>
+            <div><h2>几条主线</h2><p>这个视频反复回到的几个论点。</p></div>
+          </div>
+          <div class="cards">
+            {% for c in s.overview_cards %}
+            <article class="acc-{{ c.accent if c.accent in ['ochre','blue','green','red','ink'] else 'accent' }}">
+              <h3>{{ c.title }}</h3>
+              <p>{{ c.body }}</p>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.knowledge_points %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">03</div>
+            <div><h2>知识点 × 画面</h2><p>每条都绑定到视频里的真实画面，点图跳到那一刻。</p></div>
+          </div>
+          <div class="kps">
+            {% for k in s.knowledge_points %}
+            <article class="kp">
+              {% if k.frame_id %}
+              <figure class="kp-fig">
+                <button type="button" data-seek="{{ k.frame_time }}" title="跳到 {{ k.frame_label }}">
+                  <img src="../assets/frames/{{ v.id }}/{{ k.frame_file }}" alt="{{ k.title }} 对应画面" loading="lazy" width="720" height="405">
+                </button>
+                <figcaption class="mono"><span class="seek">{{ k.frame_label }}</span><span class="faint">画面 {{ k.frame_id }}</span></figcaption>
+              </figure>
+              {% else %}<span></span>{% endif %}
+              <div>
+                <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+                  <span class="kp-idx">{{ "%02d"|format(loop.index) }}</span>
+                  {% if k.conf_label %}<span class="conf {{ k.confidence }}">{{ k.conf_label }}</span>{% endif %}
+                </div>
+                <h3>{{ k.title }}</h3>
+                <p>{{ k.body }}</p>
+                {% if k.why %}<p class="why">{{ k.why }}</p>{% endif %}
+                {% if k.quote_en %}
+                <blockquote>
+                  <div class="en">“{{ k.quote_en }}”</div>
+                  {% if k.quote_zh %}<div class="zh">{{ k.quote_zh }}</div>{% endif %}
+                </blockquote>
+                {% endif %}
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.timeline %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">04</div>
+            <div><h2>时间线</h2><p>按原片顺序复盘，点时间跳过去。</p></div>
+          </div>
+          <div class="tl">
+            {% for t in s.timeline %}
+            <article class="tl-item">
+              <div class="tl-t"><button type="button" data-seek="{{ t.seconds }}">{{ t.time }}</button></div>
+              {% if t.frame_file %}
+              <figure class="tl-fig"><img src="../assets/frames/{{ v.id }}/{{ t.frame_file }}" alt="{{ t.title }}" loading="lazy" width="336" height="189"></figure>
+              {% else %}<span></span>{% endif %}
+              <div class="tl-body">
+                <h3>{{ t.title }}</h3>
+                {% if t.body %}<p>{{ t.body }}</p>{% endif %}
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.frameworks %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">05</div>
+            <div><h2>框架与张力</h2><p>可以迁移到别处用的思考结构。</p></div>
+          </div>
+          <div class="cards">
+            {% for f in s.frameworks %}
+            <article class="acc-{{ f.accent if f.accent in ['ochre','blue','green','red','ink'] else 'blue' }}">
+              <h3>{{ f.title }}</h3>
+              <p>{{ f.body }}</p>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.quotes %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">06</div>
+            <div><h2>原话摘录</h2><p>逐字摘自英文字幕，未经改写。</p></div>
+          </div>
+          <div class="quotes">
+            {% for q in s.quotes %}
+            <blockquote class="quote" style="margin:0">
+              <div class="en">“{{ q.en }}”</div>
+              {% if q.zh %}<div class="zh">{{ q.zh }}</div>{% endif %}
+              {% if q.context %}<div class="ctx">{{ q.context }}</div>{% endif %}
+              <div class="quote-foot">
+                {% if q.seconds is not none %}
+                <button class="quote-copy" type="button" data-seek="{{ q.seconds }}" title="跳到视频 {{ q.time_label }}">
+                  <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M4 2.5v11l9-5.5z"/></svg>{{ q.time_label }}
+                </button>
+                {% endif %}
+                <button class="quote-copy" type="button" data-copy="{{ q.en }}{% if q.zh %}
+{{ q.zh }}{% endif %}"{% if q.seconds is not none %} data-seek="{{ q.seconds }}"{% endif %}>复制原文 + 链接</button>
+              </div>
+            </blockquote>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.actions or s.questions %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">07</div>
+            <div><h2>行动与复盘</h2></div>
+          </div>
+          <div class="twocol">
+            {% if s.actions %}
+            <div>
+              <h3 class="eyebrow" style="margin-bottom:10px">看完可以做的</h3>
+              <ol class="list">
+                {% for a in s.actions %}<li>{{ a }}</li>{% endfor %}
+              </ol>
+            </div>
+            {% endif %}
+            {% if s.questions %}
+            <div>
+              <h3 class="eyebrow" style="margin-bottom:10px">留给自己问的</h3>
+              <dl style="margin:0">
+                {% for q in s.questions %}
+                <div class="qa"><dt>{{ q.q }}</dt>{% if q.why %}<dd>{{ q.why }}</dd>{% endif %}</div>
+                {% endfor %}
+              </dl>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if s.caveats %}
+        <div class="section">
+          <div class="section-head">
+            <div class="section-num">08</div>
+            <div><h2>局限与待核验</h2></div>
+          </div>
+          <ul class="caveats">
+            {% for c in s.caveats %}<li>{{ c }}</li>{% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+        {% endif %}
+      </section>
+
+      <!-- ════════ 中英对照 ════════ -->
+      <section class="panel-out" id="panel-transcript" role="tabpanel">
+        <div class="tr-ctrl">
+          <label><input type="checkbox" id="autoscrollBox" checked> 跟随播放滚动</label>
+          <label style="gap:8px">显示
+            <select id="modeSelect" style="border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:var(--r);padding:4px 8px;font:400 .8125rem var(--sans-zh)">
+              <option value="both">中英对照</option>
+              <option value="zh">仅中文</option>
+              <option value="en">仅英文</option>
+            </select>
+          </label>
+          <span class="mono faint">点任意一句跳到视频对应位置</span>
+          <span class="tr-jump"><button class="btn" type="button" data-jump-now>定位到当前</button></span>
+        </div>
+        <ol class="lines" id="transcriptList">
+          {% for ln in lines %}
+          <li class="line" data-start="{{ ln.s }}" data-mode="both" data-seek="{{ ln.s }}" role="button" tabindex="0"
+              aria-label="{{ ln.ts }} {{ ln.zh or ln.en }}">
+            <span class="ts">{{ ln.ts }}</span>
+            <span>
+              <span class="en">{{ ln.en }}</span>
+              {% if ln.zh %}<span class="zh">{{ ln.zh }}</span>{% endif %}
+            </span>
+          </li>
+          {% endfor %}
+        </ol>
+      </section>
+
+      <!-- ════════ 英文原稿 ════════ -->
+      <section class="panel-out" id="panel-en" role="tabpanel">
+        <div class="prose en">
+          {% for p in paragraphs_en %}
+          <div class="prose-para" data-start="{{ p.s }}">
+            <span class="mark mono" data-seek="{{ p.s }}" role="button" tabindex="0" title="跳到 {{ p.ts }}">{{ p.ts }}</span><p>{{ p.text }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
+      <!-- ════════ 中文稿 ════════ -->
+      <section class="panel-out" id="panel-zh" role="tabpanel">
+        <div class="note">
+          <b>译文说明：</b>保留口语演讲节奏，术语在全部
+          {{ video_count }} 个视频间保持一致。点击左侧时间标记可跳到视频对应位置。
+        </div>
+        <div class="prose zh">
+          {% for p in paragraphs_zh %}
+          <div class="prose-para" data-start="{{ p.s }}">
+            <span class="mark mono" data-seek="{{ p.s }}" role="button" tabindex="0" title="跳到 {{ p.ts }}">{{ p.ts }}</span><p>{{ p.text }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <nav style="display:flex;gap:16px;justify-content:space-between;border-top:1px solid var(--rule);padding:26px 0 0;flex-wrap:wrap">
+    {% if prev_v %}
+    <a href="{{ prev_v.id }}.html" style="max-width:46%">
+      <span class="eyebrow" style="display:block;margin-bottom:6px">← 上一个</span>
+      <span class="serif" style="font-size:.9375rem;line-height:1.5;display:block">{{ prev_v.title_zh or prev_v.title }}</span>
+    </a>
+    {% else %}<span></span>{% endif %}
+    {% if next_v %}
+    <a href="{{ next_v.id }}.html" style="max-width:46%;text-align:right">
+      <span class="eyebrow" style="display:block;margin-bottom:6px">下一个 →</span>
+      <span class="serif" style="font-size:.9375rem;line-height:1.5;display:block">{{ next_v.title_zh or next_v.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+
+</div>
+{% endblock %}

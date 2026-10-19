@@ -1,0 +1,518 @@
+{
+  "title_zh": "未来工作新规则：意义经济与高收入技能栈",
+  "one_liner": "AI时代，工作意义需由个体主动创造，掌握自主性等技能栈是获得高收入的关键。",
+  "thesis": "AI打破传统经济循环，使工作不再提供意义，迫使个体从内在创造意义。意义生成依赖进步与贡献，通过挣扎、好奇心、地位实现。未来高收入技能栈以自主性为元技能，结合品味、视角、说服力与技术，使个人在注意力经济中成为不可替代的创作者。",
+  "overview_cards": [
+    {
+      "title": "人类意义的四阶段演变与AI冲击",
+      "body": "作者将人类意义来源分为四阶段：外部权威赋予、劳动获得、后现代解构、内在创造。当前社会处于第三向第四阶段过渡，AI威胁传统工作，加速意义危机。创意工作成为意义的主要来源，但AI也能创作，因此创意者需成为稀缺资源，通过个人品味和故事创造内在意义。",
+      "accent": "ink"
+    },
+    {
+      "title": "未来收入三来源与“人即产品”岗位",
+      "body": "未来家庭收入来自工资、转移支付和资本收入。工资受AI威胁，转移支付不稳定，资本收入成为关键。能存续的岗位是“人即产品”的岗位，如高责任岗、体验经济、意义创造者和关系信任岗，这些依赖人类不可替代的责任、体验、情感连接和信任。",
+      "accent": "ochre"
+    },
+    {
+      "title": "意义生成器：挣扎、好奇心与地位",
+      "body": "意义感由三大生成器驱动：主动选择的挣扎定义个人使命；好奇心基于独特经验，发现无人关注的问题；地位即认可，是他人确认你挣扎有价值的信号。三者结合构成个人故事，是创作者经济中吸引受众和获得收入的核心。",
+      "accent": "green"
+    },
+    {
+      "title": "后AI时代技能栈：自主性统领四技能",
+      "body": "核心技能栈以自主性为元技能，即无需许可就能行动、创造自己故事的能力。其下统领品味（筛选与策展）、视角（容纳复杂性）、说服力（让他人相信你的事业）和技术能力（掌握AI工具）。发展这些技能需通过实践、迭代和主动尝试。",
+      "accent": "red"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "人类意义的四阶段演变",
+      "body": "作者提出人类意义来源经历四阶段：从外部权威赋予，到工业革命后通过劳动获得，再到后现代主义解构导致意义无处可寻，最终个体必须从内在主动创造意义。这一框架解释了AI时代意义危机的根源，也为创意工作的重要性提供历史背景。个人应意识到自己处于第四阶段，主动承担创造意义的责任，而非等待外部赋予。",
+      "why": "理解历史脉络有助于看清当前意义危机的本质，并采取主动应对。",
+      "quote_en": "Act one meaning came from up there. So for most of human history, meaning was given to you by gods, kings, elders and scriptures.",
+      "quote_zh": "第一幕，意义来自上方。在人类大部分历史中，意义是由神、国王、长者和经文赋予你的。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "AI破坏传统经济循环",
+      "body": "传统经济循环是工作→工资→消费→创造更多工作。AI通过替代工作岗位导致工资崩溃，进而引发消费崩溃，最终使整个经济系统瓦解。这为创意者转向内在意义创造提供了紧迫性。个人应减少对单一工资的依赖，探索资本收入和创作者经济等新收入模式。",
+      "why": "认识到经济循环的脆弱性，促使个人提前布局多元收入。",
+      "quote_en": "AI breaks this loop because if AI does the jobs wages collapse, and if wages collapse, spending collapses and if spending collapses, the entire economic system falls apart.",
+      "quote_zh": "AI会打破这个循环，因为如果AI完成工作，工资就会崩溃；如果工资崩溃，消费就会崩溃；如果消费崩溃，整个经济系统就会崩溃。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "未来生存岗位的特征：人即产品",
+      "body": "未来不会所有工作消失，但能存续的岗位是那些“人即产品”的岗位，即工作的价值不在于产出物，而在于人的存在本身。这类岗位包括高责任岗位、体验经济、意义创造者和关系信任岗位。个人应转向这些依赖人类不可替代性的领域，如提供独特体验、建立信任关系或创造意义。",
+      "why": "识别不可替代的岗位特征，帮助个人选择职业方向。",
+      "quote_en": "The pattern here is that the jobs that survive are the ones where the human is the product. It's not what they produce, it's who they are.",
+      "quote_zh": "这里的模式是，能存续的工作是那些人本身就是产品的工作。不是他们生产的东西，而是他们是谁。",
+      "frame_id": "f04",
+      "confidence": "high"
+    },
+    {
+      "title": "意义生成的两大支柱：进步与贡献",
+      "body": "意义感由两大支柱支撑：一是进步，即持续的前进和成长，通过创造性解决问题和克服阻力实现；二是贡献，即个人的进步需与他人或更大的群体产生连接，让成果对他人有意义。个人应主动选择有挑战性的目标，在克服阻力中感受进步，并将成果分享给他人，获得连接感。",
+      "why": "提供可操作的意义构建框架，避免停滞和孤立。",
+      "quote_en": "There are two pillars here. Pillar one is progress. So forward movement because humans need to feel like they're going somewhere, not arriving at a goal and just stopping and giving up.",
+      "quote_zh": "这里有两大支柱。第一支柱是进步。即前进的运动，因为人类需要感觉他们正在前进，而不是达到目标后就停止并放弃。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "好奇心是独特的认知优势",
+      "body": "好奇心是大脑中非线性注意力，表现为追随看似无意义的线索。它源于个人独特的生活经验和视角，使个体能发现他人未关注的问题或想法。AI无法拥有这种基于主观经验的真正好奇心。个人应追随自己的好奇心，探索看似无关的领域，从中发现独特问题和创意。",
+      "why": "好奇心是发现新机会和建立独特视角的关键，AI无法复制。",
+      "quote_en": "I can't be curious. And that's how you solve problems or discover ideas that nobody is even thinking about, because nobody else is curious about them.",
+      "quote_zh": "我无法产生好奇心。正是这样，你才能解决无人思考的问题，或发现无人关注的想法，因为没人对它们好奇。",
+      "frame_id": "f06",
+      "confidence": "high"
+    },
+    {
+      "title": "交换测试：判断AI能否替代你的标准",
+      "body": "交换测试的核心是：如果创作的价值与创作者本人无关，AI就能替代；如果价值源于创作者的独特经历、声誉或故事，AI就无法复制。个人应评估自己工作的价值是否与个人绑定，若否，则需增加个人元素，如分享个人故事、建立声誉或提供独特视角。",
+      "why": "提供简单实用的测试，帮助个人识别和强化自己的护城河。",
+      "quote_en": "If the value is tied to who made it, that's your moat.",
+      "quote_zh": "如果价值与创作者绑定，那就是你的护城河。",
+      "frame_id": "f11",
+      "confidence": "high"
+    },
+    {
+      "title": "后AI时代技能栈：自主性为元技能",
+      "body": "后AI时代的核心技能栈是分层结构：自主性（元技能）位于顶端，统领品味、视角、说服力和技术能力。自主性指无需许可即可行动，创造自己的故事和轨迹。实践自主性需通过三个意义生成器：挣扎（做主动选择）、地位（金钱作为工具而非指标）、好奇心（过滤噪音，追随兴趣）。个人应拒绝默认路径，主动尝试新事物，犯错并修正。",
+      "why": "提供完整的技能发展框架，指导个人在AI时代构建竞争力。",
+      "quote_en": "Agency or the meta skill is the ability to act without permission or prompting. It's creating your own story.",
+      "quote_zh": "自主性或元技能，是指无需许可或提示就能行动的能力。它是创造自己故事的能力。",
+      "frame_id": "f13",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "0:00",
+      "title": "开场：AI冲击与意义重构",
+      "body": "视频开篇提出AI对工作和人生意义的双重冲击，引出创意工作的重要性。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "2:30",
+      "title": "人类意义的四阶段演变",
+      "body": "介绍意义来源从外部权威到内在创造的四个阶段，解释当前意义危机。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "5:31",
+      "title": "未来收入三来源",
+      "body": "提出未来家庭收入来自工资、转移支付和资本收入，强调资本收入的重要性。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "8:00",
+      "title": "“人即产品”的存续岗位",
+      "body": "分析未来能存续的岗位特征：价值在于人的存在本身，而非产出物。",
+      "frame_id": "f04"
+    },
+    {
+      "time": "11:03",
+      "title": "意义的两大支柱",
+      "body": "提出意义感由进步和贡献两大支柱支撑，缺一不可。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "14:00",
+      "title": "三大意义生成器",
+      "body": "阐述挣扎、好奇心、地位如何共同驱动意义生成和故事构建。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "16:35",
+      "title": "注意力是终极杠杆",
+      "body": "指出注意力是稀缺资源，内容价值取决于筛选与表达而非生产。",
+      "frame_id": "f08"
+    },
+    {
+      "time": "19:00",
+      "title": "交换测试：AI替代性判断",
+      "body": "提出判断AI能否替代的标准：价值是否与创作者个人绑定。",
+      "frame_id": "f11"
+    },
+    {
+      "time": "22:07",
+      "title": "人类不可替代的五要素",
+      "body": "列出AI无法复制的五个核心要素：视角、能量签名、意义构建、人生轨迹、进化品味。",
+      "frame_id": "f12"
+    },
+    {
+      "time": "25:00",
+      "title": "后AI时代技能栈",
+      "body": "提出以自主性为元技能，统领品味、视角、说服力和技术能力的技能栈。",
+      "frame_id": "f13"
+    },
+    {
+      "time": "28:00",
+      "title": "五大核心技能详解",
+      "body": "详细解释自主性、品味、视角、说服力、技术能力，并演示Eden工具。",
+      "frame_id": "f15"
+    },
+    {
+      "time": "32:00",
+      "title": "总结与行动呼吁",
+      "body": "总结未来工作核心观点，鼓励观众主动创造意义和收入。",
+      "frame_id": ""
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "意义生成两大支柱",
+      "body": "一端是进步（个人成长和克服阻力），另一端是贡献（将成果与他人连接）。两者结合产生意义感，缺一则导致停滞或孤立。",
+      "accent": "blue"
+    },
+    {
+      "title": "交换测试",
+      "body": "一端是通用内容（价值与创作者无关，AI可替代），另一端是个人绑定内容（价值源于创作者经历，AI不可替代）。用于评估工作的未来安全性。",
+      "accent": "ochre"
+    },
+    {
+      "title": "后AI时代技能栈",
+      "body": "顶端是自主性（元技能），底层是品味、视角、说服力、技术能力。自主性驱动其他技能，形成不可替代的个人竞争力。",
+      "accent": "green"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Act one meaning came from up there. So for most of human history, meaning was given to you by gods, kings, elders and scriptures.",
+      "zh": "第一幕，意义来自上方。在人类大部分历史中，意义是由神、国王、长者和经文赋予你的。",
+      "context": "在介绍人类意义四阶段演变时，说明第一阶段的意义来源。"
+    },
+    {
+      "en": "AI breaks this loop because if AI does the jobs wages collapse, and if wages collapse, spending collapses and if spending collapses, the entire economic system falls apart.",
+      "zh": "AI会打破这个循环，因为如果AI完成工作，工资就会崩溃；如果工资崩溃，消费就会崩溃；如果消费崩溃，整个经济系统就会崩溃。",
+      "context": "解释AI如何破坏传统经济循环，导致系统崩溃。"
+    },
+    {
+      "en": "The pattern here is that the jobs that survive are the ones where the human is the product. It's not what they produce, it's who they are.",
+      "zh": "这里的模式是，能存续的工作是那些人本身就是产品的工作。不是他们生产的东西，而是他们是谁。",
+      "context": "分析未来哪些岗位不会被AI取代，指出“人即产品”的特征。"
+    },
+    {
+      "en": "I can't be curious. And that's how you solve problems or discover ideas that nobody is even thinking about, because nobody else is curious about them.",
+      "zh": "我无法产生好奇心。正是这样，你才能解决无人思考的问题，或发现无人关注的想法，因为没人对它们好奇。",
+      "context": "强调好奇心是人类独特优势，AI无法拥有真正的好奇心。"
+    },
+    {
+      "en": "If the value is tied to who made it, that's your moat.",
+      "zh": "如果价值与创作者绑定，那就是你的护城河。",
+      "context": "提出交换测试，说明个人护城河在于价值与创作者绑定。"
+    }
+  ],
+  "actions": [
+    "写下你的个人故事和独特经历，识别哪些元素构成了你不可替代的视角。",
+    "选择一个你好奇的领域，开始创作内容（文章、视频等），实践品味筛选，分享你认为有价值的信息。",
+    "学习使用一款AI工具（如写作助手），但确保核心思想和表达方向由你掌控。",
+    "拒绝一条传统社会期望（如盲目追求稳定工作），主动尝试一件你一直想做但未行动的事。",
+    "建立一个小的受众群体（如社交媒体或 newsletter），通过持续分享吸引相信你事业的人。",
+    "将你的收入来源多元化，探索资本收入或创作者经济模式，减少对单一工资的依赖。"
+  ],
+  "questions": [
+    {
+      "q": "你目前的工作或创作，其价值是否与你的个人经历和视角绑定？如果AI能轻易替代，你如何增加个人元素？",
+      "why": "帮助评估自己的职业安全性，并思考转型方向。"
+    },
+    {
+      "q": "你生活中哪些挣扎是你主动选择的？它们是否让你感到进步和意义？",
+      "why": "反思意义来源，促使主动选择有意义的挑战。"
+    },
+    {
+      "q": "你最近一次追随好奇心探索无关事物是什么时候？结果如何？",
+      "why": "鼓励培养好奇心，发现独特机会。"
+    }
+  ],
+  "caveats": [
+    "视频中包含对 Eden 工具的宣传口播（约在 28:00-30:00 处），属于广告内容，与核心论点关联较弱。",
+    "时间节点基于分段范围估算，并非精确时间戳，可能存在偏差。",
+    "部分观点（如人类意义四阶段）为作者个人框架，缺乏学术引用，需批判性看待。",
+    "转录中可能存在个别术语翻译不准确，但核心概念已尽力还原。"
+  ],
+  "topics": [
+    "AI与工作",
+    "创作者经济",
+    "意义经济",
+    "技能栈",
+    "自主性",
+    "未来工作"
+  ],
+  "_frame_fixes": [
+    {
+      "where": "timeline[11]",
+      "from": "",
+      "to": ""
+    }
+  ],
+  "_meta": {
+    "video_id": "vCoGfisdS8Y",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 1
+  },
+  "_segments": [
+    {
+      "segment_title": "AI冲击下创意工作的意义重构",
+      "segment_summary": "视频开篇通过提问观众为何观看此视频，引出AI对工作和人生意义的双重冲击。作者提出人类意义的四阶段演变，并指出创意工作是当前社会意义的主要来源，面临AI威胁。他主张创意者需成为稀缺资源，通过个人品味、视角和故事创造内在意义，以应对AI导致的经济循环断裂。",
+      "key_points": [
+        {
+          "title": "人类意义的四阶段演变",
+          "body": "作者将人类意义的来源划分为四个阶段：第一阶段由神权、君主等外部权威赋予意义；第二阶段工业革命后，意义通过劳动和生产力获得；第三阶段后现代主义下，意义被解构，无处可寻；第四阶段，意义必须由个体从内在主动创造。这一框架解释了当前社会意义缺失的根源，也为创意工作在AI时代的重要性提供了历史背景。",
+          "quote_en": "Act one meaning came from up there. So for most of human history, meaning was given to you by gods, kings, elders and scriptures.",
+          "quote_zh": "第一幕，意义来自上方。在人类大部分历史中，意义是由神、国王、长者和经文赋予你的。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "创意工作是意义的创造者",
+          "body": "作者认为创意工作是人类寻找意义的核心途径，它包含从个人视角观察现实、在脑海中综合信息、创造新事物并分享获得反馈的过程。当传统工作不再提供意义时，创意者成为社会意义的建筑师。因此，AI对创意工作的威胁，实质上是威胁到人们获取人生意义的途径。",
+          "quote_en": "That's where humans find meaning. And so when meaning went from being handed to us to being earned through labor and then being found nowhere, it becomes our responsibility to create meaning.",
+          "quote_zh": "那就是人类找到意义的地方。因此，当意义从被赋予我们，到通过劳动获得，再到无处可寻时，创造意义就成为我们的责任。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "AI破坏传统经济循环",
+          "body": "传统经济循环是：工作→工资→消费→创造更多工作。AI通过替代工作岗位导致工资崩溃，进而引发消费崩溃，最终使整个经济系统瓦解。作者引用David Shapiro的“后劳动经济学”框架，说明AI对经济基础的冲击，这为创意者转向内在意义创造提供了紧迫性。",
+          "quote_en": "AI breaks this loop because if AI does the jobs wages collapse, and if wages collapse, spending collapses and if spending collapses, the entire economic system falls apart.",
+          "quote_zh": "AI会打破这个循环，因为如果AI完成工作，工资就会崩溃；如果工资崩溃，消费就会崩溃；如果消费崩溃，整个经济系统就会崩溃。",
+          "frame_id": "f02",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.1,
+        331.9
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "未来收入三来源与意义生成机制",
+      "segment_summary": "演讲者提出未来家庭收入来自工资、转移支付和资本收入三源，其中资本收入将更普及。他进一步提出意义生成的两大支柱：进步与贡献，认为人类需通过创造性解决问题实现进步，并通过为他人或群体做出贡献获得连接感，从而避免停滞与孤立导致的无意义感。",
+      "key_points": [
+        {
+          "title": "未来收入来源的三重结构",
+          "body": "演讲者指出，未来家庭收入主要来自三个渠道：工资（劳动报酬）、政府转移支付（如UBI）和资本收入（资产收益）。他认为工资模式正被AI威胁，而依赖政府支付存在政治不稳定和市场扭曲风险，且个人难以从中获得意义。因此，资本收入成为关键，主张普通人应广泛参与资产拥有，而非仅限于亿万富翁，这是未来经济的重要方向。",
+          "quote_en": "There's wages, so you get paid for your labor. This is what AI threatens.",
+          "quote_zh": "有工资，也就是你因劳动而获得报酬。这就是AI所威胁的。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "未来生存岗位的特征：人即产品",
+          "body": "演讲者分析，未来不会所有工作消失，但能存续的岗位是那些‘人即产品’的岗位，即工作的价值不在于产出物，而在于人的存在本身。这类岗位包括高责任岗位、体验经济（如酒吧、艺术馆）、意义创造者（如心理咨询）和关系信任岗位（如销售、外交）。这些岗位依赖人类的不可替代性，如责任、体验、情感连接和信任建立。",
+          "quote_en": "The pattern here is that the jobs that survive are the ones where the human is the product. It's not what they produce, it's who they are.",
+          "quote_zh": "这里的模式是，能存续的工作是那些人本身就是产品的工作。不是他们生产的东西，而是他们是谁。",
+          "frame_id": "f04",
+          "confidence": "high"
+        },
+        {
+          "title": "意义生成的两大支柱：进步与贡献",
+          "body": "演讲者提出，意义感由两大支柱支撑：一是进步，即持续的前进和成长，通过创造性解决问题和克服阻力实现，而非被动忍受苦难；二是贡献，即个人的进步需与他人或更大的群体产生连接，让成果对他人有意义。他指出，现代生活因停滞和孤立而空虚，而意义感源于克服阻力的成就感和对他人产生影响的连接感。",
+          "quote_en": "There are two pillars here. Pillar one is progress. So forward movement because humans need to feel like they're going somewhere, not arriving at a goal and just stopping and giving up.",
+          "quote_zh": "这里有两大支柱。第一支柱是进步。即前进的运动，因为人类需要感觉他们正在前进，而不是达到目标后就停止并放弃。",
+          "frame_id": "f05",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        331.9,
+        663.8
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "未来工作的三大意义生成器",
+      "segment_summary": "本段提出未来工作的意义由挣扎、好奇心和地位（认可）三大生成器驱动。金钱将从生产力指标转变为表达自主和成长的工具，而人类的核心价值在于创造叙事。创作者经济即意义经济，收入来源将从劳动输出转向吸引他人相信并支持你的事业。",
+      "key_points": [
+        {
+          "title": "挣扎是意义的来源",
+          "body": "意义来源于个人主动选择的挣扎，而非外界强加的目标。这种挣扎定义了个人的使命，例如创作者选择精进技艺、建立受众、追求真相。它不是被动承受，而是有意识的投入，从而产生内在意义。",
+          "quote_en": "I'm talking about what you choose to struggle for because that defines what your purpose is.",
+          "quote_zh": "我谈的是你选择为之挣扎的事，因为那定义了你的目的。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "好奇心是独特的认知优势",
+          "body": "好奇心是大脑中非线性注意力，表现为追随看似无意义的线索。它源于个人独特的生活经验和视角，使个体能发现他人未关注的问题或想法。AI无法拥有这种基于主观经验的真正好奇心。",
+          "quote_en": "I can't be curious. And that's how you solve problems or discover ideas that nobody is even thinking about, because nobody else is curious about them.",
+          "quote_zh": "我无法产生好奇心。正是这样，你才能解决无人思考的问题，或发现无人关注的想法，因为没人对它们好奇。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "地位即认可，是贡献的证明",
+          "body": "地位应被理解为对工作或贡献的认可，是他人确认你的挣扎有价值、你并非孤独存在的信号。它构成意义的第三个支柱，与挣扎和好奇心共同构成故事的基础，而故事是人类在后生存时代寻找意义的核心方式。",
+          "quote_en": "It's the signal that your struggle mattered to someone. It's the signal that you're not here alone in this void on Earth.",
+          "quote_zh": "这是你的挣扎对某人有意义的信号。这是你并非独自存在于地球虚空中的信号。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "创作者经济即意义经济",
+          "body": "未来的收入模式将从支付劳动输出，转变为支付给那些能吸引他人相信并支持其事业的人。这要求结合艺术（做你热爱的事）与商业（说服他人看到其价值），避免成为无法变现的“饥饿艺术家”。",
+          "quote_en": "you get paid by the people who believe in what you're doing and who want to see more of that in the world.",
+          "quote_zh": "你得到支付，来自那些相信你所做之事、并希望世界看到更多的人。",
+          "frame_id": "f07",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        663.8,
+        995.6
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "注意力是稀缺资源，创作需聚焦筛选与表达",
+      "segment_summary": "本段指出注意力是未来工作的核心稀缺资源，内容创作的关键已从生产转向筛选与分发。通过提供独特视角和优质筛选，个人可获得溢价，即使不追求流量也能实现高收入，且AI时代更凸显人类视角与表达的价值。",
+      "key_points": [
+        {
+          "title": "注意力是终极杠杆，决定价值分配",
+          "body": "演讲者强调，注意力是有限资源，全球人口和注意力总量固定，因此谁能有效捕获并传递价值，谁就能在市场中获得溢价。这改变了传统生产模式，使分发和筛选成为关键能力。即使AI产生大量内容，因注意力不足，劣质内容无法被关注，优质内容才能脱颖而出。",
+          "quote_en": "So the scarce resource here is attention, right? Because it's scarce, there's only so much attention.",
+          "quote_zh": "所以这里的稀缺资源是注意力，对吧？因为它是稀缺的，只有这么多注意力。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "内容价值取决于筛选与表达，而非单纯生产",
+          "body": "演讲者指出，任何人都能创作内容，但真正稀缺的是对信息的筛选和表达能力。他以Elon Musk和MrBeast为例，说明通过吸引注意力可获得资本和资源，但强调个人不必追求极端案例。他更推崇像Justin Welsch这样专注深度写作、在特定平台（如LinkedIn、newsletter）建立小众但高价值受众的模式，通过提供有意义内容实现溢价收入。",
+          "quote_en": "So attention is the ultimate leverage. And if you want to understand this, just look at Elon Musk or MrBeast.",
+          "quote_zh": "所以注意力是终极杠杆。如果你想理解这一点，就看看埃隆·马斯克或MrBeast。",
+          "frame_id": "f09",
+          "confidence": "high"
+        },
+        {
+          "title": "AI时代人类视角与沟通能力价值提升",
+          "body": "演讲者认为，AI会将内容生产变为商品，但人类的视角、品味和筛选能力将因此升值。他强调，即使使用AI写作，只要人类掌控核心思想和表达方向，内容仍具价值。他担忧的是AI生成内容中出现的模式化语言，但不确定这是否是AI影响人类语言，还是人类本就存在这些模式。",
+          "quote_en": "You can have this. You can have I spit out 5 billion words that are amazing, super beautiful prose, but which ones are you going to select to stick around?",
+          "quote_zh": "你可以拥有这个。你可以拥有我吐出50亿个字，它们都是惊人的、极美的散文，但你会选择哪些留下来？",
+          "frame_id": "f10",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        995.6,
+        1327.4
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "人类不可替代的五要素与技能栈",
+      "segment_summary": "通过'交换测试'提出人类不可替代的五个核心要素：视角、能量签名、意义构建、人生轨迹和进化品味。进而提出后AI时代的核心技能栈：以'自主性'为元技能，统领品味、视角、说服力与技术能力。",
+      "key_points": [
+        {
+          "title": "交换测试：判断AI能否替代你的标准",
+          "body": "交换测试的核心是：如果创作的价值与创作者本人无关，AI就能替代；如果价值源于创作者的独特经历、声誉或故事，AI就无法复制。例如，普通生产力博客可被替换，但追随多年作者写的文章则不可，因为其价值与作者的个人轨迹绑定。",
+          "quote_en": "If the value is tied to who made it, that's your moat.",
+          "quote_zh": "如果价值与创作者绑定，那就是你的护城河。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "人类不可替代的五个要素",
+          "body": "AI无法复制人类的五个核心要素：1. 视角——由个人经历、信念和伤痛塑造，AI无真实体验；2. 能量签名——即选择关注什么及为何重要，体现个人关怀；3. 意义构建——AI能处理信息但无法决定其意义，因无利害关系；4. 人生轨迹——人类有过去、现在、未来的故事弧线，AI无时间感；5. 进化品味——人类创作后品味会变，AI则陷入无限循环。",
+          "quote_en": "AI has no stakes, AI does not die. And that's just it. That's number four, which is trajectory.",
+          "quote_zh": "AI没有利害关系，AI不会死亡。这就是第四个要素，人生轨迹。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "后AI时代技能栈：自主性为元技能",
+          "body": "后AI时代的核心技能栈是分层结构：自主性（元技能）位于顶端，统领品味、视角、说服力和技术能力。自主性指无需许可即可行动，创造自己的故事和轨迹。实践自主性需通过三个意义生成器：挣扎（做主动选择）、地位（金钱作为工具而非指标）、好奇心（过滤噪音，追随兴趣）。",
+          "quote_en": "Agency or the meta skill is the ability to act without permission or prompting. It's creating your own story.",
+          "quote_zh": "自主性或元技能，是指无需许可或提示就能行动的能力。它是创造自己故事的能力。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1327.4,
+        1659.2
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "未来工作五大核心技能",
+      "segment_summary": "本段提出未来高收入工作所需的五大技能：自主性、品味、视角、说服力与技术能力。通过‘无限图书馆’和‘无限猴子’比喻说明品味的重要性，强调筛选与分享比创作更重要，并指出通过实践、迭代和使用AI工具来发展这些技能。",
+      "key_points": [
+        {
+          "title": "自主性：拒绝默认路径",
+          "body": "演讲者主张拒绝传统人生路径（上学、工作、65岁退休），强调必须主动尝试新事物，即使不确定是否正确，也要迈出第一步，犯错并修正。这种主动行为是建立自主性的基础，是未来工作的核心前提。",
+          "quote_en": "Reject it. Do something else. Try something new. Figure out what to do. Take one step.",
+          "quote_zh": "拒绝它。做点别的。尝试新事物。弄清楚该做什么。迈出一步。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "品味：筛选比创作更重要",
+          "body": "通过‘无限图书馆’和‘无限猴子’的比喻说明，当信息无限时，内容本身失去意义，关键在于筛选和呈现有价值的内容。发展品味的方法是亲自创作或策展，观察效果，不断迭代，从而建立个人判断标准。",
+          "quote_en": "The insight here is that curation matters more than creation. You have to select what matters and share it with another person.",
+          "quote_zh": "这里的洞察是，策展比创作更重要。你必须选择重要的内容，并与他人分享。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "视角：拓展思维容纳复杂性",
+          "body": "演讲者指出，提升视角意味着打破思维局限，减少教条主义，能够同时容纳矛盾、理解系统和细微差别。这种思维能力是实现真正自主性和高级策展的前提，否则无法创造独特价值。",
+          "quote_en": "You gain the ability to hold complexity in your mind, to hold contradiction, to see systems and to understand nuance.",
+          "quote_zh": "你获得在脑海中容纳复杂性、容纳矛盾、看到系统并理解细微差别的能力。",
+          "frame_id": "f15",
+          "confidence": "high"
+        },
+        {
+          "title": "技术能力：掌握AI工具提升效率",
+          "body": "演讲者强调技术能力是实践其他技能的载体，当前主要是掌握AI工具。他举例说明Eden工具如何通过集成驱动、文件管理、智能代理和项目功能，帮助用户处理琐碎工作，聚焦创造性任务，并支持团队协作。",
+          "quote_en": "Eden is, it's a drive that handles your busy work so that you can focus on the creative work.",
+          "quote_zh": "Eden是一个处理你琐碎工作的驱动，这样你就能专注于创造性工作。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1659.2,
+        1991.0
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}

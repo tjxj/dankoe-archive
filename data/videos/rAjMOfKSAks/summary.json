@@ -1,0 +1,490 @@
+{
+  "title_zh": "成功的关键：设定妄想级目标，重塑大脑",
+  "one_liner": "成功者设定妄想级目标，以此重塑大脑过滤信息的方式，驱动突破性行动。",
+  "thesis": "大多数人失败是因为潜意识默认目标（舒适、安全）操控行为，导致行动与真实渴望冲突，引发心理熵增。成功者主动设定‘妄想级’目标，将其作为视角而非终点，以此重塑大脑过滤信息的方式，驱动心流和突破性行动。通过设定不可能目标、消除不相关行为、聚焦最高杠杆路径，可实现指数级成长。",
+  "overview_cards": [
+    {
+      "title": "潜意识目标：你为何失败",
+      "body": "多数人失败并非缺乏意志力，而是被潜意识中的默认目标操控。这些目标由社会条件反射形成，如追求舒适、不引人注目，它们在后台无声引导行动，与显性目标冲突时自动胜出。识别并覆盖这些隐藏目标，是改变的第一步。",
+      "accent": "red"
+    },
+    {
+      "title": "心理熵增：默认路径的代价",
+      "body": "被动接受社会默认路径（上学、工作、退休）会导致心理熵增，即心智趋向混乱。如同不浇水的植物会枯萎，不主动设定挑战性目标，人生必然陷入困境。打破默认路径，主动选择目标，才能逆转熵增，创造秩序。",
+      "accent": "ochre"
+    },
+    {
+      "title": "妄想级目标：重塑大脑的机制",
+      "body": "设定看似不可能的目标，会迫使大脑进入未知领域，加速神经可塑性，使新行为成为基线。这种目标作为视角，过滤无关信息，激活好奇心、激情等五大内在驱动力，进入高效心流状态。目标不是终点，而是重塑认知的框架。",
+      "accent": "blue"
+    },
+    {
+      "title": "三步法：从目标到行动",
+      "body": "第一步，设定超越当前能力的妄想级目标，并配以极短时限。第二步，彻底消除所有不支持目标的行为，不妥协。第三步，聚焦最高杠杆路径，借力他人资源，建立严格结构。通过实验和学习，路径会逐渐清晰。",
+      "accent": "green"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "title": "潜意识目标操控行为导致失败",
+      "body": "人的大脑像热寻导弹，所有行为都指向某个目标，但多数人未意识到自己被潜意识目标驱动。这些目标常由社会条件反射形成，如追求舒适、不引人注目。当显性目标（如健身）与潜意识目标冲突时，潜意识目标会自动胜出，导致显性目标失败。因此，失败并非缺乏意志力，而是目标体系被错误设定。要改变，必须主动识别并覆盖这些默认目标。",
+      "why": "揭示了为何多数人的努力无效，根源在于未察觉的潜意识目标。",
+      "quote_en": "Your mind is optimizing for a goal that you probably never chose and that you don't even know is there.",
+      "quote_zh": "你的大脑正在优化一个你可能从未选择、甚至不知道存在的目标。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "成功者的关键：设定妄想级目标",
+      "body": "演讲者通过研究埃隆·马斯克、史蒂夫·乔布斯等成功者发现，他们的共同点是目标‘妄想级’（delusional）。这种目标超越现实，不被常规逻辑限制，因此能驱动突破性行动。与普通人被舒适、安全等潜意识目标束缚不同，成功者主动设定宏大目标，从而摆脱默认路径，进入‘超常现实’。要效仿，需敢于设定看似不可能的目标，以此重塑行为模式。",
+      "why": "点明成功者的核心特质，为后续方法奠定基础。",
+      "quote_en": "Their goals are delusional. That's the key to their success.",
+      "quote_zh": "他们的目标是妄想级的。这才是他们成功的关键。",
+      "frame_id": "f02",
+      "confidence": "high"
+    },
+    {
+      "title": "心理熵增：默认路径导致人生混乱",
+      "body": "演讲者引入‘心理熵’概念，解释为心智系统在缺乏主动维护时趋向无序。若个体被动接受社会默认目标（上学、工作、退休），而不主动设定挑战性目标，心智会逐渐退化为混乱状态，最终陷入人生困境。这如同不浇水的植物会枯萎。要避免，必须打破默认路径，持续投入个人成长，设定能激发秩序的目标。",
+      "why": "用熵增定律解释为何被动人生必然走向混乱，强调主动设定目标的必要性。",
+      "quote_en": "Psychic entropy means that your mind and therefore your life drifts toward disorder and chaos.",
+      "quote_zh": "心理熵意味着你的大脑以及你的生活会趋向混乱和无序。",
+      "frame_id": "f05",
+      "confidence": "high"
+    },
+    {
+      "title": "妄想式目标加速大脑重塑",
+      "body": "设定一个看似不可能的目标（如6个月赚10万美金）会迫使大脑进入未知领域，抛弃原有认知框架。这种挑战和新颖性刺激神经可塑性，使大脑快速重连，新行为成为新的基线。与常规的‘一致性强化’不同，它通过‘翻转开关’式全情投入，实现更快的思维和行为转变。因此，要加速成长，需设定远超当前能力的目标，迫使大脑适应新现实。",
+      "why": "解释为何妄想级目标能带来快速改变，提供神经科学依据。",
+      "quote_en": "So flipping the switch and going all in on a goal throws your brain into an environment where it has no choice but to rewire fast and the new behavior becomes your new baseline.",
+      "quote_zh": "因此，翻转开关并全身心投入一个目标，会将你的大脑置于一个不得不快速重塑的环境中，新的行为将成为你的新基线。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "心流状态的五大内在驱动力",
+      "body": "全情投入目标会激活五种内在驱动力：好奇心（探索未知）、激情（对路径的强烈热情）、目的感（行动对更大事物的贡献）、自主性（掌控自身选择）和精通（学习成长过程）。这些驱动力分别释放多巴胺、去甲肾上腺素等神经递质，共同创造心流状态，带来愉悦和高效，使目标追求本身成为持续动力。要进入心流，需确保目标能激发这五大驱动力。",
+      "why": "提供可操作的内在动力框架，帮助维持长期投入。",
+      "quote_en": "And those five drivers are one, curiosity, which is the desire to explore the unknown, learn how to change and fill knowledge gaps.",
+      "quote_zh": "这五个驱动力是：第一，好奇心，即探索未知、学习如何改变并填补知识空白的欲望。",
+      "frame_id": "f07",
+      "confidence": "high"
+    },
+    {
+      "title": "目标是视角而非终点",
+      "body": "演讲者主张目标不是要到达的终点，而是决定大脑如何筛选信息的视角。当人站在山顶时，获得的是全新的观察视角，而非终点本身的价值。这种视角会改变注意力方向，使人看到别人看不到的机会。因此，设定目标的意义不在于达成它，而在于它如何重塑你的认知和行为。要应用此理念，需将目标视为一个持续指引方向的框架，而非一次性任务。",
+      "why": "颠覆传统目标观，强调目标的过程价值而非结果。",
+      "quote_en": "A goal is not a destination that you hit. It's not climbing up the mountain and reaching the top. A goal is a point of view.",
+      "quote_zh": "目标不是你要抵达的终点。不是爬山到达山顶。目标是一种视角。",
+      "frame_id": "f08",
+      "confidence": "high"
+    },
+    {
+      "title": "设定不可能目标与超短时限",
+      "body": "为创造‘现实扭曲力场’，必须设定两个条件：一是目标大到自己觉得不可能实现，二是时限短到同样觉得不可能。这种‘不可能’是相对当前状态而言的，实际上可能实现，但能迫使个体进入未知领域，进行全新探索。这能避免目标缺乏引力，无法驱动行动的问题。实践时，需选择一个让你感到荒谬的目标，并设定一个看似荒谬的截止日期，然后全情投入。",
+      "why": "提供具体的目标设定方法，确保目标具有足够的挑战性。",
+      "quote_en": "The first is that the goal has to be so big that you think it's impossible. And second, you need to set a timeline so short you also think that's impossible.",
+      "quote_zh": "第一，目标必须大到你认为不可能。第二，你需要设定一个短到你也认为不可能的时间表。",
+      "frame_id": "f10",
+      "confidence": "high"
+    },
+    {
+      "title": "彻底消除不支持目标的行为",
+      "body": "设定妄想级目标后，必须审计生活中的所有习惯、项目、关系和义务，只保留有助于目标的部分。不能‘几乎’停止不相关行为，而必须彻底消除。例如，不能‘几乎’停止周末派对，而必须完全停止。这是最难的部分，因为大脑会自我欺骗，用沉没成本或恐惧阻碍改变。要成功，需果断切割，为注意力腾出空间，使新行为成为基线。",
+      "why": "强调执行中的关键难点，提供清除干扰的具体原则。",
+      "quote_en": "You don't almost stop partying on the weekends or undercharging for your freelance services. You completely eliminate that behavior.",
+      "quote_zh": "你不能‘几乎’停止周末派对或为自由职业服务低收费。你必须彻底消除这种行为。",
+      "frame_id": "f12",
+      "confidence": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "00:30",
+      "title": "三种人生困境揭示目标错位",
+      "body": "演讲者列举三种典型失败状态，指出表面目标与潜意识真实目标冲突导致行动无效。",
+      "frame_id": "f01"
+    },
+    {
+      "time": "02:30",
+      "title": "潜意识目标操控行为",
+      "body": "大脑像热寻导弹，被未察觉的潜意识目标驱动，导致显性目标失败。",
+      "frame_id": "f02"
+    },
+    {
+      "time": "04:30",
+      "title": "默认目标源于社会期望",
+      "body": "个体被动接受父母和社会灌输的‘体面成年人’等目标，失去自主设定能力。",
+      "frame_id": "f03"
+    },
+    {
+      "time": "07:00",
+      "title": "心理熵增导致混乱",
+      "body": "缺乏主动目标设定，心智趋向无序，人生陷入困境。",
+      "frame_id": "f05"
+    },
+    {
+      "time": "09:00",
+      "title": "妄想式目标加速大脑重塑",
+      "body": "设定不可能目标迫使大脑进入未知领域，加速神经可塑性，新行为成为基线。",
+      "frame_id": "f07"
+    },
+    {
+      "time": "13:00",
+      "title": "目标是视角而非终点",
+      "body": "目标决定大脑如何筛选信息，改变注意力方向，使人看到新机会。",
+      "frame_id": "f08"
+    },
+    {
+      "time": "15:30",
+      "title": "设定不可能目标与超短时限",
+      "body": "为创造现实扭曲力场，目标必须大且时限短到看似不可能，以迫使全新探索。",
+      "frame_id": "f10"
+    },
+    {
+      "time": "18:00",
+      "title": "彻底消除不支持目标的行为",
+      "body": "审计并完全停止不相关行为，为注意力腾出空间，是新行为成为基线的关键。",
+      "frame_id": "f12"
+    },
+    {
+      "time": "20:00",
+      "title": "聚焦最高杠杆路径",
+      "body": "通过实验和学习发现最高杠杆路径，目标框架会帮助注意到新机会。",
+      "frame_id": "f13"
+    },
+    {
+      "time": "22:00",
+      "title": "高目标需结构化训练",
+      "body": "宏大目标下，简单重复不再有效，必须建立严格结构，将睡眠、饮食等视为非协商项。",
+      "frame_id": "f14"
+    },
+    {
+      "time": "24:30",
+      "title": "突破增长瓶颈需借力他人流量",
+      "body": "通过与他人交换价值，借用其受众推广产品，实现流量倍增。",
+      "frame_id": "f15"
+    }
+  ],
+  "frameworks": [
+    {
+      "title": "现实扭曲力场",
+      "body": "通过设定不可能目标+超短时限，用未来目标覆盖现实障碍，迫使大脑寻找路径而非理由。一端是看似荒谬的目标，另一端是当前现实，张力驱动突破。",
+      "accent": "blue"
+    },
+    {
+      "title": "目标视角论",
+      "body": "目标不是终点，而是筛选信息的视角。一端是传统终点式目标（导致放弃），另一端是视角式目标（持续指引注意力），后者重塑认知和行为。",
+      "accent": "green"
+    },
+    {
+      "title": "潜意识目标冲突",
+      "body": "显性目标（如健身）与潜意识默认目标（如舒适）冲突时，潜意识胜出。一端是主动设定的目标，另一端是未察觉的默认目标，识别并覆盖后者是成功前提。",
+      "accent": "red"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Your mind is optimizing for a goal that you probably never chose and that you don't even know is there.",
+      "zh": "你的大脑正在优化一个你可能从未选择、甚至不知道存在的目标。",
+      "context": "解释为何人们失败时，指出潜意识目标在后台操控行为。"
+    },
+    {
+      "en": "Their goals are delusional. That's the key to their success.",
+      "zh": "他们的目标是妄想级的。这才是他们成功的关键。",
+      "context": "分析成功者如马斯克、乔布斯的共同特质时，点明核心机制。"
+    },
+    {
+      "en": "Psychic entropy means that your mind and therefore your life drifts toward disorder and chaos.",
+      "zh": "心理熵意味着你的大脑以及你的生活会趋向混乱和无序。",
+      "context": "引入心理熵概念，说明被动接受默认路径的必然结果。"
+    },
+    {
+      "en": "A goal is not a destination that you hit. It's not climbing up the mountain and reaching the top. A goal is a point of view.",
+      "zh": "目标不是你要抵达的终点。不是爬山到达山顶。目标是一种视角。",
+      "context": "重新定义目标本质，颠覆传统自我帮助观念。"
+    },
+    {
+      "en": "You don't almost stop partying on the weekends or undercharging for your freelance services. You completely eliminate that behavior.",
+      "zh": "你不能‘几乎’停止周末派对或为自由职业服务低收费。你必须彻底消除这种行为。",
+      "context": "强调执行妄想级目标时，必须彻底切割不相关行为，不能妥协。"
+    }
+  ],
+  "actions": [
+    "写下你当前声称的目标，然后列出你每天实际花时间做的事，识别其中冲突的潜意识默认目标（如舒适、安全）。",
+    "设定一个让你自己都觉得荒谬的‘妄想级’目标，并配上一个看似不可能的截止日期（如6个月收入翻10倍）。",
+    "审计你所有的习惯、项目和关系，划掉所有不支持新目标的部分，制定彻底停止的计划（而非减少）。",
+    "每天早晨问自己：‘如果我已经实现了那个妄想级目标，我今天会如何行动？’用这个视角过滤当天的选择。",
+    "寻找一个高杠杆机会：列出你所在领域拥有大流量的人，思考你能为他们提供什么价值以换取曝光。",
+    "为你的目标建立非协商的结构：固定睡眠、饮食、深度工作时间，将它们视为训练一样严格执行。"
+  ],
+  "questions": [
+    {
+      "q": "我当前的目标是真正自我选择的，还是被父母、社会或算法灌输的？",
+      "why": "帮助识别潜意识默认目标，开启主动选择。"
+    },
+    {
+      "q": "如果我的妄想级目标已经实现，我的视角会发生什么变化？我现在会注意到哪些原本忽略的机会？",
+      "why": "练习将目标作为视角，训练注意力过滤。"
+    },
+    {
+      "q": "有哪些行为是我‘几乎’停止但未彻底消除的？它们如何暗中阻碍我的目标？",
+      "why": "暴露自我欺骗，推动彻底执行。"
+    }
+  ],
+  "caveats": [
+    "视频简介包含创作者的产品推广链接（Eden、Bootcamp、书籍），但视频内容本身为教育性观点，未出现硬性广告口播。",
+    "部分概念（如心理熵）的引用可能简化自心理学著作，建议进一步阅读原著以深入理解。",
+    "转录可能有个别术语误差，但核心观点置信度高。",
+    "案例（如乔布斯、马斯克）为公开信息，但具体细节未在视频中展开，总结仅基于演讲者陈述。"
+  ],
+  "topics": [
+    "目标设定",
+    "潜意识",
+    "神经可塑性",
+    "心流",
+    "自我提升",
+    "成功心理学"
+  ],
+  "_meta": {
+    "video_id": "rAjMOfKSAks",
+    "prompt_version": "v2",
+    "vision_model": "Qwen/Qwen3-VL-32B-Instruct",
+    "synth_model": "deepseek-ai/DeepSeek-V4-Pro",
+    "segments_total": 6,
+    "segments_ok": 6,
+    "frames": 15,
+    "frame_fixes": 0
+  },
+  "_segments": [
+    {
+      "segment_title": "普通人失败因目标被潜意识操控",
+      "segment_summary": "演讲者指出，大多数人失败是因为被潜意识中的默认目标（如舒适、不引人注目）主导，而非主动设定的目标。他通过分析三种常见人生困境，引出成功者的关键特征：拥有‘妄想级’目标，并解释了潜意识如何通过优化‘不该存在的事物’来阻碍真正目标的实现。",
+      "key_points": [
+        {
+          "title": "三种常见人生困境揭示目标错位",
+          "body": "演讲者列举三种典型失败状态：第一，追求社会认可但无实质进展的目标；第二，表面高效但无明确方向的忙碌；第三，内心渴望独特却因害怕被嘲笑而妥协。这些状态的共同点是，表面目标与潜意识真实目标冲突，导致行动无效。演讲者指出，这些困境源于人们未意识到自己被默认目标所控制，而非主动选择目标。",
+          "quote_en": "You're pursuing a goal that sounds nice when you mention it at dinner with grandma, or a goal that wouldn't make your parents think you're a disappointment, and you really don't see it going anywhere.",
+          "quote_zh": "你追求的目标在和奶奶吃饭时听起来不错，或不会让父母觉得你令人失望，但你其实看不到它有任何进展。",
+          "frame_id": "f01",
+          "confidence": "high"
+        },
+        {
+          "title": "潜意识目标操控行为导致失败",
+          "body": "人的大脑像‘热寻导弹’，所有行为都指向某个目标，但多数人未意识到自己被潜意识目标驱动。这些目标常由社会条件反射形成，如‘上学、工作、65岁退休’，它们在后台无声引导行动。当显性目标（如健身）与潜意识目标（如舒适、不引人注目）冲突时，潜意识目标会自动胜出，导致显性目标失败。因此，失败并非缺乏意志力，而是目标体系本身被错误设定。",
+          "quote_en": "Your mind is optimizing for a goal that you probably never chose and that you don't even know is there.",
+          "quote_zh": "你的大脑正在优化一个你可能从未选择、甚至不知道存在的目标。",
+          "frame_id": "f02",
+          "confidence": "high"
+        },
+        {
+          "title": "成功者的关键：设定‘妄想级’目标",
+          "body": "演讲者通过研究埃隆·马斯克、史蒂夫·乔布斯等成功者发现，他们的共同点是目标‘妄想级’（delusional）。这种目标超越现实，不被常规逻辑限制，因此能驱动突破性行动。与普通人被舒适、安全等潜意识目标束缚不同，成功者主动设定宏大目标，从而摆脱默认路径，进入‘超常现实’。演讲者强调，这是成功的核心机制，而非努力或天赋。",
+          "quote_en": "Their goals are delusional. That's the key to their success.",
+          "quote_zh": "他们的目标是妄想级的。这才是他们成功的关键。",
+          "frame_id": "f02",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        0.1,
+        258.4
+      ],
+      "_frames": [
+        "f01",
+        "f02"
+      ]
+    },
+    {
+      "segment_title": "默认人生路径导致心理熵增",
+      "segment_summary": "本段指出，人们从小被父母和社会灌输平均目标，导致人生按默认路径发展，缺乏主动选择。这种被动状态会引发心理熵增，使心智和生活趋向混乱，最终陷入困境。作者认为，只有打破这种模式，设定‘妄想’目标，才能突破限制。",
+      "key_points": [
+        {
+          "title": "默认目标源于父母与社会的期望",
+          "body": "演讲者指出，个体从出生起就被赋予生存目标，随后父母基于自身利益和社会传承，灌输‘体面成年人’等目标，如上学、工作、信教。这些目标并非个人主动选择，而是被动接受的社会默认路径，导致个体在人生早期就失去自主设定目标的能力。",
+          "quote_en": "They want you to be a respectable young adult that doesn't embarrass them.",
+          "quote_zh": "他们希望你成为一个体面的年轻人，不会让他们丢脸。",
+          "frame_id": "f03",
+          "confidence": "high"
+        },
+        {
+          "title": "心理熵增导致人生混乱",
+          "body": "演讲者引入‘心理熵’概念，解释为心智系统在缺乏主动维护时趋向无序。他以不浇水的植物、不打扫的房间为例，说明若不持续投入个人成长，心智会逐渐退化为混乱状态，最终陷入人生困境。这是默认路径的必然结果。",
+          "quote_en": "Psychic entropy means that your mind and therefore your life drifts toward disorder and chaos.",
+          "quote_zh": "心理熵意味着你的大脑以及你的生活会趋向混乱和无序。",
+          "frame_id": "f05",
+          "confidence": "high"
+        },
+        {
+          "title": "现实目标被社会压力稀释",
+          "body": "演讲者指出，人们在设定目标时，会因害怕被朋友嘲笑（如‘桶中螃蟹’心态）而主动降低目标难度，使其符合父母、老师和朋友的预期。这种‘稀释’导致目标缺乏挑战性，无法激发真正的成长，最终导致平庸和失败。",
+          "quote_en": "And then from those possible goals, you water it down a bit so that people won't laugh at you for trying to improve yourself.",
+          "quote_zh": "然后你从这些可能的目标中，稍微稀释一点，这样人们就不会因为你试图提升自己而嘲笑你。",
+          "frame_id": "f04",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        258.4,
+        516.7
+      ],
+      "_frames": [
+        "f03",
+        "f04",
+        "f05"
+      ]
+    },
+    {
+      "segment_title": "专注目标驱动大脑重塑与心流",
+      "segment_summary": "人类通过模拟未来来指导当前行为，而专注单一目标会迫使大脑忽略其他信息，加速神经可塑性。设定看似不可能的‘妄想式目标’能推动人进入心流状态，激活好奇心、激情、目的感、自主性和精通五大内在驱动力，从而实现行为与思维的快速重塑。",
+      "key_points": [
+        {
+          "title": "目标驱动注意力选择性忽略",
+          "body": "人的注意力是目标导向的，而非被动被刺激吸引。当聚焦于一个目标时，大脑会自动过滤掉99.99%的其他信息，将其视为噪音。这种选择性注意机制意味着，如果目标是常规的（如找份稳定工作），人就不会关注能带来突破的信息，因为它们与当前目标无关，从而限制了成长可能性。",
+          "quote_en": "And when you focus on one thing, that means by definition, you're not focused on the 99.99 percent of other things you could be focusing on.",
+          "quote_zh": "当你专注于一件事时，这意味着你必然没有专注于其他99.99%你本可以关注的事情。",
+          "frame_id": "f06",
+          "confidence": "high"
+        },
+        {
+          "title": "妄想式目标加速大脑重塑",
+          "body": "设定一个看似不可能的目标（如6个月赚10万美金）会迫使大脑进入未知领域，抛弃原有认知框架。这种挑战和新颖性刺激神经可塑性，使大脑快速重连，新行为成为新的基线。这与常规的‘一致性强化’不同，它通过‘翻转开关’式全情投入，实现更快的思维和行为转变。",
+          "quote_en": "So flipping the switch and going all in on a goal throws your brain into an environment where it has no choice but to rewire fast and the new behavior becomes your new baseline.",
+          "quote_zh": "因此，翻转开关并全身心投入一个目标，会将你的大脑置于一个不得不快速重塑的环境中，新的行为将成为你的新基线。",
+          "frame_id": "f07",
+          "confidence": "high"
+        },
+        {
+          "title": "心流状态的五大内在驱动力",
+          "body": "全情投入目标会激活五种内在驱动力：好奇心（探索未知）、激情（对路径的强烈热情）、目的感（行动对更大事物的贡献）、自主性（掌控自身选择）和精通（学习成长过程）。这些驱动力分别释放多巴胺、去甲肾上腺素、血清素、催产素和降低皮质醇，共同创造心流状态，带来愉悦和高效，使目标追求本身成为持续动力。",
+          "quote_en": "And those five drivers are one, curiosity, which is the desire to explore the unknown, learn how to change and fill knowledge gaps.",
+          "quote_zh": "这五个驱动力是：第一，好奇心，即探索未知、学习如何改变并填补知识空白的欲望。",
+          "frame_id": "",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        516.7,
+        775.0
+      ],
+      "_frames": [
+        "f06",
+        "f07"
+      ]
+    },
+    {
+      "segment_title": "目标是视角而非终点，需设不可能目标",
+      "segment_summary": "本段提出目标本质是过滤信息的视角，而非需抵达的终点。通过设定看似不可能的目标和极短时限，创造‘现实扭曲力场’，使大脑聚焦于路径而非障碍。引用史蒂夫·乔布斯案例说明如何用坚定信念引导团队朝不可能目标前进。",
+      "key_points": [
+        {
+          "title": "目标是视角而非终点",
+          "body": "演讲者主张目标不是要到达的终点，而是决定大脑如何筛选信息的视角。当人站在山顶时，获得的是全新的观察视角，而非终点本身的价值。这种视角会改变注意力方向，使人看到别人看不到的机会，从而进入不同的现实。这与传统‘达成目标’的自我帮助观念不同，后者导致人们放弃目标设置，转而追求系统化方法。",
+          "quote_en": "A goal is not a destination that you hit. It's not climbing up the mountain and reaching the top. A goal is a point of view.",
+          "quote_zh": "目标不是你要抵达的终点。不是爬山到达山顶。目标是一种视角。",
+          "frame_id": "f08",
+          "confidence": "high"
+        },
+        {
+          "title": "设定不可能目标与超短时限",
+          "body": "为创造‘现实扭曲力场’，必须设定两个条件：一是目标大到自己觉得不可能实现，二是时限短到同样觉得不可能。这种‘不可能’是相对当前状态而言的，实际上可能实现，但能迫使个体进入未知领域，进行全新探索。这能避免目标缺乏引力，无法驱动行动的问题。",
+          "quote_en": "The first is that the goal has to be so big that you think it's impossible. And second, you need to set a timeline so short you also think that's impossible.",
+          "quote_zh": "第一，目标必须大到你认为不可能。第二，你需要设定一个短到你也认为不可能的时间表。",
+          "frame_id": "f10",
+          "confidence": "high"
+        },
+        {
+          "title": "用未来目标覆盖现实障碍",
+          "body": "演讲者以史蒂夫·乔布斯为例，说明他如何通过坚定宣告不可能的截止日期或产品，使工程师团队在明知不可能的情况下，仍被其信念引导，开始朝目标构建路径。乔布斯拒绝被‘这时间表不可能’的刺激拉走注意力，而是用未来目标覆盖现实障碍，使团队大脑开始筛选通往目标的路径，而非寻找失败理由。",
+          "quote_en": "Steve Jobs refused to be pulled by the stimuli of 'this timeline can't possibly work' and overrode it with a future target.",
+          "quote_zh": "史蒂夫·乔布斯拒绝被‘这个时间表不可能实现’的刺激拉走注意力，而是用未来目标覆盖它。",
+          "frame_id": "f09",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        775.0,
+        1033.3
+      ],
+      "_frames": [
+        "f08",
+        "f09",
+        "f10"
+      ]
+    },
+    {
+      "segment_title": "设定目标与行为标准的三步法",
+      "segment_summary": "演讲者提出成功需设定超越当前能力的单一目标，并通过审计生活彻底消除不相关行为，最后聚焦最高杠杆路径。他强调目标必须‘不可能’且‘自我选择’，并用健身举例说明‘妄想式目标’如何驱动行动。",
+      "key_points": [
+        {
+          "title": "目标必须超越当前能力且自我选择",
+          "body": "演讲者主张目标必须设定在现有技能、习惯和认知之外，否则就是线性可达成的，应被拒绝并提升。目标需是个人主动选择的，而非来自父母、文化或算法。只有这样的目标才能创造新现实的视角，而非仅仅是待办清单。他指出，当目标设定完成时，应能清晰看到当前大部分行为与之无关。",
+          "quote_en": "The goal must sit beyond your existing skills, habits and assumptions of what's possible, because that's exactly what creates a lens that shows you a new reality instead of a to do list.",
+          "quote_zh": "目标必须超越你现有的技能、习惯和对可能性的假设，因为这正是创造一个新现实视角而非待办清单的机制。",
+          "frame_id": "f11",
+          "confidence": "high"
+        },
+        {
+          "title": "彻底消除不支持目标的行为",
+          "body": "演讲者强调必须审计生活中的所有习惯、项目、关系和义务，只保留有助于目标的部分。他主张完全消除不相关行为，而非‘几乎停止’。例如，不能‘几乎’停止周末派对，而必须彻底停止。他指出，这是最难的部分，因为大脑会自我欺骗，用沉没成本或恐惧来阻碍改变。",
+          "quote_en": "You don't almost stop partying on the weekends or undercharging for your freelance services. You completely eliminate that behavior.",
+          "quote_zh": "你不能‘几乎’停止周末派对或为自由职业服务低收费。你必须彻底消除这种行为。",
+          "frame_id": "f12",
+          "confidence": "high"
+        },
+        {
+          "title": "聚焦最高杠杆路径并接受实验过程",
+          "body": "在设定目标和标准后，下一步是聚焦于当前可用的最高杠杆路径。演讲者指出，路径可能不会立即清晰，需要通过实验、学习和行动来发现。目标本身会创造一个框架，让你注意到新机会；而标准会清除干扰，为注意力腾出空间，从而引导你走向正确方向。",
+          "quote_en": "You just have to try things. You have to learn and do until the path becomes clear because your goal has created a frame that allows you to notice new opportunities.",
+          "quote_zh": "你只需要尝试一些事情。你必须学习和行动，直到路径变得清晰，因为你的目标创造了一个框架，让你能注意到新机会。",
+          "frame_id": "f13",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1033.3,
+        1291.6
+      ],
+      "_frames": [
+        "f11",
+        "f12",
+        "f13"
+      ]
+    },
+    {
+      "segment_title": "实现高目标需结构化与杠杆",
+      "segment_summary": "演讲者指出，当目标宏大时，简单的重复行为不再有效，必须引入结构和外部杠杆。他以自身从千粉到月入十万的案例说明，需通过借力他人流量实现突破，而非依赖算法或常规内容发布。",
+      "key_points": [
+        {
+          "title": "高目标需结构化训练与生活",
+          "body": "当设定如六个月内参加健美秀或深蹲四五百公斤等高目标时，原有的‘到场、训练、重复’线性路径失效。必须建立严格结构，包括专注核心训练内容、将睡眠和饮食视为非协商项，因为这些曾被忽略的细节在高目标下成为关键变量。",
+          "quote_en": "Suddenly, the linear path of show up, lift, repeat, that just doesn't work anymore.",
+          "quote_zh": "突然间，‘到场、训练、重复’这种线性路径已经不再奏效了。",
+          "frame_id": "f14",
+          "confidence": "high"
+        },
+        {
+          "title": "突破增长瓶颈需借力他人流量",
+          "body": "演讲者在月入十万的‘妄想’目标下，因粉丝不足千人，无法靠常规发帖或算法获得足够曝光。他选择通过与拥有20万至100万粉丝的人交换价值，借用其受众推广自己的产品，以此实现流量倍增，这是他实现目标的关键杠杆策略。",
+          "quote_en": "I had to find leverage. I had to find force multipliers. I needed an offer first that would actually convert. But I also needed more distribution than the thousand followers I had.",
+          "quote_zh": "我必须找到杠杆。我必须找到倍增器。我首先需要一个能真正转化的报价，但我也需要比我的一千粉丝更多的分发渠道。",
+          "frame_id": "f15",
+          "confidence": "high"
+        }
+      ],
+      "uncertain": [],
+      "_range": [
+        1291.6,
+        1549.9
+      ],
+      "_frames": [
+        "f14",
+        "f15"
+      ]
+    }
+  ]
+}
