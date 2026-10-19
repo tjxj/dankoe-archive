@@ -1,0 +1,251 @@
+<title>点得动的档案</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+:root {
+  --paper: #F5F2EB; --ink: #1B1A18; --ink2: #3E3A33; --muted: #6E675C; --faint: #8A8272;
+  --rule: #DFD8C9; --panel: #EDE9DE; --code: #201D1A; --code-ink: #E8E2D5;
+  --accent: #B4442C; --accent-dim: #B4442C66;
+  --serif-zh: "Noto Serif SC", "Songti SC", serif;
+  --serif-en: "Source Serif 4", "Noto Serif SC", serif;
+  --mono: "JetBrains Mono", ui-monospace, "SF Mono", monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #141210; --ink: #E7E2D6; --ink2: #C9C2B4; --muted: #A29A8B; --faint: #7C7566;
+    --rule: #2B2823; --panel: #1C1A17; --code: #0C0B0A; --code-ink: #DDD6C8;
+    --accent: #D2694A; --accent-dim: #D2694A66;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #141210; --ink: #E7E2D6; --ink2: #C9C2B4; --muted: #A29A8B; --faint: #7C7566;
+  --rule: #2B2823; --panel: #1C1A17; --code: #0C0B0A; --code-ink: #DDD6C8;
+  --accent: #D2694A; --accent-dim: #D2694A66;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 400 17px/1.95 var(--serif-zh);
+  padding-block: 52px 90px; padding-inline: 20px;
+  -webkit-font-smoothing: antialiased;
+}
+.doc { max-width: 46rem; margin: 0 auto; }
+.mono { font-family: var(--mono); }
+a { color: var(--accent); text-decoration: none; border-bottom: 1px solid var(--accent-dim); }
+a:hover { border-bottom-color: var(--accent); }
+a:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* ── 报头 ── */
+.eyebrow { font: 600 12px/1.4 var(--mono); letter-spacing: .14em; color: var(--accent); }
+h1 {
+  font-family: var(--serif-en); font-weight: 700; letter-spacing: -0.015em;
+  font-size: clamp(2.1rem, 6vw, 3.3rem); line-height: 1.14; margin: 14px 0 0;
+  text-wrap: balance;
+}
+.standfirst { font-size: 1.0625rem; line-height: 1.9; color: var(--muted); margin: 18px 0 0; max-width: 40em; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+.chip {
+  font: 600 12px/1 var(--mono); letter-spacing: .04em; color: var(--ink2);
+  border: 1px solid var(--rule); border-radius: 999px; padding: 8px 13px;
+}
+a.chip:hover { color: var(--accent); border-color: var(--accent-dim); }
+
+/* ── 数字条 ── */
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(118px, 1fr)); gap: 18px 22px; margin: 40px 0 0; border-top: 1px solid var(--rule); padding-top: 20px; }
+.stat b { display: block; font-family: var(--serif-en); font-weight: 600; font-size: 1.55rem; line-height: 1.15; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }
+.stat span { display: block; margin-top: 4px; font: 400 11px/1.5 var(--mono); color: var(--muted); letter-spacing: .06em; }
+
+/* ── 章节 ── */
+section { margin-top: 54px; }
+.sec-head { display: flex; align-items: baseline; gap: 12px; }
+.sec-head .ts { font: 600 12px/1.6 var(--mono); color: var(--accent); font-variant-numeric: tabular-nums; }
+.sec-head .bar { flex: none; width: 26px; height: 1px; background: var(--rule); transform: translateY(-4px); }
+h2 { font-family: var(--serif-zh); font-weight: 700; font-size: 1.45rem; line-height: 1.4; margin: 0; text-wrap: balance; }
+h3 { font-family: var(--serif-zh); font-weight: 600; font-size: 1.09rem; line-height: 1.5; margin: 30px 0 10px; }
+p { margin: 14px 0 0; color: var(--ink2); }
+section > p:first-of-type { margin-top: 16px; }
+ul, ol { margin: 14px 0 0; padding-left: 1.35em; color: var(--ink2); }
+li { margin-top: 8px; }
+li::marker { color: var(--faint); font-family: var(--mono); font-size: .85em; }
+strong { color: var(--ink); font-weight: 600; }
+code { font: 400 .86em/1.5 var(--mono); background: var(--panel); border: 1px solid var(--rule); border-radius: 5px; padding: 1px 5px; color: var(--ink); }
+pre {
+  background: var(--code); color: var(--code-ink); border-radius: 10px;
+  padding: 16px 18px; margin: 18px 0 0; overflow-x: auto;
+  font: 400 13px/1.8 var(--mono);
+}
+pre code { background: none; border: 0; padding: 0; color: inherit; font: inherit; }
+.diagram { border: 1px solid var(--rule); }
+
+/* ── skill 血缘表 ── */
+.skills { display: grid; gap: 14px; margin-top: 18px; }
+.skill { border: 1px solid var(--rule); border-left: 3px solid var(--accent-dim); border-radius: 8px; padding: 14px 16px; background: var(--panel); }
+.skill b { display: block; font: 600 13px/1.5 var(--mono); color: var(--ink); letter-spacing: .02em; }
+.skill span { display: block; margin-top: 6px; font-size: .9375rem; line-height: 1.85; color: var(--muted); }
+
+/* ── 坑日志 ── */
+.pits { list-style: none; margin: 18px 0 0; padding: 0; counter-reset: pit; }
+.pits li { counter-increment: pit; border-top: 1px solid var(--rule); padding: 18px 0 4px; margin: 0; }
+.pits li::before {
+  content: "坑 " counter(pit); display: block; font: 600 11px/1 var(--mono);
+  letter-spacing: .12em; color: var(--accent); margin-bottom: 8px;
+}
+.pits .fix { display: block; margin-top: 6px; font-size: .9375rem; color: var(--muted); }
+
+blockquote {
+  margin: 26px 0 0; padding: 2px 0 2px 18px; border-left: 2px solid var(--accent);
+  color: var(--ink2); font-size: 1.0625rem; line-height: 1.95;
+}
+.foot {
+  margin-top: 60px; border-top: 1px solid var(--rule); padding-top: 20px;
+  font: 400 12.5px/1.9 var(--mono); color: var(--faint);
+}
+@media (max-width: 480px) {
+  body { font-size: 16px; padding-block: 36px 64px; }
+  .stats { grid-template-columns: repeat(2, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="doc">
+
+  <header>
+    <div class="eyebrow">AI学习的老章 · 技术复盘 · 2026-10</div>
+    <h1>把 19 个长视频做成一个"点得动"的学习网站</h1>
+    <p class="standfirst">整条流水线开源了:字幕校验、编号行翻译、画面绑定、验收 harness 与部署。让模型"总结"一个视频不难,难的是总结里的每一句话都能指回原片——而且指的位置是对的。</p>
+    <div class="chips">
+      <a class="chip" href="https://dankoe.zhanglearning.com/" target="_blank" rel="noopener noreferrer">线上站 dankoe.zhanglearning.com ↗</a>
+      <a class="chip" href="https://github.com/tjxj/dankoe-archive" target="_blank" rel="noopener noreferrer">开源仓库 tjxj/dankoe-archive ↗</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>19</b><span>视频 / 11.1 小时</span></div>
+      <div class="stat"><b>135,592</b><span>英文词数</span></div>
+      <div class="stat"><b>8,125</b><span>中英对齐句</span></div>
+      <div class="stat"><b>92/92</b><span>摘录命中时间轴</span></div>
+      <div class="stat"><b>108</b><span>无头 Chrome 断言</span></div>
+    </div>
+  </header>
+
+  <section>
+    <div class="sec-head"><span class="ts">00:00</span><span class="bar"></span><h2>先说做出来的是什么</h2></div>
+    <p>Dan Koe 的 19 个长视频(合计 11.1 小时、135,592 个英文词),被拆成了一个四层结构的学习档案站:</p>
+    <ol>
+      <li><strong>封面与原片入口</strong>:官方封面卡 + YouTube 官方嵌入播放器(不搬运视频文件);</li>
+      <li><strong>中英对照稿</strong>:逐句对齐,点任意一句,播放器跳到那一秒,字幕列表跟随播放滚动;</li>
+      <li><strong>英文原稿 / 中文译稿</strong>:去掉时间断行、可以连续阅读的长文,段首时间标记同样可点;</li>
+      <li><strong>图文总结</strong>:核心主张、主线卡片、知识点、时间线、原话摘录、行动清单——<strong>每一条都绑到视频里的真实画面或真实时间点</strong>,点图、点时间戳,直接跳回原片那一刻。</li>
+    </ol>
+    <p>第四层是重点,也是这篇文章想讲清楚的部分。做不到"指回原片",总结就只是又一篇读后感。</p>
+    <p>整条流水线已经开源,Python + 纯静态站,没有后端、没有前端构建链。下面把实现过程、踩过的坑、以及你换成自己喜欢的频道需要改什么,一次说完。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">00:48</span><span class="bar"></span><h2>它不是凭空来的:三个 skill 的接力</h2></div>
+    <p>这个站是我技能库里三个 skill 的交汇点加一次工程化加固。先交代血缘,后面的代码你才知道该去哪儿看:</p>
+    <div class="skills">
+      <div class="skill"><b>z-web-pack · 网页素材包采集(1-web-pack)</b><span>给一组同主题链接,它逐个读入口正文、正文里的高价值相关链接和配图,过滤导航和广告,打包成本地素材包——链接清单、阅读地图、媒体清单、正文 Markdown——供后续写文章直接用。关键纪律:发现视频链接只登记到媒体清单,不下载,下载交给下一位。公众号文章(包括这一篇)的素材都从这套包里来。</span></div>
+      <div class="skill"><b>z-video-downloader · 下载层</b><span>yt-dlp 的封装:断点续传、重试、字幕、封面、下载历史与报告,YouTube、B 站、视频号等都走它。本项目的视频与英文字幕文件就是按它的约定落盘的,连"403/429 多半是 yt-dlp 版本太旧而不是被封"这条教训也是从它那儿继承的。</span></div>
+      <div class="skill"><b>z-video-study-webpage-qwen · 处理逻辑的原型</b><span>本项目的逻辑母本——音频转录、时间轴抽帧、Qwen 多模态逐段理解、"关键知识点必须绑定到正确画面"这条硬要求、以及米色纸张的视觉模板,都出自它。它做的粒度是:一个视频,一页学习总结。</span></div>
+    </div>
+    <p><strong>本项目加的层</strong>:把"一个视频一页"推到频道级档案(19 个视频、四层结构、可筛选可搜索);把"绑定画面"从提示词要求推到工程化对齐(字幕完整性校验、摘录三级定位、时间线 snap、编号行翻译协议);把转录路径换成"校验通过就翻译";再加指纹幂等的增量处理、37 个单元测试 + 108 项无头 Chrome 断言的验收、以及一键部署。</p>
+    <p>一句话分工:<strong>skill 解决"能做出来",项目解决"能长期跑、能被测试、能交给别人"</strong>。技能定义在我自己的技能库里,管道代码在开源仓库里,两者对得上。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">02:10</span><span class="bar"></span><h2>流水线总览</h2></div>
+<pre class="diagram"><code>yt-dlp 下载视频+字幕
+      │
+      ▼
+字幕完整性校验 ──不达标──▶ 走转录兜底(本项目没用到)
+      │ 达标
+      ▼
+句子重组:18,188 条 cue → 8,125 个句子
+      ▼
+逐句翻译(编号行协议,DeepSeek-V4-Pro)
+      ▼
+均匀抽帧:每视频 15 帧
+      ▼
+分段视觉理解(Qwen3-VL-32B,6 段/视频)
+      ▼
+合成:结构化总结 JSON(DeepSeek-V4-Pro + thinking)
+      ▼
+Jinja2 渲染纯静态站 → 无头 Chrome 验收 → Cloudflare 部署</code></pre>
+    <p>每个阶段都有<strong>指纹幂等</strong>:输入没变就跳过。所以"加一个新视频"不是重跑全量,而是:</p>
+<pre><code># 把 mp4 + srt 按约定文件名丢进视频目录,然后:
+python3 run.py all     # 只处理新视频,其余全部跳过,最后自动 rebuild
+wrangler deploy        # 30 秒上线</code></pre>
+    <p>19 个视频的首次全量:视觉 108 次调用、合成 18 次调用,合计约 72.5 万 token,墙钟 53 分钟;之后的增量是秒级。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">03:30</span><span class="bar"></span><h2>几个值得抄走的决定</h2></div>
+
+    <h3>1. 有字幕就翻译,不转录——但先用数据确认"有字幕"是真的</h3>
+    <p>YouTube 自动字幕经常缺尾段、缺整段。所以在决定"跳过 ASR"之前,先量化校验每一条字幕:内部空洞数、尾部缺口、语速(词/分钟)三项指标,全部落在合理区间才允许走翻译路径,否则自动回退到转录。实测这 19 条:<strong>内部空洞 0 处,最差尾部缺口 0.8 秒(全长 1862 秒),语速 182–216 词/分</strong>——这才敢不转录。阈值是代码里的常量,不是口头约定;新视频进来自动过同一道检查。</p>
+
+    <h3>2. 对齐比生成重要:让每一句话都有坐标</h3>
+    <ul>
+      <li><strong>译文对齐</strong>:翻译走"编号行协议"——输入第 N 行,模型必须输出 <code>N 译文</code>。解析器有严格/宽松两套,宽松模式只接受"编号恰好等于期望值"的裸行,防止模型把译文里的数字(比如 "5 skills")误当成行号把整批错位。这个行为有单元测试锁着。</li>
+      <li><strong>摘录对齐</strong>:提示词要求 quote 逐字摘自字幕,渲染时三级回退定位:整句互相包含 → 开头 5 词锚 → 结尾 5 词锚;三级都失败就<strong>不显示时间戳</strong>——宁缺勿错。实测 92/92 条摘录全部定位成功,抽验 12/12 逐字命中字幕。</li>
+      <li><strong>时间线对齐</strong>:模型给的秒数是"印象中的秒数",渲染时统一 snap 到最近真实句首,保证"显示的时间 = 点过去的时间"。</li>
+    </ul>
+
+    <h3>3. 纯静态站:0 后端、0 构建链、0 托管费</h3>
+    <p>Jinja2 模板直接吐出 HTML,交互用原生 JS(页签、跟随滚动、跳转、复制原文+链接),样式一个 CSS 文件。托管在 Cloudflare 的静态资产上,绑了个次级域名。播放器一律 YouTube 官方嵌入——<strong>视频版权是别人的,站里一个视频字节都不放</strong>,只放自己的译文和总结。</p>
+
+    <h3>4. LLM 工程化的三个细节</h3>
+    <ul>
+      <li><strong>磁盘缓存</strong>:每次调用的指纹(模型+参数+prompt+输入哈希)落盘,重跑不花重复的钱;</li>
+      <li><strong>重试要认网络错误</strong>:只重试 429/5xx 是不够的,<code>requests.Timeout</code>、<code>ConnectionError</code> 同样要进重试队列——这是我第一次 smoke test 挂着之后修的;</li>
+      <li><strong>超时是给思考留的</strong>:合成阶段开着 thinking 还要吐 16k token 的 JSON,默认 300s 不够,实测超时一次后调到 900s。超时参数不进缓存指纹,改超时不会废掉已有缓存。</li>
+    </ul>
+
+    <h3>5. 给"诚实"留一个槽位</h3>
+    <p>总结里有置信度标签(高/中/待核验),还有一个"局限与待核验"章节,由模型自己声明:哪条是低置信推断、哪段其实是广告口播、哪个画面编号是猜的。<strong>让模型交代自己不确定的地方,比让它假装全知有用得多。</strong></p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">06:02</span><span class="bar"></span><h2>坑日志:对做同类项目的人最值钱的部分</h2></div>
+    <ol class="pits">
+      <li><strong>CSS <code>aspect-ratio</code> 会输给 HTML 的 <code>height="405"</code> 属性</strong>。属性是表现层提示,作者 CSS 不写 <code>height</code> 就赢不过它,16:9 的帧图被撑成竖图。<span class="fix">修:凡是模板上写了 width/height 的 <code>&lt;img&gt;</code>,CSS 必须显式 <code>height: auto</code>。</span></li>
+      <li><strong>作者样式的 <code>display</code> 会赢过 UA 的 <code>[hidden]{display:none}</code></strong>。我给"播放器加载失败"的降级罩写了 <code>display:grid</code>,忘了补 <code>[hidden]{display:none}</code>,结果罩子从首字节起永远盖在播放器上——更阴的是它把"播放器其实是好的"也一起盖住了,截图里只以为是无头环境加载失败。<span class="fix">修:补 <code>[hidden]</code> 规则,并给验收加 computed-style 探针。</span></li>
+      <li><strong>无头 Chrome 会在加载后期补发一次 <code>prefers-color-scheme</code> 的 change 事件</strong>。"跟随系统"监听器把 <code>?theme=dark</code> 强制主题抢了回去,整页变浅,而所有 DOM 断言全绿。<span class="fix">修:change 回调跳过强制态;验收加 PNG 像素级断言(解导航栏底色点),暗色才算真的验过。</span></li>
+      <li><strong>模型把列表字段返回成一整串字符串时,Jinja 会逐字迭代</strong>。某个视频的 caveats 是 str,页面上排成一列竖字,页面虚高 8000px。<span class="fix">修:渲染层按行拆 + 写入时规整 + 回归测试,三层。</span></li>
+      <li><strong><code>--virtual-time-budget</code> 会在子帧网络请求挂起时停表</strong>:8 秒兜底定时器在截图窗口里可能根本没跑,你看到的 DOM 是"更早"的状态。<span class="fix">修:判断定时器有没有执行,不能靠截图里的文案。</span></li>
+    </ol>
+    <p>这五条有一个共同点:<strong>自动化断言全绿,页面其实是坏的</strong>。所以验收必须是"断言 + 像素 + 人眼"三层:37 个单元测试锁回归,无头 Chrome 跑 108 项断言(HTTP 全 200、DOM 关键节点、console 过滤后零报错、computed style 探针、暗色像素),再对四档视口 + 暗色的截图<strong>逐张人眼看</strong>——自动化证明没崩,眼睛证明好看。线上部署完,同一套验收对着真实 URL 再跑一遍。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">08:15</span><span class="bar"></span><h2>做一个你自己喜欢的版本</h2></div>
+    <p>仓库里是完整可跑的流水线,换频道只需要改配置:</p>
+<pre><code>git clone https://github.com/tjxj/dankoe-archive &amp;&amp; cd dankoe-archive
+pip install jinja2 requests              # 第三方依赖就这两个(SRT 解析是自己写的)
+
+export OPENAI_API_KEY=...                # 任何 OpenAI 兼容接口都行
+# config.json 里换模型:翻译/合成用一个强推理模型,视觉用一个 VL 模型
+
+# 1) 用 yt-dlp 把目标频道的视频和英文字幕下下来(版本要新,老版本会 403)
+# 2) 跑全链:校验 → 重组 → 翻译 → 抽帧 → 视觉 → 合成 → 建站
+python3 run.py all
+# 3) 本地看一眼,然后部署
+python3 run.py serve                     # http://127.0.0.1:8765/
+wrangler deploy                          # Cloudflare 静态资产,免费额度很大</code></pre>
+    <p><code>config.json</code> 里能改的:模型名、并发、超时、抽帧密度、总结的详细程度。提示词在 <code>pipeline/summarize.py</code> 顶部,想加"逐章笔记""金句卡片""术语表"之类的层,照着自己加一个 section 即可——模板和渲染层都是按"总结里有什么就渲染什么"设计的,缺数据会自动降级成提示,不会崩。</p>
+    <p>成本参考:19 个视频、11.1 小时素材,视觉 + 合成合计约 72.5 万 token(SiliconFlow 计价),一次性;之后每加一个视频只花它自己那一份。翻译和合成都有磁盘缓存,改模板不花钱,改提示词只重跑合成。</p>
+    <p>如果你也用 Claude Code,还有个更细的入口:我技能库里的三个 skill 可以单独使——<code>z-video-downloader</code> 管下载、<code>z-video-study-webpage-qwen</code> 管单个视频的多模态分析、<code>z-web-pack</code> 管把同主题网页打成写作素材包。仓库里的流水线,就是把前两个频道化、工程化之后固化下来的版本;写配套文章时,素材包同样走 <code>z-web-pack</code>。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="ts">10:26</span><span class="bar"></span><h2>为什么值得做这件事</h2></div>
+    <p>AI 没有替我看视频——11 个小时我一分没少看。它做的是让"看过"留下痕迹:三个月后我想起某个论点,能在一秒内跳回他说那句话的那一帧,而不是重新 scrub 二十分钟进度条。</p>
+    <blockquote>总结谁都会生成,<strong>能指回原文的总结才是学习工具,指不回去的只是读后感</strong>。这条线,就是这个项目全部的技术含量所在。</blockquote>
+    <p>代码都在 <a href="https://github.com/tjxj/dankoe-archive" target="_blank" rel="noopener noreferrer">github.com/tjxj/dankoe-archive</a>,欢迎 fork 成你喜欢的频道的样子。做的过程中遇到问题,公众号「Ai学习的老章」后台留言。</p>
+  </section>
+
+  <div class="foot">
+    本站由 Ai学习的老章@公众号 制作 · 文章源文件在仓库 docs/write-tech.md · 2026-10-19
+  </div>
+
+</div>

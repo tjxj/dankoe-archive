@@ -35,6 +35,7 @@ from .common import (
 
 TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
 STATIC_DIR = Path(__file__).resolve().parent.parent / "site-static"
+DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 ASSET_NAMES = ("app.css", "app.js", "favicon.svg")
 
 CONF_LABEL = {"high": "高置信", "medium": "中置信", "low": "待核验"}
@@ -397,6 +398,11 @@ def copy_assets(cfg: dict[str, Any], views: list[VideoView], log: Log) -> dict[s
                     n_new += 1
                 else:
                     n_skip += 1
+
+    # 配套文章是手写 HTML（不进模板体系），随站一起发布到 /write-tech.html
+    article = DOCS_DIR / "write-tech.html"
+    if article.exists():
+        n_new += _copy_if_changed(article, root / "write-tech.html")
     return {"copied": n_new, "unchanged": n_skip, "missing": n_missing}
 
 
