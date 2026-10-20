@@ -92,8 +92,6 @@ class VideoView:
     duration_label: str = ""
     url: str = ""
     views: str = ""
-    local_file: str = ""
-    video_dir: str = ""
     description: str = ""
     chapters: list[dict[str, Any]] = field(default_factory=list)
     topics: list[str] = field(default_factory=list)
@@ -169,7 +167,6 @@ def build_video_view(
     summary: dict[str, Any] | None,
     frames: dict[str, dict[str, Any]],
     *,
-    video_dir_name: str,
     index_label: str = "",
 ) -> tuple[VideoView, dict[str, Any], list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]:
     """返回 (视图, 总结视图, 对照行, 英文段落, 中文段落)。"""
@@ -185,8 +182,6 @@ def build_video_view(
         duration_label=str(raw.get("duration_label") or seconds_to_label(float(raw.get("duration") or 0))),
         url=str(raw.get("url") or f"https://www.youtube.com/watch?v={raw.get('id')}"),
         views=human_count(raw.get("view_count")),
-        local_file=str(raw.get("local_file") or ""),
-        video_dir=video_dir_name,
         description=str(raw.get("description") or ""),
         chapters=[
             {
@@ -490,7 +485,6 @@ def build_site(cfg: dict[str, Any], log: Log, only: str = "") -> int:
     labels = {v["id"]: f"第 {i + 1} / {total} 个" for i, v in enumerate(chrono)}
 
     root = ensure_dir(site_dir(cfg))
-    video_dir_name = str(cfg.get("video_dir") or "")
 
     views: list[VideoView] = []
     pages: dict[str, dict[str, Any]] = {}
@@ -510,7 +504,7 @@ def build_site(cfg: dict[str, Any], log: Log, only: str = "") -> int:
 
         view, sview, lines, paras_en, paras_zh = build_video_view(
             raw, sentences, summary, frames,
-            video_dir_name=video_dir_name, index_label=labels.get(vid, ""),
+            index_label=labels.get(vid, ""),
         )
         views.append(view)
         pages[vid] = {"v": view, "s": sview, "lines": lines,

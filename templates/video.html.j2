@@ -68,12 +68,6 @@
         <a class="btn" href="{{ v.url }}" target="_blank" rel="noopener noreferrer">YouTube ↗</a>
       </div>
 
-      {% if v.local_file %}
-      <p class="mono faint" style="margin:12px 0 0;line-height:1.7;word-break:break-all">
-        本地文件：{{ v.video_dir }}/{{ v.local_file }}
-      </p>
-      {% endif %}
-
       {% if v.chapters %}
       <details class="chapters" id="chapters"{% if v.chapters|length <= 12 %} open{% endif %}>
         <summary>章节 · {{ v.chapters|length }}</summary>

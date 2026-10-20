@@ -332,7 +332,7 @@ def test_timeline_seconds_snap_to_real_sentence():
     summary = {"thesis": "x", "timeline": [{"title": "late", "seconds": 21.4},
                                            {"title": "early", "seconds": 9.9}]}
     _, s, *_ = rendermod.build_video_view(
-        _fake_raw(), sentences, summary, {}, video_dir_name="/v")
+        _fake_raw(), sentences, summary, {})
     assert [t["seconds"] for t in s["timeline"]] == [10.0, 20.0], s["timeline"]
     assert [t["time"] for t in s["timeline"]] == ["00:10", "00:20"]
 
@@ -353,7 +353,7 @@ def _fake_raw(vid="TEST123"):
 
 def test_build_video_view_without_any_data():
     v, s, lines, pe, pz = rendermod.build_video_view(
-        _fake_raw(), None, None, {}, video_dir_name="/videos")
+        _fake_raw(), None, None, {})
     assert v.id == "TEST123"
     assert v.has_transcript is False and v.has_summary is False
     assert s == {} and lines == [] and pe == [] and pz == []
@@ -370,7 +370,7 @@ def test_build_video_view_with_transcript():
         ]},
     ]}
     v, s, lines, pe, pz = rendermod.build_video_view(
-        _fake_raw(), sentences, None, {}, video_dir_name="/videos")
+        _fake_raw(), sentences, None, {})
     assert v.has_transcript and v.sentence_count == 2
     assert lines[0] == {"s": 0.0, "ts": "00:00", "en": "First sentence here.", "zh": "第一句。"}
     assert pe[0]["text"] == "First sentence here. Second sentence here."
@@ -388,7 +388,7 @@ def test_string_list_fields_are_split_by_line_not_char_iterated():
         "questions": "留给自己问的",
     }
     _, s, *_ = rendermod.build_video_view(
-        _fake_raw(), None, summary, {}, video_dir_name="/videos")
+        _fake_raw(), None, summary, {})
     assert s["caveats"] == ["局限一。", "局限二。"], s["caveats"]
     assert s["actions"] == ["只做一件事"]
     assert s["questions"] == [{"q": "留给自己问的", "why": ""}]
@@ -419,7 +419,7 @@ def test_build_video_view_maps_frame_ids():
     ]}
 
     v, s, lines, _, _ = rendermod.build_video_view(
-        _fake_raw(), sentences, summary, frames, video_dir_name="/videos")
+        _fake_raw(), sentences, summary, frames)
 
     assert v.sentence_count == 3
     assert s["knowledge_points"][0]["frame_file"] == "f03.jpg"
@@ -435,7 +435,7 @@ def test_build_video_view_maps_frame_ids():
 
 def test_build_video_view_drops_empty_summary():
     v, s, *_ = rendermod.build_video_view(
-        _fake_raw(), None, {"knowledge_points": [], "timeline": []}, {}, video_dir_name="/v")
+        _fake_raw(), None, {"knowledge_points": [], "timeline": []}, {})
     assert s == {} and v.has_summary is False
 
 
